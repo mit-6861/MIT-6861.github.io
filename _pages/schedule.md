@@ -4,28 +4,26 @@ title: Schedule
 permalink: /schedule
 ---
 ## UNIVERSITY BREAKS AND IMPORTANT DATES
-Please visit the [Harvard 10-year Calendar](https://registrar.fas.harvard.edu/ten-year-calendar) for the latest dates:
-- **Sept 1 (Wed)**: Semester begins
-- **Sept 6 (Mon)**: Labor Day (no classes)
-- **Oct 11 (Mon)**: Indigenous People's Day (no classes)
+Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) for the latest dates:
+- **Sept 7 (Wed)**: Semester begins
+- **Sept 16 (Fri)**: Last day for seniors and grad students to change H1 subjects to/from P/D/F
+- **Sept 23 (Fri)**: Student holiday (no classes)
+- **Oct 10 (Mon) - Oct 11 (Tues)**: Indigenous People's Day (no classes)
 - **Oct 20 (Wed)**: Kamala Harris' birthday (classes are held)
-- **Nov 11 (Thurs)**: Veteran's Day (classes are held)
-- **Nov 24 (Wed) - Nov 28 (Sun)**: Thanksgiving Break
-- **Dec 2 (Thurs)**: Last day of classes/lectures
-- **Dec 3 (Wed) - Dec 8 (Wed)**: Reading Period (no classes)
-- **Dec 9 (Thurs) - Dec 18 (Sat)**: Exam Period
+- **Nov 11 (Fri)**: Veteran's Day (no classes)
+- **Nov 23 (Wed)**: Drop date. Last day to cancel full-term subjects.
+- **Nov 24 (Thurs) - Dec 25 (Fri)**: Thanksgiving Break
+- **Dec 14 (Wed)**: Last day of classes
+- **Dec 16 (Fri) - Dec 22 (Thurs)**: Exam Period (no classes)
 
 ## OUR CLASS
-- Lectures are on **Tuesdays** and **Thursdays** at 9:45am-11:00am in SEC LL2.221
-	- first lecture is on **Sept 2 (Thurs)**. Mandatory attendance for anyone wanting to enroll.
-	- earlier lectures will mostly concern _Deep Learning models_
-	- later lectures will mostly concern _NLP Tasks_
-	- the last content-based lecture will be **Nov 11 (Thurs)**
-	- the **Exam** will be given during the following lecture time, **Nov 16 (Tues)**
-	- four lectures after this are designated for **Open Project Discussions**, whereby we will check-in with Research Project groups and offer assistance and feedback
-	- we will <span style="background-color: #FACCCC">not have class on Nov 25 (Thurs) and Dec 7 (Tues)</span>, due to university breaks
-	- **Final Presentations** (pre-recorded videos) will be on **Dec 9 (Thurs)**
-- ~8 unannounced **pop quizzes** will be issued, each of which in-class at the __beginning__ of a lecture.
+- Lectures are on **Tuesdays** and **Thursdays** at 11am-12:30am in 32.123
+	- first lecture is on **Sept 8 (Thurs)**.
+	- earlier lectures will mostly concern representation and _Deep Learning models_
+	- later lectures will mostly concern guest lectures about particular _NLP Problems/Tasks_
+	- the last content-based lecture will be **Dec 1 (Thurs)**
+	- we will <span style="background-color: #FACCCC">not have class on Oct 11 (Tues) and Nov 24 (Thurs)</span>, due to university breaks
+	- **Final Presentations** (pre-recorded videos) will be on **Dec 6 (Tues) and Dec 8 (Thurs)**
 - **Homeworks** will be released on **Tuesdays** and will be due two weeks later <span style="background-color: #FFFF00">(Mondays at 11:59pm EST).</span>
 - **Research Projects** will span 12 weeks of the semester, with several deliverables due throughout:
 	- Phase 1 is due Sept 30 (Thurs) @ 11:59pm EST
