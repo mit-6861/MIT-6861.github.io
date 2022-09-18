@@ -35,8 +35,8 @@ How can computers understand and leverage text data and human language? Natural 
 ## LOGISTICS
 ### LECTURE
 - Tuesdays and Thursdays @ 11am - 12:30pm in 32.123
-- Lectures are recorded
-- Attendance is *highly encouraged* to fasciliate an enriching learning environment; actively participating can only help your overall course grade in the event of a borderline situation.
+- Lectures are in-person
+- Attendance is *highly encouraged* to fasciliate an enriching learning environment for everyone; actively participating can only help your overall course grade in the event of a borderline situation.
 
 ### OFFICE HOURS
 - Coming Soon
@@ -47,7 +47,7 @@ How can computers understand and leverage text data and human language? Natural 
 - **Creating New Knowledge:** [Research Project](project): 50% (twelve weeks)
 
 ## QUICK ACCESS
-- [Canvas](https://canvas.mit.edu/courses/16573): homework assignments and some
+- [Canvas](https://canvas.mit.edu/courses/16573): homework assignments and course announcements
 - [Project Ideas (coming soon)](): on-going spreadsheet to collaboratively find and create research projects
 - [Emergency Helpline](mailto:nlp-staff-fa22@mit.edu): for private concerns, issues, and questions (not course content) 
 - [Supplemental Resources](supplemental): a compilation of useful, external resources
