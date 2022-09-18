@@ -17,18 +17,42 @@ How can computers understand and leverage text data and human language? Natural 
 <p></p>
 <table align="center" style="background-color:#FFFFFF" border="0px">
   <tr>
+    <td><img src="{{ site.baseurl }}/images/yoon_cropped.png" width="100" alt="Yoon Kim"/></td>
     <td><img src="{{ site.baseurl }}/images/chris_cropped.png" width="100" alt="Chris Tanner"/></td>
-    <td><img src="{{ site.baseurl }}/images/william_cropped.png" width="100" alt="William Tong"/></td>
-    <td><img src="{{ site.baseurl }}/images/alex_cropped.png" width="100" alt="Alexander Lin"/></td>
-    <td><img src="{{ site.baseurl }}/images/annie_cropped.png" width="100" alt="Annie Zhu"/></td>
-    <td><img src="{{ site.baseurl }}/images/richard_cropped.png" width="100" alt="Richard Qiu"/></td>
+    <td><img src="{{ site.baseurl }}/images/jeff_cropped.png" width="100" alt="Jeff Lai"/></td>
+    <td><img src="{{ site.baseurl }}/images/yilun_cropped.png" width="100" alt="Yilun Zhou"/></td>
+    <td><img src="{{ site.baseurl }}/images/saaketh_cropped.png" width="100" alt="Saaketh Vedantam"/></td>
   </tr>
   <tr>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">William Tong</a> (Instructor)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.linkedin.com/in/chriswtanner/">Chris Tanner</a> (Instructor)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.linkedin.com/in/wlt/">William Tong</a> (TF)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.linkedin.com/in/al5250/">Alexander Lin</a> (TF)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.linkedin.com/in/siye-annie-zhu/">Annie Zhu</a> (CA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.linkedin.com/in/richard-qiu/">Richard Qiu</a> (CA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Jeff Lai</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Yilun Zhou</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Saaketh Vedantam</a> (TA)</td>
+  </tr>
+  <tr>
+    <td><img src="{{ site.baseurl }}/images/will_cropped.png" width="100" alt="Will Chen"/></td>
+    <td><img src="{{ site.baseurl }}/images/charles_cropped.png" width="100" alt="Charles Comiter"/></td>
+    <td><img src="{{ site.baseurl }}/images/bowen_cropped.png" width="100" alt="Bowen Pan"/></td>
+    <td><img src="{{ site.baseurl }}/images/subha_cropped.png" width="100" alt="Subha Pushpita"/></td>
+    <td><img src="{{ site.baseurl }}/images/faraz_cropped.png" width="100" alt="Faraz Faruqi"/></td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Will Chen</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Charles Comiter</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Bowen Pan</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Subha Pushpita</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Faraz Faruqi</a> (TA)</td>
+  </tr>
+  <tr>
+    <td><img src="{{ site.baseurl }}/images/praneet_cropped.png" width="100" alt="Praneet Mekala"/></td>
+    <td><img src="{{ site.baseurl }}/images/thomas_cropped.png" width="100" alt="Thomas Pickering"/></td>
+    <td><img src="{{ site.baseurl }}/images/michael_cropped.png" width="100" alt="Michael Maune"/></td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Praneet Mekala</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Thomas Pickering</a> (WRAP)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Michael Maune</a> (WRAP)</td>
   </tr>
 </table>
 
