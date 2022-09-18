@@ -4,10 +4,11 @@ title: Home
 permalink: /
 ---
 ## OVERVIEW
-I'm very excited to create this **new graduate course in Fall 2021!** My aim is to make this course as inclusive, diversified, and open as possible, and I will co-list the course to several communities of students:
-- **AC295**: Topics in Applied Computation, for IACS' Master's students
-- **CS287r**: Deep Learning for NLP, for computer science concentrators
-- **CSCI E-115B Harvard Extension School**, for the general public all around the world (online)
+We're very excited to have you in class this semester! Our aim is to make this course as inclusive, diversified, and open as possible, and we will offer an undergraduate and graduate version of the course:
+- **6.8611**: Undergraduate version (CI-M component required)
+- **6.8610**: Graduate version (no CI-M option)
+
+Note: all Harvard students who wish to take the course must enroll in **6.8610.**.
 
 ### DESCRIPTION
 How can computers understand and leverage text data and human language? Natural language processing (NLP) addresses this question, and in this course students study the current, best approaches. This course provides students with a foundation of advanced concepts and **requires students to conduct significant research on an NLP project of their choosing,** culminating with a high-quality short paper (4 pages). Assessment also includes pop quizzes, homework assignments, and an exam. My goal is to help challenge each student to elicit one's best, and along the way for the course to be one of the most fun and rewarding educational experiences.
