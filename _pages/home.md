@@ -20,8 +20,8 @@ How can computers understand and leverage text data and human language? Natural 
     <td><img src="{{ site.baseurl }}/images/yoon_cropped.png" width="125px" alt="Yoon Kim"/></td>
     <td><img src="{{ site.baseurl }}/images/chris_cropped.png" width="125px" alt="Chris Tanner"/></td>
     <td><img src="{{ site.baseurl }}/images/jeff_cropped.png" width="100" alt="Jeff Lai"/></td>
-    <td><img src="{{ site.baseurl }}/images/yilun_cropped.png" width="100" alt="Yilun Zhou"/></td>
-    <td><img src="{{ site.baseurl }}/images/saaketh_cropped.png" width="100" alt="Saaketh Vedantam"/></td>
+    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Yilun Zhou"/></td>
+    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Saaketh Vedantam"/></td>
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">William Tong</a> (Instructor)</td>
@@ -31,8 +31,8 @@ How can computers understand and leverage text data and human language? Natural 
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Saaketh Vedantam</a> (TA)</td>
   </tr>
   <tr>
-    <td><img src="{{ site.baseurl }}/images/will_cropped.png" width="100" alt="Will Chen"/></td>
-    <td><img src="{{ site.baseurl }}/images/charles_cropped.png" width="100" alt="Charles Comiter"/></td>
+    <td><img src="{{ site.baseurl }}/images/william_cropped.png" width="100" alt="Will Chen"/></td>
+    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Charles Comiter"/></td>
     <td><img src="{{ site.baseurl }}/images/bowen_cropped.png" width="100" alt="Bowen Pan"/></td>
     <td><img src="{{ site.baseurl }}/images/subha_cropped.png" width="100" alt="Subha Pushpita"/></td>
     <td><img src="{{ site.baseurl }}/images/faraz_cropped.png" width="100" alt="Faraz Faruqi"/></td>
@@ -45,9 +45,9 @@ How can computers understand and leverage text data and human language? Natural 
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Faraz Faruqi</a> (TA)</td>
   </tr>
   <tr>
-    <td><img src="{{ site.baseurl }}/images/praneet_cropped.png" width="100" alt="Praneet Mekala"/></td>
+    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Praneet Mekala"/></td>
     <td><img src="{{ site.baseurl }}/images/thomas_cropped.png" width="100" alt="Thomas Pickering"/></td>
-    <td><img src="{{ site.baseurl }}/images/michael_cropped.png" width="100" alt="Michael Maune"/></td>
+    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Michael Maune"/></td>
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Praneet Mekala</a> (TA)</td>
