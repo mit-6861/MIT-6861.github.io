@@ -26,39 +26,37 @@ Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) fo
 	- **Final Presentations** (pre-recorded videos) will be on **Dec 6 (Tues) and Dec 8 (Thurs)**
 - **Homeworks** will be released on **Tuesdays** and will be due two weeks later <span style="background-color: #FFFF00">(Mondays at 11:59pm EST).</span>
 - **Research Projects** will span 12 weeks of the semester, with several deliverables due throughout:
-	- Phase 1 is due Sept 30 (Thurs) @ 11:59pm EST
-	- Phase 2 is due Oct 14 (Thurs) @ 11:59pm EST
-	- Phase 3 is due Oct 28 (Thurs) @ 11:59pm EST
-	- Phase 4 is due Nov 11 (Thurs) @ 11:59pm EST
-	- Phase 5 is due Nov 23 (Tues) @ 11:59pm EST
-	- **Final Presentations** (pre-recorded videos) will be on **Dec 9 (Thurs)**
+	- Phase 1 is due Oct 17 (Mon) @ 11:59pm EST
+	- Phase 2 is due Oct 31 (Mon) @ 11:59pm EST
+	- Phase 3 is due Nov 14 (Mon) @ 11:59pm EST
+	- Phase 4 is due Nov 28 (Mon) @ 11:59pm EST
+	- Phase 5 is due Dec 8 (Mon) @ 11:59pm EST
+	- **Final Presentations** (pre-recorded videos) will be on **Dec 5 (Mon), within Phase 5**
 
 ## LECTURES
-- Lecture 1: Introduction + Logistics [[pdf]](../lectures/01_Introduction.pdf) [[pptx]](../lectures/01_Introduction.pptx)
-- Lecture 2: Representations + BoW + TFIDF [[pdf]](../lectures/02_Representations.pdf) [[pptx]](../lectures/02_Representations.pptx)
-- Lecture 3: Language Modelling + ngrams [[pdf]](../lectures/03_Language_Modelling.pdf) [[pptx]](../lectures/03_Language_Modelling.pptx)
-- Lecture 4: Neural Language Models [[pdf]](../lectures/04_Neural_LMs.pdf) [[pptx]](../lectures/04_Neural_LMs.pptx)
-- Lecture 5: Recurrent Neural Networks [[pdf]](../lectures/05_Recurrent_Neural_Nets.pdf) [[pptx]](../lectures/05_Recurrent_Neural_Nets.pptx)
-- Lecture 6: LSTMs [[pdf]](../lectures/06_LSTMs.pdf) [[pptx]](../lectures/06_LSTMs.pptx)
-- Lecture 7: seq2seq [[pdf]](../lectures/07_seq2seq.pdf) [[pptx]](../lectures/07_seq2seq.pptx)
-- Lecture 8: Machine Translation [[pdf]](../lectures/08_Machine_Translation.pdf) [[pptx]](../lectures/08_Machine_Translation.pptx)
-- Lecture 9: Self-Attention [[pdf]](../lectures/09_Self_Attention.pdf) [[pptx]](../lectures/09_Self_Attention.pptx)
-- Lecture 10: Transformers [[pdf]](../lectures/10_Transformers.pdf) [[pptx]](../lectures/10_Transformers.pptx)
-- Lecture 11: BERT [[pdf]](../lectures/11_BERT.pdf) [[pptx]](../lectures/11_BERT.pptx)
-- Lecture 12: GPT-2 [[pdf]](../lectures/12_GPT.pdf) [[pptx]](../lectures/12_GPT.pptx)
-- Lecture 13: Embedded Bias (guest lecture) [[pdf]](../lectures/13_Embedding_Bias.pdf) [[pptx]](../lectures/13_Embedding_Bias.pptx)
-- Lecture 14: Summarization [[pdf]](../lectures/14_Summarization.pdf) [[pptx]](../lectures/14_Summarization.pptx)
-- Lecture 15: Entity Linking [[pdf]](../lectures/15_Entity_Linking.pdf) [[pptx]](../lectures/15_Entity_Linking.pptx)
-- Lecture 16: Coreference Resolution [[pdf]](../lectures/16_Coreference_Resolution.pdf) [[pptx]](../lectures/16_Coreference_Resolution.pptx)
-- Lecture 17: Commonsense [[pdf]](../lectures/17_Commonsense.pdf)
-- Lecture 18: Adversarial NLP [[pdf]](../lectures/18_Adversarial_NLP.pdf) [[pptx]](../lectures/18_Adversarial_NLP.ppt\
-x)
-- Lecture 19: Interpretability and Probing [[pdf]](../lectures/19_Interpretability_and_Probing.pdf) [[pptx]](../lectures/19_Interpretability_and_Probing.ppt\
-x)
-- Lecture 20: Review [[pdf]](../lectures/20_Review.pdf) [[pptx]](../lectures/20_Review.ppt\
-x)
-- Lecture 21: Exam Study Session [[pdf]](../lectures/21_Sample_Question.pdf)
-
+- Lecture 1: Introduction + ML Basics (Logistics Regression; SGD) [[pdf]]() [[pptx]]()
+- Lecture 2: Classification (linear classifier; BoW; TFIDF) [[pdf]]() [[pptx]]()
+- Lecture 3: Word Representations (SVD; word2vec) [[pdf]]() [[pptx]]()
+- Lecture 4: Language Modelling (ngrams; MLP; RNN; LSTM) [[pdf]]() [[pptx]]()
+- Lecture 5: Attention [[pdf]]() [[pptx]]()
+- Lecture 6: Transformers + BERT [[pdf]]() [[pptx]]()
+- Lecture 7: BERT + Large LMs (few-shot/zero-shot) [[pdf]]() [[pptx]]()
+- Lecture 8: Graphical Models + HMMs [[pdf]]() [[pptx]]()
+- Lecture 9: CRF [[pdf]]() [[pptx]]()
+- Lecture 10: On Doing Research [[pdf]]() [[pptx]]()
+- Lecture 11: Trees [[pdf]]() [[pptx]]()
+- Lecture 12: Latent Variables [[pdf]]() [[pptx]]()
+- Lecture 13: Interpretability [[pdf]]() [[pptx]]()
+- Lecture 14: Speech (Part I) [[pdf]]() [[pptx]]()
+- Lecture 15: Speech (Part II) [[pdf]]() [[pptx]]()
+- Lecture 16: Working Through an NLP Problem: Coreference [[pdf]]() [[pptx]]()
+- Lecture 17: Ethics and NLP [[pdf]]() [[pptx]]()
+- Lecture 18: Human Language Processing [[pdf]]() [[pptx]]()
+- Lecture 19: Language and Grounding [[pdf]]() [[pptx]]()
+- Lecture 20: NLP + Finance [[pdf]]() [[pptx]]()
+- Lecture 21: Clinical NLP [[pdf]]() [[pptx]]()
+- Lecture 22: Guest Lecture [[pdf]]() [[pptx]]()
+- Lecture 23: Recap / Conclusion / Future of NLP [[pdf]]() [[pptx]]()
 
 ## SPREADSHEET FORMAT
 - The `HW #` column denotes the release and due dates. All due dates are Monday @ 11:59pm (EST). All releases will be on Tuesday.
