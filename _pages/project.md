@@ -156,8 +156,8 @@ You will start new sections titled **Models** and/or **Experiments**. Specifical
 ### SELF-/PEER- EVALUATION (5%):
 Same as the previous self-/peer- evaluation, but you will evaluate the status since the last evaluation (3 weeks ago).
 
-### PHASE 4: FINAL DELIVERABLES (30%)
-#### 1. PAPER + IMPACT STATEMENT
+### PHASE 4: FINAL DELIVERABLES (32% IN TOTAL)
+#### 1. PAPER + IMPACT STATEMENT (22%)
 - Using the [ACL templates](https://www.overleaf.com/latex/templates/acl-rolling-review-template/jxbhdzhmcpdm), write a paper that is 5-8 pages (for groups of 3 students) or 6-8 pages (for groups of 4). This page limit excludes your required references and impact statement). To be clear, your references do not count toward the page limit.
 - Append your paper+references with an **Impact Statement** that details the possible ethical and societal ramifications of your project. The length should be at least 2 paragraphs. The [full expectations/details can be found here]().
 
@@ -173,9 +173,9 @@ You will be evaluated on:
 - clear figures with meaningful captions
 - your Impact Statement (e.g., is it thoughtful and reasonable?)
 
-**Submission:** Upload your entire 5-8 page paper (`.PDF`) to Canvas.
+**Submission:** Upload your entire paper (`.PDF`) with references and the impact statement to Canvas.
 
-#### 2. PRESENTATION (LIVE)
+#### 2. PRESENTATION (5%)
 - Your team is required to make presentation slides (Google Slides or Powerpoint)
 - You are expected to watch presentations of your fellow classmates, too.
 
@@ -187,7 +187,7 @@ That is, **your presentation grade will not include an evaluation of the technic
 
 **Submission:** Upload your slides to Canvas.
 
-#### 3. CODE
+#### 3. CODE (5%)
 Make a `.zip` file that includes:
 - your code
 - a short README file that details how to run your code
