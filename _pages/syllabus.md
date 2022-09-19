@@ -81,9 +81,9 @@ Throughout the semester, students will **work in groups of three** on a research
 - Phase 3: Baseline Results (ungraded)
 - Self-/peer- evaluation (5%)
 - Phase 4: FINAL DELIVERABLES:
-  - 5-8 page paper (20%)
+  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (20%)
   - presentation of your slides (5%)
-  - Code (5%)
+  - code (5%)
 
 [Further details are listed here](project) and will be discussed in class.
 
