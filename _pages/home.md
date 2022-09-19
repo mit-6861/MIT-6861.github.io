@@ -63,7 +63,11 @@ How can computers understand and leverage text data and human language? Natural 
 - Attendance is *highly encouraged* to facilitate an enriching learning environment for everyone; actively participating can only help your overall course grade in the event of a borderline situation.
 
 ### OFFICE HOURS
-- Coming Soon
+- **Monday @ 11am - 1pm**: Will and Jeff (location TBD)
+- **Monday @ 4pm - 6pm**: Saaketh and Bowen (location TBD)
+- **Wednesday @ 4pm - 6pm**: Praneet and Charles (location TBD)
+- **Wednesday @ 6pm - 7pm**: Subha Pushpita (via Zoom)
+- **Friday @ 3pm - 5pm**: Faraz and Yilun (location TBD)
 
 ### GRADING
 - **Foundation:** Guest Lecture Write-ups: 10%
