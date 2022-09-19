@@ -60,7 +60,7 @@ How can computers understand and leverage text data and human language? Natural 
 ### LECTURE
 - Tuesdays and Thursdays @ 11am - 12:30pm in 32.123
 - Lectures are in-person
-- Attendance is *highly encouraged* to facilitate an enriching learning environment for everyone; actively participating can only help your overall course grade in the event of a borderline situation.
+- Attendance and active participation is *highly encouraged* to facilitate an enriching learning environment for everyone
 
 ### OFFICE HOURS
 - **Monday @ 11am - 1pm**: Will and Jeff (location TBD)
