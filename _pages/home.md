@@ -60,13 +60,13 @@ How can computers understand and leverage text data and human language? Natural 
 ### LECTURE
 - Tuesdays and Thursdays @ 11am - 12:30pm in 32.123
 - Lectures are in-person
-- Attendance is *highly encouraged* to fasciliate an enriching learning environment for everyone; actively participating can only help your overall course grade in the event of a borderline situation.
+- Attendance is *highly encouraged* to facilitate an enriching learning environment for everyone; actively participating can only help your overall course grade in the event of a borderline situation.
 
 ### OFFICE HOURS
 - Coming Soon
 
 ### GRADING
-- **Foundation:** Guest Lecture Write-ups: 10% (during lecture for in-person students)
+- **Foundation:** Guest Lecture Write-ups: 10%
 - **Foundation & Application:** Homework assignments: 40% (3 HWs, two weeks for each)
 - **Creating New Knowledge:** [Research Project](project): 50% (twelve weeks)
 
