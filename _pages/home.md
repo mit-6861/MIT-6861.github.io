@@ -21,7 +21,7 @@ How can computers understand and leverage text data and human language? Natural 
     <td><img src="{{ site.baseurl }}/images/chris_cropped.png" width="100" alt="Chris Tanner"/></td>
     <td><img src="{{ site.baseurl }}/images/jeff_cropped.png" width="100" alt="Jeff Lai"/></td>
     <td><img src="{{ site.baseurl }}/images/yilun_cropped.png" width="100" alt="Yilun Zhou"/></td>
-    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Saaketh Vedantam"/></td>
+    <td><img src="{{ site.baseurl }}/images/saaketh_cropped.png" width="100" alt="Saaketh Vedantam"/></td>
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Yoon Kim</a> (Instructor)</td>
@@ -32,7 +32,7 @@ How can computers understand and leverage text data and human language? Natural 
   </tr>
   <tr>
     <td><img src="{{ site.baseurl }}/images/william_cropped.png" width="100" alt="Will Chen"/></td>
-    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Charles Comiter"/></td>
+    <td><img src="{{ site.baseurl }}/images/charles_cropped.png" width="100" alt="Charles Comiter"/></td>
     <td><img src="{{ site.baseurl }}/images/bowen_cropped.png" width="100" alt="Bowen Pan"/></td>
     <td><img src="{{ site.baseurl }}/images/subha_cropped.png" width="100" alt="Subha Pushpita"/></td>
     <td><img src="{{ site.baseurl }}/images/faraz_cropped.png" width="100" alt="Faraz Faruqi"/></td>
