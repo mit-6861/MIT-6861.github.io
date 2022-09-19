@@ -4,7 +4,10 @@ title: Research Project
 permalink: /project
 ---
 
-You will work in **groups of three or four** (some exceptions to group size will be permitted) on a custom research project of your choosing. The project will span 12 weeks of the semester and will result in: (1) a high-quality, conference-style paper (5-8 pages for groups of 3; 6-8 pages for groups of 4. This page limit does not include your required references and the Impact Statement); (2) a short presentation of your work; and (3) the associated code to reproduce all work.
+You will work in **groups of three or four** (some exceptions to group size will be permitted) on a custom research project of your choosing. The project will span 12 weeks of the semester and will result in:
+- a high-quality, conference-style paper (5-8 pages for groups of 3; 6-8 pages for groups of 4. This page limit does not include your required references and the Impact Statement)
+- a short presentation of your work; and
+- the associated code to reproduce all work
 
 ## MOTIVATION
 We wish to provide students with not only a solid foundation of advanced concepts, but also the opportunity to conduct _research_ within the field of NLP. That is, students in this course will be expected to demonstrate:
