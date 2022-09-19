@@ -29,7 +29,7 @@ Obviously, teaching _how_ to conduct research is beyond the scope of any particu
 - not over-generalize or make bold claims beyond what its work demonstrates
 - summarize your work/findings to varying degrees and styles (via the Abstract, Introduction, and Conclusion)
 
-It is incredibly fun to brainstorm and try out/implement clever ideas you may have to a problem. As a consequence, it is natural to skimp on the literature review and to get excited about your own ideas. Don't fall into this trap, as you'll inevitably suffer the consequences in the long run. For example, it is a horrible experience to spend many weeks or months on a solution, just to later realize that it's already been tried and published. <span style="background-color: #FFFF00">Make sure you thoroughly read related works, as it can save you from unnecessary work and trouble.</span>
+It is incredibly fun to brainstorm and try out/implement clever ideas you may have to a problem. As a consequence, it is natural to skimp on the literature review and to get excited about your own ideas. **Don't fall into this trap, as you'll inevitably suffer the consequences in the long run.** For example, it is a horrible experience to spend many weeks or months on a solution, just to later realize that it's already been tried and published. <span style="background-color: #FFFF00">Make sure you thoroughly read related works, as it can save you from unnecessary work and trouble.</span>
 
 ### GOLD STANDARD
 The top NLP research conferences are:
@@ -115,44 +115,48 @@ NOTE: Research projects naturally evolve over time. So, if your project shifts g
   - "catch up" by re-submitting the previous phases
 - projects cannot change team members after Phase 1
 
-### PHASE 0: Individual IDEAS (3%)
-For this initial stage, each student is expected to 
+### PHASE 0: INDIVIDUAL IDEAS (3%)
+For this initial stage, each student is expected to generate an idea for a project. Full details will be provided in Canvas. In short, you need to succinctly list:
+- Your research question/project idea (~2 sentences)
+- Dataset(s) to be used (1 sentence)
+- Metrics to be used (1 sentence)
+- Ideas do you have for an initial approach or model (1-2 sentences)
+
+We will read through all of these ideas and help select the ones that are most well-framed and positioned for success. For example, we will filter out the ones that are too difficult or easy, along with ones that are inappropriate for any other reason.
+
+### FORMING TEAMS (UNGRADED):
+- If you are enrolled in 6.8611 and thus taking the CIM portion of the course, you must select team members that attend your own CIM session. We will provide a spreadsheet to assist with this. For your project, your team must select (and optionally enhance) one of your team member's ideas that were selected from PHASE 0. 
+- If you are *not* enrolled in a CIM portion of the course (i.e., all 6.8610 students), then you are permitted to select non-CIM teammates. We will provide a spreadsheet to assist with this. For your project, your team must select (and optionally enhance) one of your team member's ideas that were selected from PHASE 0.
+- If you wish for us to help you select teammates, we will be happy to do so. Please rank as many of the projects as possible (via a Google Form that we will provide), and we will help find the optimal student-to-project assignment so as to reach the maximum, global happiness.
 
 ### PHASE 1: PROPOSALS (5%)
-With your newly-formed teams, you will brainstorm research project ideas and write a 1-page proposal about one of them. Specifically, you must:
-- contribute a few research project ideas (e.g., 1-3) within the `Research Brainstorming` spreadsheet
-- within that spreadsheet's `Student Roster` tab, add your name (required) and any additional background information (optional) you'd like to share about yourself. This will help everyone balance their team as they're considering teammates
-- for one of your research ideas, write a 1-page summary that:
+With your newly-formed teams, you will refine your research project idea and write a 1-page proposal. Specifically, you must:
   - describes the problem in terms of why it's an important one (every published paper's abstract/intro accomplishes this. so, we're looking for something similar, not ground-breaking claims like how it will impact society)
   - lists a few (3-5) related papers and any commentary you may wish to include
   - details the measurement for success (e.g., BLEU score, F1 score, a novel comparison, etc)
-  - is there a dataset you have in mind?
-  - optionally describe a few ideas (1-2) you have for solving the problem
-- indicate in the `Research Brainstorming` spreadsheet which of your ideas you selected for your 1-page writeup.
+  - list the pertinent dataset(s)
+  - describe a few ideas (1-2) you have for approaching/solving the problem
 
-We'll provide feedback on your proposal, and we'll also help narrow down all projects to a list of just ~20 projects. 
+We'll provide feedback on your proposal. 
 
-### PHASE 2: ABSTRACT + RELATED WORKS + INTRODUCTION (5%)
-Here, you will form teams and you all will collectively refine your **Phase 1 Proposal** and write the first three sections of your research paper (using the LaTeX template):
-- Abstract
-- Related Works
-- Introduction
+### PHASE 2: RELATED WORKS + INTRODUCTION (UNGRADED)
+To help keep everyone on track, we will ask you to submit your paper, which should include a Related Works and Introduction.
 
-Since you are still becoming familiar with your project, the Related Works section doesn't have to be perfect or exhaustive yet. The expectation is that you've clearly identified the most similar works and the broader, tangential scope of related works. Likewise, the Introduction should clearly introduce and describe your problem. I expect this section to improve significantly over time, but for now it should be well-organized, such that any outsider could easily follow and digest your problem and the scope of it.
+Since you are still becoming familiar with your project, the Related Works section doesn't have to be perfect or exhaustive yet. The expectation is that you've clearly identified the most similar works and the broader, tangential scope of related works. Likewise, the Introduction should clearly introduce and describe your problem. We expect this section to improve significantly over time, but for now it should be well-organized, such that any outsider could easily follow and digest your problem and the scope of it.
 
-### PHASE 3: BASELINES (10%)
-You will improve your Abstract, Related Works, and Introduction, while incorporating feedback from Phase 2. Additionally, you will start new sections titled **Models** and **Experiments**. Specifically, you are expected to explain your system in any way you see fit, which is _usually_ in a section titled **Models** or Methodology. Your experiments section should describe your exact setup, along with your baseline model's results (usually in a sub-section title Results). Again, it is okay if these results aren't good yet, as nobody can perfectly predict the outcome. This is the nature of science and research. However, we do expect to see a reasonable approach for a baseline model, one that is not expected to perform very well but is a simple yet sensible initial approach to the problem. As a reminder, baseline results are critical to your work as they will help inform you of future directions to take, and they will serve as a reference point for your later results. That is, if you later develop a complicated, technical solution, how should one interpret its results? How will we know if its particular accuracy score is actually good? The baseline model provides that contrast and puts all future experiments into perspective.
+### SELF-/PEER- EVALUATION (5%):
+We want to make sure every team member fairly contibutes. People rarely deliberately choose to be a bad team member; it's usually by accident due to poorly communicated expectations. To help with this communication and accountability, each student is required to privately complete a Google Form that asks one to rate oneself and their teammates. This is your chance to reflect on what is working well, what could be improved, and to let us know of any issues so that we can help out.
 
-### PHASE 4: HEAVY EXPERIMENTATION + CHECK-IN (0%)
-Before the Phase 4 deadline, update us on your progress via: (1) submitting on Canvas your current working draft of your paper; and (2) speaking to us in Office Hours. You do not need to add any new sections to your paper, such as Discussion or Conclusions. This is because we want to ensure you spend sufficient time on your actual model, results, and refining the current contents of your paper.
+### PHASE 3: BASELINES (UNGRADED)
+You will start new sections titled **Models** and/or **Experiments**. Specifically, you are expected to explain your system in any way you see fit, which is _usually_ in a section titled **Models** or Methodology. Your experiments section should describe your exact setup, along with your baseline model's results (usually in a sub-section title Results). Again, it is okay if these results aren't good yet, as nobody can perfectly predict the outcome. This is the nature of science and research. However, we do expect to see a reasonable approach for a baseline model, one that is not expected to perform very well but is a simple yet sensible initial approach to the problem. As a reminder, baseline results are critical to your work as they will help inform you of future directions to take, and they will serve as a reference point for your later results. That is, if you later develop a complicated, technical solution, how should one interpret its results? How will we know if its particular accuracy score is actually good? The baseline model provides that contrast and puts all future experiments into perspective.
 
-### PHASE 5: HEAVY EXPERIMENTATION + CHECK-IN (0%)
-Before the Phase 5 deadline, update us on your progress via: (1) submitting on Canvas your current working draft of your paper; and (2) speaking to us in Office Hours or during class time. You do not need to add any new sections to your paper, such as Discussion or Conclusions. This is because we want to ensure you spend sufficient time on your actual model, results, and refining the current contents of your paper.
+### SELF-/PEER- EVALUATION (5%):
+Same as the previous self-/peer- evaluation, but you will evaluate the status since the last evaluation (3 weeks ago).
 
-### FINAL DELIVERABLES (30%)
+### PHASE 4: FINAL DELIVERABLES (30%)
 #### 1. PAPER + IMPACT STATEMENT
-- Using the [ACL templates](https://2021.aclweb.org/calls/papers/#paper-submission-and-templates), write a short paper that is exactly 4 pages (when excluding your references and impact statement). To be clear, your references do not count toward this 4-page requirement. So, your paper will likely be 5 pages in total length when you count the references.
-- Append your paper+references with an **Impact Statement** that details the possible ethical and societal ramifications of your project. The length should be at least 2 paragraphs. The [full expectations/details can be found here](https://docs.google.com/document/d/1OiDYo0cRj1ybe0n6-4TS7jWlZBNPzxHRBRN3_DsJsIs/edit?usp=sharing), which is also used for my IACS Master's Capstone Research course. This may bring your total page count to 6 pages.
+- Using the [ACL templates](https://2021.aclweb.org/calls/papers/#paper-submission-and-templates), write a paper that is 5-8 pages (when excluding your references and impact statement). To be clear, your references do not count toward the page limit.
+- Append your paper+references with an **Impact Statement** that details the possible ethical and societal ramifications of your project. The length should be at least 2 paragraphs. The [full expectations/details can be found here]().
 
 You will be evaluated on:
 - all technical aspects of your research, ensuring that you:
@@ -166,19 +170,19 @@ You will be evaluated on:
 - clear figures with meaningful captions
 - your Impact Statement (e.g., is it thoughtful and reasonable?)
 
-**Submission:** Upload your entire 5-6 page paper (`.PDF`) to Canvas.
+**Submission:** Upload your entire 5-8 page paper (`.PDF`) to Canvas.
 
-#### 2. PRESENTATION (PRE-RECORDED)
-- Your team should make slides or a poster, whichever you prefer.
-- Record your team giving a presentation of it. We recommend using Zoom, due to its ease of presenting/recording. <span style="background-color: #FFFF00"><b>There is a strict maximum limit of 8-minutes!</b></span> If you exceed 8-minutes or speed up the recording (e.g., 1.25x), we will deduct 50% from the maximum presentation grade, meaning the most you can earn is 2.5% of your total course grade instead of 5%. This is strict because we need to present your video during the final class session, and any prolonged or sped-up videos will only hinder the final showcase. It is obvious and distracting when you speed up your video, if even only a little bit. Do not do this.
+#### 2. PRESENTATION (LIVE)
+- Your team is required to make presentation slides (Google Slides or Powerpoint)
+- You are expected to watch presentations of your fellow classmates, too.
 
 You will be evaluated solely on:
-- the clarity and narrative of your poster or slides
-- the clarity of your presentation 
+- the clarity and narrative of your slides
+- the clarity of your presentation
 
 That is, **your presentation grade will not include an evaluation of the technical aspects** of your project. That would be redundant.
 
-**Submission:** Upload (a) your slides or poster; and (b) your video to Canvas.
+**Submission:** Upload your slides to Canvas.
 
 #### 3. CODE
 Make a `.zip` file that includes:
