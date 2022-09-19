@@ -33,29 +33,29 @@ The main delivery of information will be via **Lectures**, which will occur ever
 ### LECTURES
 Every class session will contain a lecture. Lectures will concern:
 
-Lecture 1: Introduction + ML Basics (Logistics Regression; SGD)
-Lecture 2: Classification (linear classifier; BoW; TFIDF)
-Lecture 3: Word Representations (SVD; word2vec) [pdf]
-Lecture 4: Language Modelling (ngrams; MLP; RNN; LSTM)
-Lecture 5: Attention
-Lecture 6: Transformers + BERT
-Lecture 7: BERT + Large LMs (few-shot/zero-shot)
-Lecture 8: Graphical Models + HMMs
-Lecture 9: CRF
-Lecture 10: On Doing Research
-Lecture 11: Trees
-Lecture 12: Latent Variables
-Lecture 13: Interpretability
-Lecture 14: Speech (Part I)
-Lecture 15: Speech (Part II)
-Lecture 16: Working Through an NLP Problem: Coreference
-Lecture 17: Ethics and NLP
-Lecture 18: Human Language Processing
-Lecture 19: Language and Grounding
-Lecture 20: NLP + Finance
-Lecture 21: Clinical NLP
-Lecture 22: Guest Lecture
-Lecture 23: Recap / Conclusion / Future of NLP
+- Lecture 1: Introduction + ML Basics (Logistics Regression; SGD)
+- Lecture 2: Classification (linear classifier; BoW; TFIDF)
+- Lecture 3: Word Representations (SVD; word2vec) [pdf]
+- Lecture 4: Language Modelling (ngrams; MLP; RNN; LSTM)
+- Lecture 5: Attention
+- Lecture 6: Transformers + BERT
+- Lecture 7: BERT + Large LMs (few-shot/zero-shot)
+- Lecture 8: Graphical Models + HMMs
+- Lecture 9: CRF
+- Lecture 10: On Doing Research
+- Lecture 11: Trees
+- Lecture 12: Latent Variables
+- Lecture 13: Interpretability
+- Lecture 14: Speech (Part I)
+- Lecture 15: Speech (Part II)
+- Lecture 16: Working Through an NLP Problem: Coreference
+- Lecture 17: Ethics and NLP
+- Lecture 18: Human Language Processing
+- Lecture 19: Language and Grounding
+- Lecture 20: NLP + Finance
+- Lecture 21: Clinical NLP
+- Lecture 22: Guest Lecture
+- Lecture 23: Recap / Conclusion / Future of NLP
 
 ### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (30%)</font>
 There will be three equally-weighted, **individual** homework assignments. See the Collaboration Policy below for details. **Students will have a total of three free late days to use throughout the semester without any penalty.** NOTE: valid excuses (e.g., medical excuses) do not count toward your three allotted “free” late days. <span style="background-color: #FFFF00">Any late days used beyond these three will result in a deduction of 10 points per day.</span>
