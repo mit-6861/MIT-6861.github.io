@@ -75,13 +75,14 @@ Although we don't grade your reading of research papers, you should be heavily s
 Throughout the semester, students will **work in groups of three** on a research project of their choosing. To help facilitate ideas for projects, we will maintain an on-going, collaborative list from all students.
 
 **Project assessment (percentages listed below are out of the total course grade):**
+- Phase 0: Individual Ideas (3%)
 - Phase 1: Proposal (5%)
 - Phase 2: Related Work + Introduction (ungraded)
 - Self-/peer- evaluation (5%)
 - Phase 3: Baseline Results (ungraded)
 - Self-/peer- evaluation (5%)
 - Phase 4: FINAL DELIVERABLES:
-  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (20%)
+  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (22%)
   - presentation of your slides (5%)
   - code (5%)
 
