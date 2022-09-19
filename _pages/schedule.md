@@ -61,8 +61,8 @@ x)
 
 
 ## SPREADSHEET FORMAT
-- The `HW #` column denotes which lectures are eligible for comprising the content for each homework (i.e., each homework encompasses four lectures)
-- Lecture topics with a white background represent foundational content and Deep Learning models
-- Lecture topics with a gray background represent NLP tasks
-- Lecture topics with an orange background represent guest lectures
-<iframe width='100%' height='740' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS1rNganPj38ckgRQC7nLgzkMqRiqGED8unwvw2PSWm970u8aFThOrXWsNA91FY_R4PAtPsETxe4hZC/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+- The `HW #` column denotes the release and due dates. All due dates are Monday @ 11:59pm (EST). All releases will be on Tuesday.
+- Lecture `Topics` with a white background represent foundational content and Deep Learning models
+- Lecture `Topics` with a light gray background represent important NLP tasks/problems
+- `Lecturers` with yellow backgrounds represent guest lectures
+<iframe width='100%' height='740' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTghXeq-z4CFVYMiiynKOK0S9pVDiknNF5FRJ3DsHgG1sOvNjeEqAKsMYqmnRNO2Iq-PJH9mDkey4R/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
