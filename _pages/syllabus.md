@@ -6,7 +6,7 @@ permalink: /syllabus
 ## INTRODUCTION
 Welcome to <font color="#3778AE">6.861*</font>!
 
-Our world is clearly inundated with digitized information nowadays, most of which is text (e.g., webpages, social media posts, news articles, long-format stories, etc). How can we use computers to “understand”, process, and leverage this information to perform meaningful tasks? **Natural Language Processing (NLP)** is concerned with exactly this. This course will provide you with the opportunity to learn the latest, advanced **machine learning/ deep learning** approaches to solve the most popular and powerful NLP tasks. Further, a core component of the course will concern research, as you’ll produce an **original research project** while working in groups of three students.
+Our world is clearly inundated with digitized information nowadays, most of which is text (e.g., webpages, social media posts, news articles, long-format stories, etc). How can we use computers to “understand”, process, and leverage this information to perform meaningful tasks? **Natural Language Processing (NLP)** is concerned with exactly this. This course will provide you with the opportunity to learn the latest, advanced **machine learning/ deep learning** approaches to solve the most popular and powerful NLP tasks. Further, a core component of the course will concern research, as you’ll produce an **original research project** while working in groups of 3-4 students.
 
 ## LEARNING OBJECTIVES
 By the end of the course, you will be able to:
@@ -28,33 +28,33 @@ By the end of the course, you will be able to:
 You will program using (a) **Python** and (b) **PyTorch**, extensively. If you are not already familiar with PyTorch, you will be expected to learn it on your own. We will also make use of Python libraries such as **NumPy** and **Scikits-learn**.
 
 ## COURSE STRUCTURE
-The main delivery of information will be via **Lectures**, which will occur every time class meets (aside from Research Project presentations). Your learning will be assessed via three <font color="#5B90E0"><b>homework assignments</b></font>, guest lecture write-ups, and a significant <font color="#4ECD59"><b>research project (in groups of three students)</b></font>. Your research project will require you to read/skim dozens of research papers on your own, based on your interests.
+The main delivery of information will be via **Lectures**, which will occur every time class meets (aside from Research Project presentations). Your learning will be assessed via three <font color="#5B90E0"><b>homework assignments</b></font>, guest lecture write-ups, and a significant <font color="#4ECD59"><b>research project (in groups of 3-4 students)</b></font>. Your research project will require you to read/skim dozens of research papers on your own, based on your interests.
 
 ### LECTURES
 Every class session will contain a lecture. Lectures will concern:
 
 - Lecture 1: Introduction + ML Basics (Logistics Regression; SGD)
-- Lecture 2: Classification (linear classifier; BoW; TFIDF)
-- Lecture 3: Word Representations (SVD; word2vec) [pdf]
-- Lecture 4: Language Modelling (ngrams; MLP; RNN; LSTM)
-- Lecture 5: Attention
-- Lecture 6: Transformers + BERT
-- Lecture 7: BERT + Large LMs (few-shot/zero-shot)
-- Lecture 8: Graphical Models + HMMs
-- Lecture 9: CRF
-- Lecture 10: On Doing Research
-- Lecture 11: Trees
-- Lecture 12: Latent Variables
-- Lecture 13: Interpretability
-- Lecture 14: Speech (Part I)
+- Lecture 2: Text Classification (linear classifier; BoW; TFIDF)
+- Lecture 3: Word Representations (matrix factorization; word2vec)
+- Lecture 4: Language Modelling (MLP; RNN)
+- Lecture 5: Attention (Machine Translation)
+- Lecture 6: Transformers (contextualized word representations; BERT) 
+- Lecture 7: Large Language Models
+- Lecture 8: Structured Models 1 (Hidden Markov Models) 
+- Lecture 9: Structured Models 2 (CRF)
+- Lecture 10: Doing Research
+- Lecture 11: Structured Models 3 (Trees)
+- Lecture 12: Structured Models 4 (Latent Variable Models)
+- Lecture 13: Model Interpretability
+- Lecture 14: Speech (Part I) 
 - Lecture 15: Speech (Part II)
 - Lecture 16: Working Through an NLP Problem: Coreference
-- Lecture 17: Ethics and NLP
-- Lecture 18: Human Language Processing
-- Lecture 19: Language and Grounding
-- Lecture 20: NLP + Finance
-- Lecture 21: Clinical NLP
-- Lecture 22: Guest Lecture
+- Lecture 17: Guest lecture: Ethics and NLP
+- Lecture 18: Guest lecture: Human Language Processing
+- Lecture 19: Guest lecture: Language & Grounding
+- Lecture 20: Guest lecture: NLP in Finance
+- Lecture 21: Guest lecture: Clinical NLP
+- Lecture 22: Guest lecture: TBD
 - Lecture 23: Recap / Conclusion / Future of NLP
 
 ### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (40%)</font>
