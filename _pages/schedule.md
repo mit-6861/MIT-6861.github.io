@@ -23,16 +23,18 @@ Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) fo
 	- later lectures will mostly concern guest lectures about particular _NLP Problems/Tasks_
 	- the last content-based lecture will be **Dec 1 (Thurs)**
 	- we will <span style="background-color: #FACCCC">not have class on Oct 11 (Tues) and Nov 24 (Thurs)</span>, due to university breaks
-	- **Final Presentations** (pre-recorded videos) will be on **Dec 6 (Tues) and Dec 8 (Thurs)**
+	- **Final Presentations** will be on **Dec 6 (Tues) and Dec 8 (Thurs)**
 - **Homeworks** will be released on **Tuesdays** and will be due two weeks later <span style="background-color: #FFFF00">(Mondays at 11:59pm EST).</span>
 - **Research Projects** will span 12 weeks of the semester, with several deliverables due throughout:
+	- Phase 0 (individual ideas) is due Oct 5 (Wed) @ 11:59pm EST
+	- Phase 1 (forming groups) is due Oct 12 (Wed) @ 11:59pm EST
 	- Phase 1 is due Oct 17 (Mon) @ 11:59pm EST
 	- Phase 2 is due Oct 31 (Mon) @ 11:59pm EST
 	- self-/peer- evaluation due Oct 31 (Mon) @ 11:59pm EST
 	- Phase 3 is due Nov 14 (Mon) @ 11:59pm EST
 	- self-/peer- evaluation due Nov 21 (Mon) @ 11:59pm EST
-	- Phase 5 is due Dec 8 (Mon) @ 11:59pm EST
-	- **Final Presentations** (pre-recorded videos) will be on **Dec 5 (Mon), within Phase 5**
+	- **Final Presentations materials** are due on **Dec 5 (Mon), within Phase 4**
+	- Phase 4 (paper, impact statement, code) is due **Dec 9 (Fri)** @ 11:59pm EST
 
 ## LECTURES
 - Lecture 1: Introduction + ML Basics (Logistics Regression; SGD) [[pdf]]() [[pptx]]()
