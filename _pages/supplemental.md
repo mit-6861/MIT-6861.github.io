@@ -3,15 +3,14 @@ layout: page
 title: Supplemental Resources
 permalink: /supplemental
 ---
-My intent is for this course to be as self-contained as possible. Toward this goal, the **pop quizzes** and **exam** will only concern the content discussed during lectures. Likewise, the **homework assignments** will require you to apply the lecture content to solve problems, which involves significant _programming_. We expect students to already have a strong foundation in _programming_ and _machine learning_. <span style="background-color: #FFFF00">If you do not already know how to program in TensorFlow or PyTorch, you will need to pick it up as you go (as we will not have time in class to teach such).</span> These incredibly popular and useful frameworks make machine learning work significantly easier, so your experience with them will serve you well beyond this course. The **research project**, by design, will require you to take initiative to learn about NLP beyond what is covered in class, and to make a novel contribution.
+Our intent is for this course to be as self-contained as possible. Toward this goal, the **homework assignments** will require you to apply the lecture content to solve problems, which involves significant _programming_. We expect students to already have a strong foundation in _programming_ and _machine learning_. <span style="background-color: #FFFF00">If you do not already know how to program in PyTorch, you will need to pick it up as you go (as we will not have time in class to teach such).</span> These incredibly popular and useful frameworks make machine learning work significantly easier, so your experience with them will serve you well beyond this course. The **research project**, by design, will require you to take initiative to learn about NLP beyond what is covered in class, and to make a novel contribution.
 
-There is a wealth of resources available online to help you fill in any gaps and to supplement your knowledge. It can be incredibly fruitful to read/hear others discuss the same content that I cover in lecture, as it not only reiterates what you already know, but it can provide an additional perspective to help you master the material. **Thus, I highly encourage everyone to consider the following, phenomenal resources:**
+There is a wealth of resources available online to help you fill in any gaps and to supplement your knowledge. It can be incredibly fruitful to read/hear others discuss the same content that we cover in lecture, as it not only reiterates what you already know, but it can provide an additional perspective to help you master the material. **Thus, we highly encourage everyone to consider the following, phenomenal resources:**
 
 ## BOOKS
 ### NLP
 - **[Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)** by Jurafsky and Martin. 2020.
 - [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf) by Eisenstein. 2018.
-- _Introduction to Deep Learning_ by my PhD adviser Eugene Charniak (hardcopy. not free)
 
 ### MACHINE LEARNING
 - **[Dive into Deep Learning](https://d2l.ai/)** by Zhang et al. 2020.
