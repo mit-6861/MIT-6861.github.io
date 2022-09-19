@@ -53,7 +53,7 @@ In this course, we aim to provide as much structure and guidance as possible so 
 - Phase 3: Baseline Results (ungraded)
 - Check-in: self-/peer- evaluation (5%)
 - Phase 4: FINAL DELIVERABLES:
-  - 5-8-page paper, plus your References and Impact Statement (20%)
+  - research paper, plus your References and Impact Statement (20%)
   - presentation of your slides (5%)
   - Code with instructions on how to run it (5%)
 
