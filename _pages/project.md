@@ -158,7 +158,7 @@ Same as the previous self-/peer- evaluation, but you will evaluate the status si
 
 ### PHASE 4: FINAL DELIVERABLES (30%)
 #### 1. PAPER + IMPACT STATEMENT
-- Using the [ACL templates](https://2021.aclweb.org/calls/papers/#paper-submission-and-templates), write a paper that is 5-8 pages (when excluding your references and impact statement). To be clear, your references do not count toward the page limit.
+- Using the [ACL templates](https://www.overleaf.com/latex/templates/acl-rolling-review-template/jxbhdzhmcpdm), write a paper that is 5-8 pages (for groups of 3 students) or 6-8 pages (for groups of 4). This page limit excludes your required references and impact statement). To be clear, your references do not count toward the page limit.
 - Append your paper+references with an **Impact Statement** that details the possible ethical and societal ramifications of your project. The length should be at least 2 paragraphs. The [full expectations/details can be found here]().
 
 You will be evaluated on:
