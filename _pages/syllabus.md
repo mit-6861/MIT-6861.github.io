@@ -65,8 +65,8 @@ For example, let’s say a student has already used three free late days earlier
 If any particular homework assignment is **late beyond three unexcused days, it will not be accepted or graded.** The grade will be 0%.
 
 
-### <font color="#5B90E0">GUEST LECTURE WRITE-UPS (10%)</font>
-There is a writing assignment for 6 guest lectures, and we will drop your lowest grade.
+### <font color="#5B90E0">GUEST LECTURE WRITE-UPS (10% + EXTRA CREDIT)</font>
+There is a writing assignment for 6 guest lectures, each of which will be worth 2%.
 
 <font color="#5B90E0"><b>RESEARCH PAPERS:</b></font>
 Although we don't grade your reading of research papers, you should be heavily skimming and reading research papers throughout the semester.
