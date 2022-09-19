@@ -46,14 +46,14 @@ All published works from these conferences are made available to the public for 
 
 ## GUIDANCE
 In this course, we aim to provide as much structure and guidance as possible so as to help each student gain high-quality, directed (not aimless) experience with NLP research. Toward this, there are several milestones/assessments throughout the project **(percentages listed below are out of the total course grade):**
-- Phase 0: Individual ideas due (5%)
+- Phase 0: Individual ideas due (3%)
 - Phase 1: Proposal (5%)
 - Phase 2: Related Work + Introduction (ungraded)
 - Check-in: self-/peer- evaluation (5%)
 - Phase 3: Baseline Results (ungraded)
 - Check-in: self-/peer- evaluation (5%)
 - Phase 4: FINAL DELIVERABLES:
-  - research paper, plus your References and Impact Statement (20%)
+  - research paper, plus your References and Impact Statement (22%)
   - presentation of your slides (5%)
   - Code with instructions on how to run it (5%)
 
