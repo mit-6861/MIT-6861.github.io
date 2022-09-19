@@ -97,10 +97,12 @@ To be clear, your goal is to produce a paper that is **worthy of submitting to A
 You are also expected to include an Impact Statement and instructions on how to reproduce/run your code. Further details are in the **DELIVERABLES** section below.
 
 ### SUCCESSFUL EXAMPLES
+- Chris' Harvard version of this course last year had a few papers get accepted into ACL:
+  - [What GPT Knows About Who is Who](https://aclanthology.org/2022.insights-1.10/). This was a great project because it took the recent, powerful technique of Probing and applied it to a difficult core NLP problem, which hadn't yet been done before.
+  - [Automatic Fake News Detection: Are current models "fact-checking" or "gut-checking"?](https://aclanthology.org/2022.fever-1.4/). This was a great  project because it cleverly and critically inspected an aspect of a challenging NLP task that we tended to overlook and assume was correct.
 - [ACL 2021 Short Papers](https://2021.aclweb.org/calls/papers/#short-papers)
 - [NAACL 2021 long and short papers](https://2021.naacl.org/program/accepted/)
 - [EMNLP 2020 short papers](https://2020.emnlp.org/papers/main)
-- A few years ago, [Sasha Rush](http://rush-nlp.com/) offered a version of CS287r, whereby students [Josh and Joe published their course's research project](https://aclanthology.org/D19-1109.pdf) in EMNLP.
 - Jeff Huang maintains a [list of best papers](https://jeffhuang.com/best_paper_awards/) from many conferences. For the purposes of this class, the list of best papers is only useful for inspiration and to get a glimpse into how varying the styles can be amongst great research.
 
 ## DELIVERABLES
@@ -113,8 +115,11 @@ NOTE: Research projects naturally evolve over time. So, if your project shifts g
   - "catch up" by re-submitting the previous phases
 - projects cannot change team members after Phase 1
 
+### PHASE 0: Individual IDEAS (3%)
+For this initial stage, each student is expected to 
+
 ### PHASE 1: PROPOSALS (5%)
-For this initial stage, you will brainstorm research project ideas and write a 1-page proposal about one of them. Specifically, you must:
+With your newly-formed teams, you will brainstorm research project ideas and write a 1-page proposal about one of them. Specifically, you must:
 - contribute a few research project ideas (e.g., 1-3) within the `Research Brainstorming` spreadsheet
 - within that spreadsheet's `Student Roster` tab, add your name (required) and any additional background information (optional) you'd like to share about yourself. This will help everyone balance their team as they're considering teammates
 - for one of your research ideas, write a 1-page summary that:
