@@ -4,24 +4,22 @@ title: Research Project
 permalink: /project
 ---
 
-You will work in **groups of three** on a custom research project of your choosing. The project will span 12 weeks of the semester and will result in: (1) a high-quality, conference-style short paper (4-5 pages, excluding references); (2) a 8-minute pre-recorded video presentation; and (3) the associated code to reproduce all work.
+You will work in **groups of three** (some exceptions to group size will be permitted) on a custom research project of your choosing. The project will span 12 weeks of the semester and will result in: (1) a high-quality, conference-style paper (5-8 pages, excluding references and the Impact Statement); (2) a short presentation of your work; and (3) the associated code to reproduce all work.
 
 ## MOTIVATION
-Since this is a graduate course, I wish to provide students with not only a solid foundation of advanced concepts, but also the opportunity to conduct _research_ within the field of NLP.
-That is, students in this course will be expected to demonstrate:
-- a strong understanding of the course content, via **pop quizzes** and an **exam**
+We wish to provide students with not only a solid foundation of advanced concepts, but also the opportunity to conduct _research_ within the field of NLP. That is, students in this course will be expected to demonstrate:
+- a strong understanding of the course content, via **homework assignments and guest lecture write-ups**
 - the ability to craft real-world solutions to problems, via **homework assignments** that involve implementing models on actual data
 - knowledge of a particular NLP research problem; the ability to pose a related, interesting, unsolved research question; principled approaches that aim to answer the research question
 
-Computer Science, especially Machine Learning and NLP, is a field that progresses at an incredible rate. State-of-the-art models from five years ago are often barely sufficient in serving as baseline models for any particular task.
-Yet, I want everyone to gain skills that will last them for many years to come. Gaining research experience greatly helps toward this, as it requires critically reading and evaluating the latest, great approaches to a given problem. Then, one must poke holes in the current community-wide state of accepted knowledge (i.e., published research papers at top venues) and formulate specific research questions that the community at large doesn't yet know the answers to. Working toward an answer is immediately fruitful to the problem at hand. More importantly, this process of conducting research, in general, is a healthy mechanism that allows one to continuously learn forever and not rely on knowledge that will inevitably become outdated.
+Computer Science, especially Machine Learning and NLP, is a field that progresses at an incredible rate. State-of-the-art models from five years ago are often barely sufficient in serving as baseline models for any particular task. Yet, we want everyone to gain skills that will last them for many years to come. Gaining research experience greatly helps toward this, as it requires critically reading and evaluating the latest, great approaches to a given problem. Then, one must poke holes in the current community-wide state of accepted knowledge (i.e., published research papers at top venues) and formulate specific research questions that the community at large doesn't yet know the answers to. Working toward an answer is immediately fruitful to the problem at hand. More importantly, this process of conducting research, in general, is a healthy mechanism that allows one to continuously learn forever and not rely on knowledge that will inevitably become outdated.
 
 ## RESEARCH PAPERS
 In the world of research, the currency of knowledge is in the form of _research papers_. Specifically, in Computer Science, the gold standard is **conference papers**, not **journals**, and there are two formats:
 - long papers (~8 pages)
 - short papers (~4 pages)
 
-Obviously, teaching _how_ to conduct research is beyond the scope of any particular course, as it's the entire purpose of a PhD. However, if you are new to research, please see [my Research Crash Course that I wrote with David Abel](). Very briefly, a research paper should:
+Obviously, teaching _how_ to conduct research is beyond the scope of any particular course, as it's the entire purpose of a PhD. However, very briefly, a research paper should:
 - identify a concrete problem/issue (e.g., a new problem or an issue discovered with existing work)
 - exhaustively and meticulously review and summarize related work (<span style="background-color: #FFFF00">very important</span>)
 - offer novel insights or a solution to the problem
@@ -39,34 +37,35 @@ The top NLP research conferences are:
 - NAACL (the North American version of ACL)
 - EMNLP
 - COLING
-- AAAI (concerns AI in general, but some NLP papers are accepted)
+- AAAI/ICLR/ICML (these concern AI/ML in general, but some NLP papers are accepted)
 
-All published works from these conferences are made available to the public for free. Simply search for any year's "accepted papers" (e.g., `ACL 2021 accepted papers`). Again, the field moves incredibly fast, so papers' results/models from > 5 years tend to be significantly less relevant. However, it is important to be aware of the full history of the problem, including past approaches from > 5 years ago.
+All published works from these conferences are made available to the public for free. Simply search for any year's "accepted papers" (e.g., `ACL 2022 accepted papers`). Again, the field moves incredibly fast, so papers' results/models from > 5 years tend to be significantly less relevant. However, it is important to be aware of the full history of the problem, including past approaches from > 5 years ago.
 
 ## GUIDANCE
-In this course, I aim to provide as much structure and guidance as possible so as to help each student gain high-quality, directed (not aimless) experience with NLP research. Toward this, there are several milestones/assessments throughout the project **(percentages listed below are out of the total course grade):**
+In this course, we aim to provide as much structure and guidance as possible so as to help each student gain high-quality, directed (not aimless) experience with NLP research. Toward this, there are several milestones/assessments throughout the project **(percentages listed below are out of the total course grade):**
+- Phase 0: Individual ideas due (5%)
 - Phase 1: Proposal (5%)
-- Phase 2: Abstract + Related Work + Introduction (5%)
-- Phase 3: Baseline Results (10%)
-- Phase 4: Check-in (not graded)
-- Phase 5: Check-in (not graded)
-- FINAL DELIVERABLES:
-  - 4-page short paper, plus your References and Impact Statement (20%)
-  - 8-minute pre-recorded presentation of your slides or a poster (5%)
+- Phase 2: Related Work + Introduction (ungraded)
+- Check-in: self-/peer- evaluation (5%)
+- Phase 3: Baseline Results (ungraded)
+- Check-in: self-/peer- evaluation (5%)
+- Phase 4: FINAL DELIVERABLES:
+  - 5-8-page paper, plus your References and Impact Statement (20%)
+  - presentation of your slides (5%)
   - Code with instructions on how to run it (5%)
 
 Identifying a well-scoped, important research problem is often difficult. To help with this:
-- Each homework assignment will require you to critically read a paper of your choosing and think of ideas, and you will receive credit for this brainstorming
-- I will collect all of the aforementioned `Project Ideas` and share them to the class, so that all students benefit from each others' ideas
+- We will ask each student to come up with a project idea (Phase 0)
+- We will collect all of the aforementioned `Project Ideas` and share them to the class, so that all students benefit from each others' ideas
 - The `Project Ideas` will facilitate finding project partners.
 - We, the teaching staff, will provide feedback throughout your project.
 
-Each project will be appointed a TF. Harvard allocates 1 TF for every 20 students. Thus, each TF will oversee roughly 7 projects. It is impossible for the TFs to be a priori familiar with everyone's custom problem/project (e.g., the background literature). Instead, you can expect your TF to:
+Each project will be appointed a TA. We have 9 TAs, and 380 students initially registered in the course. Thus, each TA will oversee roughly 10-15 projects. It is impossible for the TAs to be a priori familiar with everyone's custom problem/project (e.g., the background literature). Instead, you can expect your TA to:
 - help you decide if your identified problem is too grand and impossible, easy, inappropriate for research (e.g., too applied and is more of a software development project)
 - provide feedback on selecting a reasonable baseline model
-- offer suggestions and feedback during designated Office Hours and the **required check-ins**
+- offer suggestions and feedback during designated Office Hours and address any egregious issues mentioned in your self-/peer- evaluation forms.
 
-Further, the last four classes of the semester will be entirely dedicated to your projects; we will have an open format and will be available to help all research groups.
+Further, the last homework assignment is due Nov 2 (Mon) @ 11:59pm EST, providing you with over a month of dedicated time to work exclusively on your research project.
 
 ### READING RESEARCH PAPERS
 Effectively and efficiently reading research papers is a learned skill. In short though, a common and useful approach is to consider reading each paper in three stages:
@@ -74,11 +73,11 @@ Effectively and efficiently reading research papers is a learned skill. In short
 - Stage 2: read the Conclusion, then skim most of the paper (10-30 minutes)
 - Stage 3: thoroughly read the entire paper, with the goal of being able to understand the intricate details (30 minutes - 3+ hours)
 
-Only proceed to a given stage after you've deemed it necessary from the previous stage. Notice that each subsequent stage requires roughly an order of magnitude more time (2 minutes, 20 minutes, 200 minutes). It's not worth your time to thoroughly read most papers, simply because their work isn't closely related to your work. In other words, **it is completely unnecessary to fully read every paper that looks interesting on the surface (e.g., title)**. This is especially helpful as you are just starting out on a new project, when you are still learning the scope of the field. Moreover, essentially no paper is _perfectly, fully_ understandable; every paper has a page limit, and there's only so much explaining one can detail. Thus, it's often the case that some equations will have some poorly-defined variables, or for there to be tiny details about the data and models that are left out. So, please don't waste your time by treating every paper as an oracle that is important for your work. **Only the most related works are worth spending many hours diving into.**
+Only proceed to a given stage after you've deemed it necessary to do so, given what you learned from the previous stage (e.g., you may have learned the work isn't pertinent to your interests). Notice that each subsequent stage requires roughly an order of magnitude more time (2 minutes, 20 minutes, 200 minutes). It's not worth your time to thoroughly read most papers, simply because their work isn't closely related to your work. In other words, **it is completely unnecessary to fully read every paper that looks interesting on the surface (e.g., title)**. This is especially helpful as you are just starting out on a new project, when you are still learning the scope of the field. Moreover, essentially no paper is _perfectly, fully_ understandable; every paper has a page limit, and there's only so much explaining one can detail. Thus, it's often the case that some equations will have some poorly-defined variables, or for there to be tiny details about the data and models that are left out. So, please don't waste your time by treating every paper as an oracle that is important for your work. **Only the most related works are worth spending many hours diving into.**
 
 I highly recommend using [ConnectedPapers](https://www.connectedpapers.com/) to assist in finding related works.
 
-You may find on [arXiv.org](https://arxiv.org/) a few highly-useful papers. Beware, though, **arXiv papers are unvetted, pre-prints that are not peer-reviewed.** It is common practice for authors to first place their paper on arXiv, before submitting it to top-tier conferences (a la flag-planting). So, while some of arXiv papers will go on to become incredibly impactful published papers, the majority will not. If you find any arXiv paper that seems useful to your project, search for it on [Semantic Scholar](https://www.semanticscholar.org/) or [Google Scholar](https://scholar.google.com/) to see if it's been subsequently published in a top-tier research conference. This will help you assess how much stock to place in the given paper.
+You may find on [arXiv.org](https://arxiv.org/) a few highly-useful papers. Beware, though, **arXiv papers are unvetted, pre-prints that are not peer-reviewed.** It is common practice for authors to first place their paper on arXiv before submitting it to top-tier conferences (a la flag-planting). So, while some of arXiv papers will go on to become incredibly impactful published papers, the majority will not. If you find any arXiv paper that seems useful to your project, search for it on [Semantic Scholar](https://www.semanticscholar.org/) or [Google Scholar](https://scholar.google.com/) to see if it's been subsequently published in a top-tier research conference. This will help you assess how much stock to place in the given paper.
 
 #### MORALE
 I encourage everyone to please not feel intimidated by the breadth and depth of NLP research papers. You are in a safe and structured class environment, and I want to see everyone learn and grow. I hope everyone feels inspired to read tons of papers (even if they seem confusing at first), come up with several research questions and ideas, and execute your envisioned solutions as quickly as possible. In research, most attempted solutions do not work -- this is the case for _everyone_. That's part of the process and the necessary path for successfully contributing new nuggets of knowledge to a field. That's the beauty and fun of science. The key is to "fail fast", learn from each experiment's results, and to document your insightful conclusions and successes.
@@ -86,10 +85,10 @@ I encourage everyone to please not feel intimidated by the breadth and depth of 
 ## EXPECTATIONS
 
 ### LITERATURE SEARCH/REVIEW
-It is easy to detect when one has conducted an insufficient, non-comprehensive review of past works. For example, the cited papers are old, only loosely related to the problem/project, are too generally related, and only a few are listed. There is no magical number, but it is reasonable to expect that a well-researched short paper's literature review involved <span style="background-color: #FFFF00">each student to skim ~50+ abstracts, skim 25+ papers, and to thoroughly read a dozen papers</span>. Each project varies.
+It is easy to detect when one has conducted an insufficient, non-comprehensive review of past works. For example, the cited papers are old, only loosely related to the problem/project, are too generally related, and only a few are listed. There is no magical number, but it is reasonable to expect that the literature review of a well-researched project will require <span style="background-color: #FFFF00">each student to skim ~50+ abstracts, skim 25+ papers, and to thoroughly read a dozen papers</span>. Each project varies.
 
 ### QUALITY OF RESEARCH
-This is likely everyone's first experience conducting NLP research, and that is completely fine. That is truly the point of this course -- to provide a structured yet challenging introduction to the latest, advanced techniques in NLP. Since research papers are the de facto medium for detailing and disseminating new knowledge, we set this as your goal. Specifically, you should write a 4-page short paper, using [the templates found here](https://2021.aclweb.org/calls/papers/#paper-submission-and-templates).
+This is likely everyone's first experience conducting NLP research, and that is completely fine. That is truly the point of this course -- to provide a structured yet challenging introduction to the latest, advanced techniques in NLP. Since research papers are the de facto medium for detailing and disseminating new knowledge, we set this as your goal. Specifically, you should write a 5-8 page paper, using [the templates found here](https://www.overleaf.com/latex/templates/acl-rolling-review-template/jxbhdzhmcpdm).
 
 I highly recommend that your team uses [Overleaf](https://www.overleaf.com/) to collaboratively edit your paper.
 
@@ -106,16 +105,13 @@ You are also expected to include an Impact Statement and instructions on how to 
 
 ## DELIVERABLES
 
-NOTE: Research projects naturally evolve over time. So, if your project shifts gears as it progresses, that is completely fine. You can answer a _slightly different_ research problem than what you initially set out to answer, as long as it's in the same ballpark. With that said:
-- after the Phase 1 deadline, you are expected to settle on a project and team members. We can help with this process.
+NOTE: Research projects naturally evolve over time. So, if your project shifts gears as it progresses, that is completely fine. You can answer a _slightly different_ research problem than what you initially set out to answer in your team's **Proposal**, as long as it's in the same ballpark. With that said:
+- after the Phase 2 deadline, you are expected to not change your project much. We can help with this process.
 - all Phase deadlines must be met on time
-- if you slightly change focus, you must:
+- if you change focus from your team's Proposal, you must:
   - discuss this change with us ahead of time
   - "catch up" by re-submitting the previous phases
-- projects cannot change team members after Phase 2
-- projects cannot change focus after Phase 3.
-
-As an example, after successfully submitting Phase 2, but before Phase 3 is due, you might change focus a bit. If so, by the Phase 3 deadline, you would need to also re-submit Phase 1 and Phase 2 materials that reflect your new research goal. Once you've submitted Phase 3, you are locked in to work on that project with the same team members that you listed by the Phase 2 deadline.
+- projects cannot change team members after Phase 1
 
 ### PHASE 1: PROPOSALS (5%)
 For this initial stage, you will brainstorm research project ideas and write a 1-page proposal about one of them. Specifically, you must:
