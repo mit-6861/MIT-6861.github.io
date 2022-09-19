@@ -57,12 +57,16 @@ Every class session will contain a lecture. Lectures will concern:
 - Lecture 22: Guest Lecture
 - Lecture 23: Recap / Conclusion / Future of NLP
 
-### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (30%)</font>
+### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (40%)</font>
 There will be three equally-weighted, **individual** homework assignments. See the Collaboration Policy below for details. **Students will have a total of three free late days to use throughout the semester without any penalty.** NOTE: valid excuses (e.g., medical excuses) do not count toward your three allotted “free” late days. <span style="background-color: #FFFF00">Any late days used beyond these three will result in a deduction of 10 points per day.</span>
 
 For example, let’s say a student has already used three free late days earlier in the semester, and then turned in another homework assignment one day late. If the graded homework received a 88%, then it will be reduced to a 78% due to being a day late. If that student had turned in the assignment two days late (meaning, a grand total of five late days used), then that particular assignment would have received a 68%, due to being two days late.
 
 If any particular homework assignment is **late beyond three unexcused days, it will not be accepted or graded.** The grade will be 0%.
+
+
+### <font color="#5B90E0">GUEST LECTURE WRITE-UPS (10%)</font>
+There is a writing assignment for 6 guest lectures, and we will drop your lowest grade.
 
 <font color="#5B90E0"><b>RESEARCH PAPERS:</b></font>
 Although we don't grade your reading of research papers, you should be heavily skimming and reading research papers throughout the semester.
