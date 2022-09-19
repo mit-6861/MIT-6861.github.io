@@ -66,6 +66,13 @@ If any particular homework assignment is **late beyond three unexcused days, it 
 
 
 ### <font color="#5B90E0">GUEST LECTURE WRITE-UPS (10% + EXTRA CREDIT)</font>
+We have an exciting line-up of 6 guest lectures for this iteration of the class! For each guest lecture, you will be asked to write up a couple of paragraphs on the guest lecture, in particular:
+- What you learned in the lecture
+- Any thoughts/questions you had for the speaker.
+
+Guest lecture attendance is required! Each reflection will count for 2% of the grade (2% extra credit).
+
+
 There is a writing assignment for 6 guest lectures, each of which will be worth 2%.
 
 <font color="#5B90E0"><b>RESEARCH PAPERS:</b></font>
