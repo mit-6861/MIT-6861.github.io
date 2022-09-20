@@ -91,7 +91,7 @@ I encourage everyone to please not feel intimidated by the breadth and depth of 
 It is easy to detect when one has conducted an insufficient, non-comprehensive review of past works. For example, the cited papers are old, only loosely related to the problem/project, are too generally related, and only a few are listed. There is no magical number, but it is reasonable to expect that the literature review of a well-researched project will require <span style="background-color: #FFFF00">each student to skim ~50+ abstracts, skim 25+ papers, and to thoroughly read a dozen papers</span>. Each project varies.
 
 ### QUALITY OF RESEARCH
-This is likely everyone's first experience conducting NLP research, and that is completely fine. That is truly the point of this course -- to provide a structured yet challenging introduction to the latest, advanced techniques in NLP. Since research papers are the de facto medium for detailing and disseminating new knowledge, we set this as your goal. Specifically, you should write a 5-8 page paper, using [the templates found here](https://www.overleaf.com/latex/templates/acl-rolling-review-template/jxbhdzhmcpdm).
+This is likely everyone's first experience conducting NLP research, and that is completely fine. That is truly the point of this course -- to provide a structured yet challenging introduction to the latest, advanced techniques in NLP. Since research papers are the de facto medium for detailing and disseminating new knowledge, we set this as your goal. Specifically, using [the templates found here](https://www.overleaf.com/latex/templates/acl-rolling-review-template/jxbhdzhmcpdm), you should write a 5-8 page paper (for groups of 3) or 6-8 page paper (for groups of 4).
 
 I highly recommend that your team uses [Overleaf](https://www.overleaf.com/) to collaboratively edit your paper.
 
@@ -118,7 +118,7 @@ NOTE: Research projects naturally evolve over time. So, if your project shifts g
   - "catch up" by re-submitting the previous phases
 - projects cannot change team members after Phase 1
 
-### PHASE 0: INDIVIDUAL IDEAS (3%)
+### PHASE 0: INDIVIDUAL IDEAS (1%)
 For this initial stage, each student is expected to generate an idea for a project. Full details will be provided in Canvas. In short, you need to succinctly list:
 - Your research question/project idea (~2 sentences)
 - Dataset(s) to be used (1 sentence)
@@ -147,10 +147,10 @@ To help keep everyone on track, we will ask you to submit your paper, which shou
 
 Since you are still becoming familiar with your project, the Related Works section doesn't have to be perfect or exhaustive yet. The expectation is that you've clearly identified the most similar works and the broader, tangential scope of related works. Likewise, the Introduction should clearly introduce and describe your problem. We expect this section to improve significantly over time, but for now it should be well-organized, such that any outsider could easily follow and digest your problem and the scope of it.
 
-### SELF-/PEER- EVALUATION (5%):
+### SELF-/PEER- EVALUATION (UNGRADED):
 We want to make sure every team member fairly contibutes. People rarely deliberately choose to be a bad team member; it's usually by accident due to poorly communicated expectations. To help with this communication and accountability, each student is required to privately complete a Google Form that asks one to rate oneself and their teammates. This is your chance to reflect on what is working well, what could be improved, and to let us know of any issues so that we can help out.
 
-### PHASE 3: BASELINES (UNGRADED)
+### PHASE 3: BASELINES (5%)
 You will start new sections titled **Models** and/or **Experiments**. Specifically, you are expected to explain your system in any way you see fit, which is _usually_ in a section titled **Models** or Methodology. Your experiments section should describe your exact setup, along with your baseline model's results (usually in a sub-section title Results). Again, it is okay if these results aren't good yet, as nobody can perfectly predict the outcome. This is the nature of science and research. However, we do expect to see a reasonable approach for a baseline model, one that is not expected to perform very well but is a simple yet sensible initial approach to the problem. As a reminder, baseline results are critical to your work as they will help inform you of future directions to take, and they will serve as a reference point for your later results. That is, if you later develop a complicated, technical solution, how should one interpret its results? How will we know if its particular accuracy score is actually good? The baseline model provides that contrast and puts all future experiments into perspective.
 
 ### SELF-/PEER- EVALUATION (5%):
