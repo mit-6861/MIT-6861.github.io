@@ -28,10 +28,10 @@ Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) fo
 - **Research Projects** will span 12 weeks of the semester, with several deliverables due throughout:
 	- Phase 0 (individual ideas) is due Oct 5 (Wed) @ 11:59pm EST
 	- Phase 1 (forming groups) is due Oct 12 (Wed) @ 11:59pm EST
-	- Phase 1 is due Oct 17 (Mon) @ 11:59pm EST
-	- Phase 2 is due Oct 31 (Mon) @ 11:59pm EST
-	- [OPTIONAL] self-/peer- check-in is due Oct 31 (Mon) @ 11:59pm EST
-	- Phase 3 is due Nov 14 (Mon) @ 11:59pm EST
+	- Phase 1 is due Oct 18 (Wed) @ 11:59pm EST
+	- Phase 2 is due Nov 2 (Wed) @ 11:59pm EST
+	- [OPTIONAL] self-/peer- check-in is due Nov 2 (Wed) @ 11:59pm EST
+	- Phase 3 is due Nov 16 (Wed) @ 11:59pm EST
 	- **Final Presentations materials** are due on **Dec 5 (Mon), within Phase 4**
 	- Phase 4 (paper, impact statement, code) is due **Dec 9 (Fri)** @ 11:59pm EST
 	- [OPTIONAL] self-/peer- check-in is due **Dec 9 (Fri)** @ 11:59pm EST
