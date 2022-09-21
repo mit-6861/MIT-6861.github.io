@@ -49,13 +49,13 @@ In this course, we aim to provide as much structure and guidance as possible so 
 - Phase 0: Individual ideas due (1%)
 - Phase 1: Proposal (9%)
 - Phase 2: Introduction + Related Work
-- [OPTIONAl] Self-/peer- check-in
+- [OPTIONAL] Self-/peer- check-in
 - Phase 3: Paper Progress: Introduction + Related Work + Baseline Results (5%)
 - Phase 4: FINAL DELIVERABLES:
   - research paper, plus your References and Impact Statement (30%)
   - presentation of your slides (5%)
   - Code with instructions on how to run it
-  - [OPTIONAl] Self-/peer- check-in
+  - [OPTIONAL] Self-/peer- check-in
 
 Identifying a well-scoped, important research problem is often difficult. To help with this:
 - We will ask each student to come up with a project idea (Phase 0)
