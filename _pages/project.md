@@ -46,16 +46,16 @@ All published works from these conferences are made available to the public for 
 
 ## GUIDANCE
 In this course, we aim to provide as much structure and guidance as possible so as to help each student gain high-quality, directed (not aimless) experience with NLP research. Toward this, there are several milestones/assessments throughout the project **(percentages listed below are out of the total course grade):**
-- Phase 0: Individual ideas due (3%)
-- Phase 1: Proposal (5%)
-- Phase 2: Related Work + Introduction (ungraded)
-- Check-in: self-/peer- evaluation (5%)
-- Phase 3: Baseline Results (ungraded)
-- Check-in: self-/peer- evaluation (5%)
+- Phase 0: Individual ideas due (1%)
+- Phase 1: Proposal (9%)
+- Phase 2: Introduction + Related Work
+- [OPTIONAl] Self-/peer- check-in
+- Phase 3: Paper Progress: Introduction + Related Work + Baseline Results (5%)
 - Phase 4: FINAL DELIVERABLES:
-  - research paper, plus your References and Impact Statement (22%)
+  - research paper, plus your References and Impact Statement (30%)
   - presentation of your slides (5%)
-  - Code with instructions on how to run it (5%)
+  - Code with instructions on how to run it
+  - [OPTIONAl] Self-/peer- check-in
 
 Identifying a well-scoped, important research problem is often difficult. To help with this:
 - We will ask each student to come up with a project idea (Phase 0)
@@ -68,7 +68,7 @@ Each project will be appointed a TA. We have 9 TAs, and 390 students initially r
 - provide feedback on selecting a reasonable baseline model
 - offer suggestions and feedback during designated Office Hours and address any egregious issues mentioned in your self-/peer- evaluation forms.
 
-Further, the last homework assignment is due Nov 2 (Mon) @ 11:59pm EST, providing you with over a month of dedicated time to work exclusively on your research project.
+Further, the last homework assignment is due Oct 31 (Mon) @ 11:59pm EST, providing you with over a month of dedicated time to work exclusively on your research project.
 
 ### READING RESEARCH PAPERS
 Effectively and efficiently reading research papers is a learned skill. In short though, a common and useful approach is to consider reading each paper in three stages:
