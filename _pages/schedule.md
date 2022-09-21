@@ -30,11 +30,11 @@ Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) fo
 	- Phase 1 (forming groups) is due Oct 12 (Wed) @ 11:59pm EST
 	- Phase 1 is due Oct 17 (Mon) @ 11:59pm EST
 	- Phase 2 is due Oct 31 (Mon) @ 11:59pm EST
-	- self-/peer- evaluation due Oct 31 (Mon) @ 11:59pm EST
+	- [OPTIONAL] self-/peer- check-in is due Oct 31 (Mon) @ 11:59pm EST
 	- Phase 3 is due Nov 14 (Mon) @ 11:59pm EST
-	- self-/peer- evaluation due Nov 21 (Mon) @ 11:59pm EST
 	- **Final Presentations materials** are due on **Dec 5 (Mon), within Phase 4**
 	- Phase 4 (paper, impact statement, code) is due **Dec 9 (Fri)** @ 11:59pm EST
+	- [OPTIONAL] self-/peer- check-in is due **Dec 9 (Fri)** @ 11:59pm EST
 
 ## LECTURES
 - Lecture 1: Introduction + ML Basics (Logistics Regression; SGD) [[pdf]]() [[pptx]]()
