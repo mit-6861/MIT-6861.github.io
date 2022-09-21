@@ -9,7 +9,6 @@ Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) fo
 - **Sept 16 (Fri)**: Last day for seniors and grad students to change H1 subjects to/from P/D/F
 - **Sept 23 (Fri)**: Student holiday (no classes)
 - **Oct 10 (Mon) - Oct 11 (Tues)**: Indigenous People's Day (no classes)
-- **Oct 20 (Wed)**: Kamala Harris' birthday (classes are held)
 - **Nov 11 (Fri)**: Veteran's Day (no classes)
 - **Nov 23 (Wed)**: Drop date. Last day to cancel full-term subjects.
 - **Nov 24 (Thurs) - Dec 25 (Fri)**: Thanksgiving Break
