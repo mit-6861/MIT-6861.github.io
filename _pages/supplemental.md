@@ -35,6 +35,7 @@ There is a wealth of resources available online to help you fill in any gaps and
 - [ETH Zurich's NLP (Spring 2021)](https://rycolab.io/classes/intro-nlp-s21/) by Ryan Cotterell
 - [NYU's Natural Language Understanding and Computational Semantics (Spring 2020)](https://docs.google.com/document/d/1uogW7KYD0aib1hJ3_FumIc2I9CIF7XfUfVkFDskibTU/edit#) by Sam Bowman
 - [Michael Collins' lecture about DeepLearning + NLP progress at large (YouTube)](https://www.youtube.com/watch?v=jfwqRMdTmLo)
+- [Harvard's Advanced NLP course (Fall 2021)](https://harvard-iacs.github.io/CS287/) by Chris Tanner
 
 ### MACHINE LEARNING
 - [Stanford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) by Andrew Ng
