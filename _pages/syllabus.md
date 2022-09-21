@@ -37,10 +37,10 @@ Every class session will contain a lecture. Lectures will concern:
 - Lecture 2: Text Classification (linear classifier; BoW; TFIDF)
 - Lecture 3: Word Representations (matrix factorization; word2vec)
 - Lecture 4: Language Modelling (MLP; RNN)
-- Lecture 5: Attention (Machine Translation)
-- Lecture 6: Transformers (contextualized word representations; BERT) 
-- Lecture 7: Large Language Models
-- Lecture 8: Structured Models 1 (Hidden Markov Models) 
+- Lecture 5: Language Modelling (RNN; LSTMs) 
+- Lecture 6: Seq2seq + Attention (Machine Translation)
+- Lecture 7: Transformers (contextualized word representations; BERT) 
+- Lecture 8: LLM + Structured Models 1 (Hidden Markov Models) 
 - Lecture 9: Structured Models 2 (CRF)
 - Lecture 10: Doing Research
 - Lecture 11: Structured Models 3 (Trees)
@@ -101,7 +101,7 @@ We will provide a few Best Project Awards. Students can cast a vote on their fav
 
 **No textbook is required.**
 - [Canvas](https://canvas.mit.edu/courses/16573): homework assignments
-- [Piazza (assessible from Canvas)](https://canvas.mit.edu/courses/16573/external_tools/368): technical discussion and clarifying questions
+- [Piazza (accessible from Canvas)](https://canvas.mit.edu/courses/16573/external_tools/368): technical discussion and clarifying questions
 - [Project Ideas (coming soon)](): on-going spreadsheet to collaboratively find and create research projects
 - [Emergency Helpline](mailto:nlp-staff-fa22@mit.edu): for private concerns, issues, and questions (not course-content related) 
 - [Supplemental Resources](supplemental): a compilation of useful, external resources
