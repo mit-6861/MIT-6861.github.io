@@ -27,7 +27,7 @@ Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) fo
 - **Research Projects** will span 12 weeks of the semester, with several deliverables due throughout:
 	- Phase 0 (individual ideas) is due Oct 5 (Wed) @ 11:59pm EST
 	- Phase 1 (forming groups) is due Oct 12 (Wed) @ 11:59pm EST
-	- Phase 1 is due Oct 18 (Wed) @ 11:59pm EST
+	- Phase 1 (Proposal) is due Oct 24 (Mon) @ 11:59pm EST
 	- Phase 2 is due Nov 2 (Wed) @ 11:59pm EST
 	- [OPTIONAL] self-/peer- check-in is due Nov 2 (Wed) @ 11:59pm EST
 	- Phase 3 is due Nov 16 (Wed) @ 11:59pm EST
@@ -48,10 +48,10 @@ Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) fo
 - Lecture 10: Doing Research [[pdf]]() [[pptx]]()
 - Lecture 11: Structured Models 3 (Trees) [[pdf]]() [[pptx]]()
 - Lecture 12: Structured Models 4 (Latent Variable Models) [[pdf]]() [[pptx]]()
-- Lecture 13: Model Interpretability [[pdf]]() [[pptx]]()
-- Lecture 14: Speech (Part I) [[pdf]]() [[pptx]]()
-- Lecture 15: Speech (Part II) [[pdf]]() [[pptx]]()
-- Lecture 16: Working Through an NLP Problem: Coreference [[pdf]]() [[pptx]]()
+- Lecture 13: Speech (Part I) [[pdf]]() [[pptx]]()
+- Lecture 14: Speech (Part II) [[pdf]]() [[pptx]]()
+- Lecture 15: Working Through an NLP Problem: Coreference [[pdf]]() [[pptx]]()
+- Lecture 16: Model Interpretability [[pdf]]() [[pptx]]()
 - Lecture 17: Guest lecture: Ethics and NLP  [[pdf]]() [[pptx]]()
 - Lecture 18: Guest lecture: Human Language Processing [[pdf]]() [[pptx]]()
 - Lecture 19: Guest lecture: Language & Grounding [[pdf]]() [[pptx]]()
