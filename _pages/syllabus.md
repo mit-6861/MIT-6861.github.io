@@ -45,10 +45,10 @@ Every class session will contain a lecture. Lectures will concern:
 - Lecture 10: Doing Research
 - Lecture 11: Structured Models 3 (Trees)
 - Lecture 12: Structured Models 4 (Latent Variable Models)
-- Lecture 13: Model Interpretability
-- Lecture 14: Speech (Part I) 
-- Lecture 15: Speech (Part II)
-- Lecture 16: Working Through an NLP Problem: Coreference
+- Lecture 13: Speech (Part I) 
+- Lecture 14: Speech (Part II)
+- Lecture 15: Working Through an NLP Problem: Coreference
+- Lecture 16: Model Interpretability
 - Lecture 17: Guest lecture: Ethics and NLP
 - Lecture 18: Guest lecture: Human Language Processing
 - Lecture 19: Guest lecture: Language & Grounding
