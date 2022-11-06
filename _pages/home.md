@@ -63,11 +63,11 @@ How can computers understand and leverage text data and human language? Natural 
 - Attendance and active participation is *highly encouraged* to facilitate an enriching learning environment for everyone
 
 ### OFFICE HOURS
-- **Monday @ 11am - 1pm**: Will and Jeff (location TBD)
-- **Monday @ 4pm - 6pm**: Saaketh and Bowen (location TBD)
-- **Wednesday @ 4pm - 6pm**: Praneet and Charles (location TBD)
-- **Wednesday @ 6pm - 7pm**: Subha Pushpita (via Zoom)
-- **Friday @ 3pm - 5pm**: Faraz and Yilun (location TBD)
+- **Monday @ 11am - 1pm**: Will and Jeff (34-303)
+- **Monday @ 4pm - 6pm**: Saaketh and Bowen (24-115)
+- **Wednesday @ 4pm - 6pm**: Praneet (36-156)
+- **Wednesday @ 4pm - 5pm**: Subha Pushpita (via Zoom)
+- **Friday @ 3pm - 5pm**: Faraz, Yilun, Charles (via Zoom)
 
 ### GRADING
 - **Foundation:** Guest Lecture Write-ups: 10%
