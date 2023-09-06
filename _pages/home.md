@@ -11,7 +11,7 @@ We're very excited to have you in class this semester! Our aim is to make this c
 Note: all Harvard students who wish to take the course must enroll in **6.8610.**
 
 ### DESCRIPTION
-How can computers understand and leverage text data and human language? Natural language processing (NLP) addresses this question, and in this course students study both modern and classic approaches. We will mainly focus on statistical approaches to NLP, wherein we learn a probabilistic model based on natural language data. This course provides students with a foundation of advanced concepts and **requires students to conduct significant research on an NLP project of their choosing,** culminating with a high-quality paper (5-8 pages). Assessment also includes homework assignments and write-ups for guest lectures. Our goal is to help challenge each student to elicit one's best, and along the way for the course to be one of the most fun and rewarding educational experiences.
+How can computers understand and leverage text data and human language? Natural language processing (NLP) addresses this question, and in this course students study both modern and classic approaches. We will mainly focus on statistical approaches to NLP, wherein we learn a probabilistic model based on natural language data. This course provides students with a foundation of advanced concepts and **requires students to conduct a significant research project on an NLP problem of their choosing,** culminating with a high-quality paper (5-8 pages). Assessment also includes (3) homework assignments and a mid-term exam. Our goal is to help challenge each student to elicit one's best, and along the way for the course to be one of the most fun and rewarding educational experiences.
 
 ## STAFF
 <p></p>
@@ -58,21 +58,17 @@ How can computers understand and leverage text data and human language? Natural 
 
 ## LOGISTICS
 ### LECTURE
-- Tuesdays and Thursdays @ 11am - 12:30pm in 32.123
-- Lectures are in-person
+- Tuesdays and Thursdays @ 11am - 12:30pm in 32.123 (may change locations, depending on enrollment)
+- Lectures are in-person and will be recorded
 - Attendance and active participation is *highly encouraged* to facilitate an enriching learning environment for everyone
 
 ### OFFICE HOURS
-- **Monday @ 11am - 1pm**: Will and Jeff (34-303)
-- **Monday @ 4pm - 6pm**: Saaketh and Bowen (24-115)
-- **Wednesday @ 4pm - 6pm**: Praneet (36-156)
-- **Thursday @ 4pm - 5pm**: Subha Pushpita (via Zoom)
-- **Friday @ 3pm - 5pm**: Faraz, Yilun, Charles (via Zoom)
+- **Coming Soon**
 
 ### GRADING
-- **Foundation:** Guest Lecture Write-ups: 10%
-- **Foundation & Application:** Homework assignments: 40% (3 HWs, two weeks for each)
-- **Creating New Knowledge:** [Research Project](project): 50% (twelve weeks)
+- **Foundation:** Mid-term exam: 30%
+- **Foundation & Application:** Homework assignments: 30% (3 HWs, roughly two weeks for each)
+- **Creating New Knowledge:** [Research Project](project): 40% (twelve weeks)
 
 ## QUICK ACCESS
 - [Canvas](https://canvas.mit.edu/courses/16573): homework assignments and course announcements
@@ -81,17 +77,18 @@ How can computers understand and leverage text data and human language? Natural 
 - [Supplemental Resources](supplemental): a compilation of useful, external resources
 
 ## ENROLLMENT
-The demand for this course content is extremely high, and we're thrilled to see so many curious students. 380 students have registered for the course, so we are a bit resource-constrained. To provide as smooth of an educational experience as possible, we strongly recommend that every enrolled student has a strong foundation in Machine Learning and meets the pre-reqs.
+The demand for this course content is extremely high, and we're thrilled to see so many curious students! Over 500 students have registered for the course, so we are resource-constrained. To provide as smooth of an educational experience as possible, we strongly recommend that every enrolled student has a strong foundation in Machine Learning, and we will enforce having the sufficient pre-req courses.
 
 ### PREREQUISITES
 No prior NLP experience is expected or necessary, but students must have a basic foundation in probability and calculus, along with strong knowledge of Machine Learning. <span style="background-color: #FFFF00">See the [syllabus](syllabus) for more details, along with HW #0 (ungraded)</span> to assess if your current knowledge is aligned with the pre-req expectations -- you should be able to answer all of the questions without too much difficulty.
 
 ### WHAT'S NEW?
-NLP is an incredibly fast-moving field! Toward this, we have adjusted this semester's offering from last year's:
+NLP is an incredibly fast-moving field! Fun fact, ChatGPT was released the day before our final lecture of the semester last year (Fall 2022). Since then, NLP and GenerativeAI has become a household name. Toward this, we have adjusted this semester's offering from last year's:
 - Different homework problems
 - Some new lecture content, and we've rearranged the overall narrative
-- More rigor and structure to the Research Project (with awards for Best Projects!)
-- New guest lectures!
+- New guest lectures
+
+NOTE: Despite the immense capabilities of large language models (LLMs), this course will be strongly rooted in providing a foundation for NLP; that is, we will cover a wide range of modelling approaches that include LLMs and more.
 
 ### COURSE NAME
 We acknowledge that "Quantitative Methods for NLP" may not be the most clear name. A more apt name would be "Advanced NLP".
