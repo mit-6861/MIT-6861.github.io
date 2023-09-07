@@ -31,26 +31,30 @@ How can computers understand and leverage text data and human language? Natural 
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Moulin Kaspar</a> (TA)</td>
   </tr>
   <tr>
-    <td><img src="{{ site.baseurl }}/images/saaketh_cropped.png" width="100" alt="Sashata Sawmya"/></td>
-    <td><img src="{{ site.baseurl }}/images/charles_cropped.png" width="100" alt="Charles Comiter"/></td>
-    <td><img src="{{ site.baseurl }}/images/bowen_cropped.png" width="100" alt="Bowen Pan"/></td>
+    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Sashata Sawmya"/></td>
+    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Cici Xu"/></td>
     <td><img src="{{ site.baseurl }}/images/subha_cropped.png" width="100" alt="Subha Pushpita"/></td>
-    <td><img src="{{ site.baseurl }}/images/faraz_cropped.png" width="100" alt="Faraz Faruqi"/></td>
+    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Yung-Sung Chuang"/></td>
+    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Karissa Sanchez"/></td>
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Sashata Sawmya</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Charles Comiter</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Bowen Pan</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Cici Xu</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Subha Pushpita</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Faraz Faruqi</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Yung-Sung Chuang</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Karissa Sanchez</a> (TA)</td>
   </tr>
   <tr>
-    <td><img src="{{ site.baseurl }}/images/praneet_cropped.png" width="100" alt="Praneet Mekala"/></td>
+    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Aneesh Gupta"/></td>
+    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Athul Jacob"/></td>
+    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Belinda Li"/></td>
     <td><img src="{{ site.baseurl }}/images/thomas_cropped.png" width="100" alt="Thomas Pickering"/></td>
     <td><img src="{{ site.baseurl }}/images/michael_cropped.png" width="100" alt="Michael Maune"/></td>
   </tr>
   <tr>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Praneet Mekala</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Aneesh Gupta</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Athul Jacob</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Belinda Li</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Thomas Pickering</a> (WRAP)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Michael Maune</a> (WRAP)</td>
   </tr>
