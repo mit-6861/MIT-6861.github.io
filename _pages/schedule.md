@@ -51,9 +51,4 @@ Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) fo
 - Lecture 22: Guest lecture: Human Language Processing
 - Lecture 23: Conclusion
 
-## SPREADSHEET FORMAT
-- The `HW #` column denotes the release and due dates. All due dates are Monday @ 11:59pm (EST). All releases will be on Tuesday.
-- Lecture `Topics` with a white background represent foundational content and Deep Learning models
-- Lecture `Topics` with a light gray background represent important NLP tasks/problems
-- `Lecturers` with yellow backgrounds represent guest lectures
-<iframe width='100%' height='740' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTghXeq-z4CFVYMiiynKOK0S9pVDiknNF5FRJ3DsHgG1sOvNjeEqAKsMYqmnRNO2Iq-PJH9mDkey4R/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
