@@ -35,50 +35,42 @@ Every class session will contain a lecture. Lectures will concern:
 
 - Lecture 1: Introduction + ML Basics (Logistics Regression; SGD)
 - Lecture 2: Text Classification (linear classifier; BoW; TFIDF)
-- Lecture 3: Word Representations (matrix factorization; word2vec)
-- Lecture 4: Language Modelling (MLP; RNN)
-- Lecture 5: Language Modelling (RNN; LSTMs) 
-- Lecture 6: Seq2seq + Attention (Machine Translation)
-- Lecture 7: Transformers (contextualized word representations; BERT) 
-- Lecture 8: LLM + Structured Models 1 (Hidden Markov Models) 
-- Lecture 9: Structured Models 2 (CRF)
-- Lecture 10: Doing Research
-- Lecture 11: Structured Models 3 (Trees)
-- Lecture 12: Structured Models 4 (Latent Variable Models)
-- Lecture 13: Speech (Part I) 
-- Lecture 14: Speech (Part II)
-- Lecture 15: Working Through an NLP Problem: Coreference
-- Lecture 16: Model Interpretability
+- Lecture 3: Word Representations (matrix factorization; word2vec) 
+- Lecture 4: Language Modelling (MLP; RNN) 
+- Lecture 5: Attention
+- Lecture 6: Transformers Part 1
+- Lecture 7: Transformers Part 2
+- Lecture 8: Large Language Models (LLMs) Part 1
+- Lecture 9: Large Language Models (LLMs) Part 2
+- Lecture 10: Structured Models: Hidden Markov Models (HMMs)
+- Lecture 11: Structured Models: Trees
+- Lecture 12: Structured Models: Conditional Random Fields (CRFs)
+- Lecture 13: Structured Models: Latent Variable Models
+- Lecture 14: Mid-term Review
+- Lecture 15: Doing Research
+- Lecture 16: NLP Engineering
 - Lecture 17: Guest lecture: Ethics and NLP
-- Lecture 18: Guest lecture: Human Language Processing
-- Lecture 19: Guest lecture: Language & Grounding
-- Lecture 20: Guest lecture: NLP in Finance
-- Lecture 21: Guest lecture: Clinical NLP
-- Lecture 22: Guest lecture: TBD
-- Lecture 23: Recap / Conclusion / Future of NLP
+- Lecture 18: Interpretability
+- Lecture 19: Guest Lecture: Speech
+- Lecture 20: Guest Lecture: TBD
+- Lecture 21: Guest Lecture: TBD
+- Lecture 22: Guest lecture: Human Language Processing
+- Lecture 23: Conclusion
 
-### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (40% + 1% EXTRA CREDIT FOR HW0)</font>
+
+### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (30%)</font>
 There will be three equally-weighted, **individual** homework assignments. See the Collaboration Policy below for details. **Students will have a total of three free late days to use throughout the semester without any penalty.** NOTE: valid excuses (e.g., medical excuses) do not count toward your three allotted “free” late days. <span style="background-color: #FFFF00">Any late days used beyond these three will result in a deduction of 10 points per day.</span>
 
 For example, let’s say a student has already used three free late days earlier in the semester, and then turned in another homework assignment one day late. If the graded homework received a 88%, then it will be reduced to a 78% due to being a day late. If that student had turned in the assignment two days late (meaning, a grand total of five late days used), then that particular assignment would have received a 68%, due to being two days late.
 
 If any particular homework assignment is **late beyond three unexcused days, it will not be accepted or graded.** The grade will be 0%.
 
+Guest lecture attendance is strongly encouraged! Please attend!
 
-### <font color="#5B90E0">GUEST LECTURE WRITE-UPS (10% + EXTRA CREDIT)</font>
-We have an exciting line-up of 6 guest lectures for this iteration of the class! For each guest lecture, you will be asked to write up a couple of paragraphs on the guest lecture, in particular:
-- What you learned in the lecture
-- Any thoughts/questions you had for the speaker.
+### <font color="#5B90E0">MID-TERM EXAM (30%)</font>
+The midterm is intended to assess students' knowledge of foundational content. It will be conducted in class on paper, closed-book, and will include a combination of multiple-choice and free-response questions. The midterm will not ask students to write any code on paper. Further details will be presented closer to the exam date.
 
-Guest lecture attendance is required! Each reflection will count for 2% of the grade (2% extra credit).
-
-
-There is a writing assignment for 6 guest lectures, each of which will be worth 2%.
-
-<font color="#5B90E0"><b>RESEARCH PAPERS:</b></font>
-Although we don't grade your reading of research papers, you should be heavily skimming and reading research papers throughout the semester.
-
-### <font color="#4ECD59">RESEARCH PROJECT (50%)</font>
+### <font color="#4ECD59">RESEARCH PROJECT (40%)</font>
 Throughout the semester, students will **work in groups of three** on a research project of their choosing. To help facilitate ideas for projects, we will maintain an on-going, collaborative list from all students.
 
 **Project assessment (percentages listed below are out of the total course grade):**
@@ -95,7 +87,7 @@ Throughout the semester, students will **work in groups of three** on a research
 
 [Further details are listed here](project) and will be discussed in class.
 
-We will provide a few Best Project Awards. Students can cast a vote on their favorites. <span style="background-color: #FFFF00">These awards will be voted on by all students, and each student from an award-winning team will receive <b>extra points to one’s final course grade.</b></span>
+Although we don't grade your reading of research papers, you should be heavily skimming and reading research papers throughout the semester.
 
 ## RESOURCES
 
@@ -114,8 +106,10 @@ TAs will hold scheduled **Office Hours** throughout every week. The expectation 
 ## COURSE POLICIES
 ### COLLABORATION POLICY
 <span style="background-color: #FFFF00"><b>The homework assignments must be conducted individually.</b></span> However, no single student should feel alone in the course. So, we encourage you to talk with and discuss the assignments with your fellow classmates, but this must be at the _conceptual_ level. That is, <span style="background-color: #FFFF00">no student should ever see another student's solutions or code. Your code must be written exclusively by you. If you post or share your homework assignment online (even if it only contains the questions and not solutions), this violates our academic policy and you will be reported to the university. This includes posting your assignment on GitHub. Do not do this.</span> In other words, your homework assignment is a private copy that only you can see. If you're unsure if something is allowed, please speak with us first. Any violation to the above constitutes Academic Dishonesty and will be reported.
-  
-We discourage you from using publicly-available code online, as you'll learn more if you write your code from scratch. However, **if you find useful code online that you wish to use, that is perfectly fine, but you must cite it.**
+
+Students are not allowed to use Generative AI (e.g., ChatGPT, GPT4, etc) to assist in their homeworks. Evidence of such will constitute cheating.
+
+We also discourage you from using publicly-available code online (e.g., GitHub, blogs, etc), as you'll learn more if you write your code from scratch. However, **if you find useful code online that you wish to use, that is perfectly fine, but you must cite it.**
 
 As a reminder, if a student cheats, it is not only harmful to one's own education but it also impacts everyone else in the course -- as it creates an unfair environment and sacrifices the integrity of the entire course. For this reason, we actively check to ensure your code hasn't been plagiarized or posted online.
   
