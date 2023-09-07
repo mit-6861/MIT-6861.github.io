@@ -11,7 +11,7 @@ You will work in **groups of three or four** (some exceptions to group size will
 
 ## MOTIVATION
 We wish to provide students with not only a solid foundation of advanced concepts, but also the opportunity to conduct _research_ within the field of NLP. That is, students in this course will be expected to demonstrate:
-- a strong understanding of the course content, via **homework assignments and guest lecture write-ups**
+- a strong understanding of the course content, via **homework assignments and the mid-term exam**
 - the ability to craft real-world solutions to problems, via **homework assignments** that involve implementing models on actual data
 - knowledge of a particular NLP research problem; the ability to pose a related, interesting, unsolved research question; principled approaches that aim to answer the research question
 
@@ -37,12 +37,13 @@ It is incredibly fun to brainstorm and try out/implement clever ideas you may ha
 ### GOLD STANDARD
 The top NLP research conferences are:
 - ACL
-- NAACL (the North American version of ACL)
+- NAACL (the North American-located version of ACL)
+- EACL (the European-located version of ACL)
 - EMNLP
 - COLING
-- AAAI/ICLR/ICML (these concern AI/ML in general, but some NLP papers are accepted)
+- AAAI, ICLR, and ICML (these concern AI/ML in general, but some NLP papers are accepted)
 
-All published works from these conferences are made available to the public for free. Simply search for any year's "accepted papers" (e.g., `ACL 2022 accepted papers`). Again, the field moves incredibly fast, so papers' results/models from > 5 years tend to be significantly less relevant. However, it is important to be aware of the full history of the problem, including past approaches from > 5 years ago.
+All published works from these conferences are made available to the public for free. Simply search for any year's "accepted papers" (e.g., `ACL 2023 accepted papers`). Again, the field moves incredibly fast, so papers' results/models from > 5 years tend to be significantly less relevant. However, it is important to be aware of the full history of the problem, including past approaches from > 5 years ago.
 
 ## GUIDANCE
 In this course, we aim to provide as much structure and guidance as possible so as to help each student gain high-quality, directed (not aimless) experience with NLP research. Toward this, there are several milestones/assessments throughout the project **(percentages listed below are out of the total course grade):**
@@ -63,12 +64,12 @@ Identifying a well-scoped, important research problem is often difficult. To hel
 - The `Project Ideas` will facilitate finding project partners.
 - We, the teaching staff, will provide feedback throughout your project.
 
-Each project will be appointed a TA. We have 9 TAs, and 390 students initially registered in the course. Thus, each TA will oversee roughly 10-15 projects. It is impossible for the TAs to be a priori familiar with everyone's custom problem/project (e.g., the background literature). Instead, you can expect your TA to:
+Each project will be appointed a TA. We have 10 TAs, and 500 students initially registered in the course. Thus, each TA will oversee roughly a dozen projects. It is impossible for the TAs to be a priori familiar with everyone's custom problem/project (e.g., the background literature). Instead, you can expect your TA to:
 - help you decide if your identified problem is too grand and impossible, easy, inappropriate for research (e.g., too applied and is more of a software development project)
 - provide feedback on selecting a reasonable baseline model
 - offer suggestions and feedback during designated Office Hours and address any egregious issues mentioned in your self-/peer- evaluation forms.
 
-Further, the last homework assignment is due Oct 31 (Mon) @ 11:59pm EST, providing you with over a month of dedicated time to work exclusively on your research project.
+Further, the last homework assignment is due several weeks before the end of the semester, providing you with over a month of dedicated time to work exclusively on your research project.
 
 ### READING RESEARCH PAPERS
 Effectively and efficiently reading research papers is a learned skill. In short though, a common and useful approach is to consider reading each paper in three stages:
@@ -100,9 +101,9 @@ To be clear, your goal is to produce a paper that is **worthy of submitting to A
 You are also expected to include an Impact Statement and instructions on how to reproduce/run your code. Further details are in the **DELIVERABLES** section below.
 
 ### SUCCESSFUL EXAMPLES
-- Chris' Harvard version of this course last year had a few papers get accepted into ACL:
+- Chris' Harvard version of this course in 2021 had some student projects accepted into ACL:
   - [What GPT Knows About Who is Who](https://aclanthology.org/2022.insights-1.10/). This was a great project because it took the recent, powerful technique of Probing and applied it to a difficult core NLP problem, which hadn't yet been done before.
-  - [Automatic Fake News Detection: Are current models "fact-checking" or "gut-checking"?](https://aclanthology.org/2022.fever-1.4/). This was a great  project because it cleverly and critically inspected an aspect of a challenging NLP task that we tended to overlook and assume was correct.
+  - [Automatic Fake News Detection: Are current models "fact-checking" or "gut-checking"?](https://aclanthology.org/2022.fever-1.4/). This was a great project because it cleverly and critically inspected an aspect of a challenging NLP task that we tended to overlook and assume was correct.
 - [ACL 2021 Short Papers](https://2021.aclweb.org/calls/papers/#short-papers)
 - [NAACL 2021 long and short papers](https://2021.naacl.org/program/accepted/)
 - [EMNLP 2020 short papers](https://2020.emnlp.org/papers/main)
