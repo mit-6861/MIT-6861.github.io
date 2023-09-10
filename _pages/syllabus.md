@@ -58,7 +58,7 @@ Every class session will contain a lecture. Lectures will concern:
 - Lecture 23: Conclusion
 
 
-### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (40% + 1% EXTRA CREDIT FOR HW0)</font>
+### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (30%)</font>
 There will be three equally-weighted, **individual** homework assignments. See the Collaboration Policy below for details. **Students will have a total of three free late days to use throughout the semester without any penalty.** NOTE: valid excuses (e.g., medical excuses) do not count toward your three allotted “free” late days. <span style="background-color: #FFFF00">Any late days used beyond these three will result in a deduction of 10 points per day.</span>
 
 For example, let’s say a student has already used three free late days earlier in the semester, and then turned in another homework assignment one day late. If the graded homework received a 88%, then it will be reduced to a 78% due to being a day late. If that student had turned in the assignment two days late (meaning, a grand total of five late days used), then that particular assignment would have received a 68%, due to being two days late.
@@ -66,17 +66,17 @@ For example, let’s say a student has already used three free late days earlier
 If any particular homework assignment is **late beyond three unexcused days, it will not be accepted or graded.** The grade will be 0%.
 
 
-### <font color="#4ECD59">RESEARCH PROJECT (50%)</font>
+### <font color="#4ECD59">RESEARCH PROJECT (40%)</font>
 Throughout the semester, students will **work in groups of three** on a research project of their choosing. To help facilitate ideas for projects, we will maintain an on-going, collaborative list from all students.
 
 **Project assessment (percentages listed below are out of the total course grade):**
 - Phase 0: Individual Ideas (1%)
-- Phase 1: Proposal (9%)
+- Phase 1: Proposal (5%)
 - Phase 2: Related Work + Introduction (ungraded)
 - [OPTIONAL] Self-/peer- check-in (ungraded)
-- Phase 3: Paper Progress: Introduction + Related Work + Baseline Results (5%)
+- Phase 3: Paper Progress: Introduction + Related Work + Baseline Results (4%)
 - Phase 4: FINAL DELIVERABLES:
-  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (30%)
+  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (25%)
   - presentation of your slides (5%)
   - code (ungraded)
   - [OPTIONAL] Self-/peer- check-in
