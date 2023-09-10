@@ -28,7 +28,7 @@ By the end of the course, you will be able to:
 You will program using (a) **Python** and (b) **PyTorch**, extensively. If you are not already familiar with PyTorch, you will be expected to learn it on your own. We will also make use of Python libraries such as **NumPy** and **Scikits-learn**.
 
 ## COURSE STRUCTURE
-The main delivery of information will be via **Lectures**, which will occur every time class meets (aside from Research Project presentations). Your learning will be assessed via three <font color="#5B90E0"><b>homework assignments</b></font>, guest lecture write-ups, and a significant <font color="#4ECD59"><b>research project (in groups of 3-4 students)</b></font>. Your research project will require you to read/skim dozens of research papers on your own, based on your interests.
+The main delivery of information will be via **Lectures**, which will occur every time class meets (aside from Research Project presentations). Your learning will be assessed via three <font color="#5B90E0"><b>homework assignments</b></font>, a mid-term exam, and a significant <font color="#4ECD59"><b>research project (in groups of 3-4 students)</b></font>. Your research project will require you to read/skim dozens of research papers on your own, based on your interests.
 
 ### LECTURES
 Every class session will contain a lecture. Lectures will concern:
