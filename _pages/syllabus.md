@@ -35,27 +35,27 @@ Every class session will contain a lecture. Lectures will concern:
 
 - Lecture 1: Introduction + ML Basics (Logistics Regression; SGD)
 - Lecture 2: Text Classification (linear classifier; BoW; TFIDF)
-- Lecture 3: Word Representations (matrix factorization; word2vec)
-- Lecture 4: Language Modelling (MLP; RNN)
-- Lecture 5: Language Modelling (RNN; LSTMs) 
-- Lecture 6: Seq2seq + Attention (Machine Translation)
-- Lecture 7: Transformers (contextualized word representations; BERT) 
-- Lecture 8: LLM + Structured Models 1 (Hidden Markov Models) 
-- Lecture 9: Structured Models 2 (CRF)
-- Lecture 10: Doing Research
-- Lecture 11: Structured Models 3 (Trees)
-- Lecture 12: Structured Models 4 (Latent Variable Models)
-- Lecture 13: Speech (Part I) 
-- Lecture 14: Speech (Part II)
-- Lecture 15: Working Through an NLP Problem: Coreference
-- Lecture 16: Model Interpretability
+- Lecture 3: Word Representations (matrix factorization; word2vec) 
+- Lecture 4: Language Modelling (MLP; RNN) 
+- Lecture 5: Attention
+- Lecture 6: Transformers Part 1
+- Lecture 7: Transformers Part 2
+- Lecture 8: Large Language Models (LLMs) Part 1
+- Lecture 9: Large Language Models (LLMs) Part 2
+- Lecture 10: Structured Models: Hidden Markov Models (HMMs)
+- Lecture 11: Structured Models: Trees
+- Lecture 12: Structured Models: Conditional Random Fields (CRFs)
+- Lecture 13: Structured Models: Latent Variable Models
+- Lecture 14: Mid-term Review
+- Lecture 15: Doing Research
+- Lecture 16: NLP Engineering
 - Lecture 17: Guest lecture: Ethics and NLP
-- Lecture 18: Guest lecture: Human Language Processing
-- Lecture 19: Guest lecture: Language & Grounding
-- Lecture 20: Guest lecture: NLP in Finance
-- Lecture 21: Guest lecture: Clinical NLP
+- Lecture 18: Interpretability
+- Lecture 19: Guest Lecture: Speech
+- Lecture 20: Guest Lecture: Human Language Processing
+- Lecture 21: Guest Lecture: SERC Ethics
 - Lecture 22: Guest lecture: TBD
-- Lecture 23: Recap / Conclusion / Future of NLP
+- Lecture 23: Conclusion
 
 
 ### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (40% + 1% EXTRA CREDIT FOR HW0)</font>
