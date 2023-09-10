@@ -65,6 +65,8 @@ For example, let’s say a student has already used three free late days earlier
 
 If any particular homework assignment is **late beyond three unexcused days, it will not be accepted or graded.** The grade will be 0%.
 
+### <font color="#371F76">MID-TERM EXAM (30%)</font>
+The midterm is intended to assess students' knowledge of foundational content. It will be conducted in class (Oct 31) on paper, closed-book, and will include a combination of multiple-choice and free-response questions. The midterm will not ask students to write any code on paper. Further details will be presented closer to the exam date.
 
 ### <font color="#4ECD59">RESEARCH PROJECT (40%)</font>
 Throughout the semester, students will **work in groups of three** on a research project of their choosing. To help facilitate ideas for projects, we will maintain an on-going, collaborative list from all students.
