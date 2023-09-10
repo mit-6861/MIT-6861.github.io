@@ -75,9 +75,9 @@ How can computers understand and leverage text data and human language? Natural 
 - **Creating New Knowledge:** [Research Project](project): 40% (twelve weeks)
 
 ## QUICK ACCESS
-- [Canvas](https://canvas.mit.edu/courses/16573): homework assignments and course announcements
+- [Canvas](https://canvas.mit.edu/courses/22616): homework assignments and course announcements
 - [Project Ideas (coming soon)](): on-going spreadsheet to collaboratively find and create research projects
-- [Emergency Helpline](mailto:nlp-staff-fa22@mit.edu): for private concerns, issues, and questions (not course content) 
+- [Emergency Helpline](mailto:nlp-staff-fa23@mit.edu): for private concerns, issues, and questions (not course content) 
 - [Supplemental Resources](supplemental): a compilation of useful, external resources
 
 ## ENROLLMENT
