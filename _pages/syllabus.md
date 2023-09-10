@@ -58,7 +58,7 @@ Every class session will contain a lecture. Lectures will concern:
 - Lecture 23: Conclusion
 
 
-### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (30%)</font>
+### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (40% + 1% EXTRA CREDIT FOR HW0)</font>
 There will be three equally-weighted, **individual** homework assignments. See the Collaboration Policy below for details. **Students will have a total of three free late days to use throughout the semester without any penalty.** NOTE: valid excuses (e.g., medical excuses) do not count toward your three allotted “free” late days. <span style="background-color: #FFFF00">Any late days used beyond these three will result in a deduction of 10 points per day.</span>
 
 For example, let’s say a student has already used three free late days earlier in the semester, and then turned in another homework assignment one day late. If the graded homework received a 88%, then it will be reduced to a 78% due to being a day late. If that student had turned in the assignment two days late (meaning, a grand total of five late days used), then that particular assignment would have received a 68%, due to being two days late.
@@ -66,17 +66,30 @@ For example, let’s say a student has already used three free late days earlier
 If any particular homework assignment is **late beyond three unexcused days, it will not be accepted or graded.** The grade will be 0%.
 
 
-### <font color="#4ECD59">RESEARCH PROJECT (40%)</font>
-Throughout the semester, students will **work in groups of three or four** on a research project of their choosing. To help facilitate ideas for projects, we will maintain an on-going, collaborative list from all students.
+### <font color="#5B90E0">GUEST LECTURE WRITE-UPS (10% + EXTRA CREDIT)</font>
+We have an exciting line-up of 6 guest lectures for this iteration of the class! For each guest lecture, you will be asked to write up a couple of paragraphs on the guest lecture, in particular:
+- What you learned in the lecture
+- Any thoughts/questions you had for the speaker.
+
+Guest lecture attendance is required! Each reflection will count for 2% of the grade (2% extra credit).
+
+
+There is a writing assignment for 6 guest lectures, each of which will be worth 2%.
+
+<font color="#5B90E0"><b>RESEARCH PAPERS:</b></font>
+Although we don't grade your reading of research papers, you should be heavily skimming and reading research papers throughout the semester.
+
+### <font color="#4ECD59">RESEARCH PROJECT (50%)</font>
+Throughout the semester, students will **work in groups of three** on a research project of their choosing. To help facilitate ideas for projects, we will maintain an on-going, collaborative list from all students.
 
 **Project assessment (percentages listed below are out of the total course grade):**
 - Phase 0: Individual Ideas (1%)
-- Phase 1: Proposal (5%)
+- Phase 1: Proposal (9%)
 - Phase 2: Related Work + Introduction (ungraded)
 - [OPTIONAL] Self-/peer- check-in (ungraded)
-- Phase 3: Paper Progress: Introduction + Related Work + Baseline Results (4%)
+- Phase 3: Paper Progress: Introduction + Related Work + Baseline Results (5%)
 - Phase 4: FINAL DELIVERABLES:
-  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (25%)
+  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (30%)
   - presentation of your slides (5%)
   - code (ungraded)
   - [OPTIONAL] Self-/peer- check-in
@@ -88,10 +101,10 @@ We will provide a few Best Project Awards. Students can cast a vote on their fav
 ## RESOURCES
 
 **No textbook is required.**
-- [Canvas](https://canvas.mit.edu/courses/22616): homework assignments
-- [Piazza (accessible from Canvas)](https://canvas.mit.edu/courses/22616/external_tools/368): announcements, technical discussion, and clarifying questions
+- [Canvas](https://canvas.mit.edu/courses/16573): homework assignments
+- [Piazza (accessible from Canvas)](https://canvas.mit.edu/courses/16573/external_tools/368): technical discussion and clarifying questions
 - [Project Ideas (coming soon)](): on-going spreadsheet to collaboratively find and create research projects
-- [Emergency Helpline](mailto:nlp-staff-fa23@mit.edu): for private concerns, issues, and questions (not course-content related) 
+- [Emergency Helpline](mailto:nlp-staff-fa22@mit.edu): for private concerns, issues, and questions (not course-content related) 
 - [Supplemental Resources](supplemental): a compilation of useful, external resources
 
 ## HELP
@@ -104,8 +117,6 @@ TAs will hold scheduled **Office Hours** throughout every week. The expectation 
 <span style="background-color: #FFFF00"><b>The homework assignments must be conducted individually.</b></span> However, no single student should feel alone in the course. So, we encourage you to talk with and discuss the assignments with your fellow classmates, but this must be at the _conceptual_ level. That is, <span style="background-color: #FFFF00">no student should ever see another student's solutions or code. Your code must be written exclusively by you. If you post or share your homework assignment online (even if it only contains the questions and not solutions), this violates our academic policy and you will be reported to the university. This includes posting your assignment on GitHub. Do not do this.</span> In other words, your homework assignment is a private copy that only you can see. If you're unsure if something is allowed, please speak with us first. Any violation to the above constitutes Academic Dishonesty and will be reported.
   
 We discourage you from using publicly-available code online, as you'll learn more if you write your code from scratch. However, **if you find useful code online that you wish to use, that is perfectly fine, but you must cite it.**
-
-**We do not allow students to use Generative AI for their assignments (e.g., ChatGPT, Copilot, etc), and evidence of such constitutes violating our academic policy.**
 
 As a reminder, if a student cheats, it is not only harmful to one's own education but it also impacts everyone else in the course -- as it creates an unfair environment and sacrifices the integrity of the entire course. For this reason, we actively check to ensure your code hasn't been plagiarized or posted online.
   
