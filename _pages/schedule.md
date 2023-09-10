@@ -46,9 +46,9 @@ Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) fo
 - Lecture 17: Guest lecture: Ethics and NLP
 - Lecture 18: Interpretability
 - Lecture 19: Guest Lecture: Speech
-- Lecture 20: Guest Lecture: TBD
-- Lecture 21: Guest Lecture: TBD
-- Lecture 22: Guest lecture: Human Language Processing
+- Lecture 20: Guest Lecture: Human Language Processing
+- Lecture 21: Guest Lecture: SERC Ethics
+- Lecture 22: Guest lecture: TBD
 - Lecture 23: Conclusion
 
 
