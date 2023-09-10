@@ -11,7 +11,7 @@ We're very excited to have you in class this semester! Our aim is to make this c
 Note: all Harvard students who wish to take the course must enroll in **6.8610.**
 
 ### DESCRIPTION
-How can computers understand and leverage text data and human language? Natural language processing (NLP) addresses this question, and in this course students study both modern and classic approaches. We will mainly focus on statistical approaches to NLP, wherein we learn a probabilistic model based on natural language data. This course provides students with a foundation of advanced concepts and **requires students to conduct a significant research project on an NLP problem of their choosing,** culminating with a high-quality paper (5-8 pages). Assessment also includes (3) homework assignments and a mid-term exam. Our goal is to help challenge each student to elicit one's best, and along the way for the course to be one of the most fun and rewarding educational experiences.
+How can computers understand and leverage text data and human language? Natural language processing (NLP) addresses this question, and in this course students study both modern and classic approaches. We will mainly focus on statistical approaches to NLP, wherein we learn a probabilistic model based on natural language data. This course provides students with a foundation of advanced concepts and **requires students to conduct a significant research project on an NLP problem of their choosing,** culminating with a high-quality paper (5-8 pages). Assessment also includes (3) homework assignments and a mid-term exam. Our goal is to help challenge each student to elicit one's best, and along the way for the course to be one of your most fun and rewarding educational experiences.
 
 ## STAFF
 <p></p>
