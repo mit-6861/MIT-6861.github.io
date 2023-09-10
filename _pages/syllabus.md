@@ -105,7 +105,7 @@ TAs will hold scheduled **Office Hours** throughout every week. The expectation 
   
 We discourage you from using publicly-available code online, as you'll learn more if you write your code from scratch. However, **if you find useful code online that you wish to use, that is perfectly fine, but you must cite it.**
 
-**We do not allow students to use Generative AI for their assignments (e..g, ChatGPT, Copilot, etc), and evidence of such constitutes violating our academic policy.**
+**We do not allow students to use Generative AI for their assignments (e.g., ChatGPT, Copilot, etc), and evidence of such constitutes violating our academic policy.**
 
 As a reminder, if a student cheats, it is not only harmful to one's own education but it also impacts everyone else in the course -- as it creates an unfair environment and sacrifices the integrity of the entire course. For this reason, we actively check to ensure your code hasn't been plagiarized or posted online.
   
