@@ -66,19 +66,6 @@ For example, let’s say a student has already used three free late days earlier
 If any particular homework assignment is **late beyond three unexcused days, it will not be accepted or graded.** The grade will be 0%.
 
 
-### <font color="#5B90E0">GUEST LECTURE WRITE-UPS (10% + EXTRA CREDIT)</font>
-We have an exciting line-up of 6 guest lectures for this iteration of the class! For each guest lecture, you will be asked to write up a couple of paragraphs on the guest lecture, in particular:
-- What you learned in the lecture
-- Any thoughts/questions you had for the speaker.
-
-Guest lecture attendance is required! Each reflection will count for 2% of the grade (2% extra credit).
-
-
-There is a writing assignment for 6 guest lectures, each of which will be worth 2%.
-
-<font color="#5B90E0"><b>RESEARCH PAPERS:</b></font>
-Although we don't grade your reading of research papers, you should be heavily skimming and reading research papers throughout the semester.
-
 ### <font color="#4ECD59">RESEARCH PROJECT (50%)</font>
 Throughout the semester, students will **work in groups of three** on a research project of their choosing. To help facilitate ideas for projects, we will maintain an on-going, collaborative list from all students.
 
