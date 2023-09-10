@@ -20,43 +20,56 @@ How can computers understand and leverage text data and human language? Natural 
     <td><img src="{{ site.baseurl }}/images/yoon_cropped.png" width="100" alt="Yoon Kim"/></td>
     <td><img src="{{ site.baseurl }}/images/chris_cropped.png" width="100" alt="Chris Tanner"/></td>
     <td><img src="{{ site.baseurl }}/images/jacob_cropped.png" width="100" alt="Jacob Andreas"/></td>
-    <td><img src="{{ site.baseurl }}/images/michael_cropped.png" width="100" alt="Michael Kuoch"/></td>
-    <td><img src="{{ site.baseurl }}/images/moulin_cropped.png" width="100" alt="Moulin Kaspar"/></td>
+    <td><img src="{{ site.baseurl }}/images/thomas_cropped.png" width="100" alt="Thomas Pickering"/></td>
+    <td><img src="{{ site.baseurl }}/images/maune_cropped.png" width="100" alt="Michael Maune"/></td>
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://people.csail.mit.edu/yoonkim/">Yoon Kim</a> (Instructor)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.linkedin.com/in/chriswtanner/">Chris Tanner</a> (Instructor)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.mit.edu/~jda/">Jacob Andreas</a> (Instructor)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Michael Kuoch</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Moulin Kaspar</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Thomas Pickering</a> (WRAP)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Michael Maune</a> (WRAP)</td>
+
   </tr>
   <tr>
+    <td><img src="{{ site.baseurl }}/images/thorndike_cropped.png" width="100" alt="Rebecca Thorndike-Breeze"/></td>
+    <td><img src="{{ site.baseurl }}/images/schoenstein_cropped.png" width="100" alt="Juergen Schoenstein"/></td>
+    <td><img src="{{ site.baseurl }}/images/parsons_cropped.png" width="100" alt="Kate Parsons"/></td>
+    <td><img src="{{ site.baseurl }}/images/robinson_cropped.png" width="100" alt="Emily Robinson"/></td>
+    <td><img src="{{ site.baseurl }}/images/michael_cropped.png" width="100" alt="Michael Kuoch"/></td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Rebecca Thorndike-Breeze</a> (WRAP)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Juergen Schoenstein</a> (WRAP)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Kate Parsons</a> (WRAP)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Emily Robinson</a> (WRAP)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Michael Kuoch</a> (TA)</td>
+  </tr>
+  <tr>
+    <td><img src="{{ site.baseurl }}/images/moulin_cropped.png" width="100" alt="Moulin Kaspar"/></td>
     <td><img src="{{ site.baseurl }}/images/sashata_cropped.png" width="100" alt="Sashata Sawmya"/></td>
     <td><img src="{{ site.baseurl }}/images/cici_cropped.png" width="100" alt="Cici Xu"/></td>
     <td><img src="{{ site.baseurl }}/images/subha_cropped.png" width="100" alt="Subha Pushpita"/></td>
     <td><img src="{{ site.baseurl }}/images/yung-sung_cropped.png" width="100" alt="Yung-Sung Chuang"/></td>
-    <td><img src="{{ site.baseurl }}/images/karissa_cropped.png" width="100" alt="Karissa Sanchez"/></td>
   </tr>
   <tr>
+   <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Moulin Kaspar</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Sashata Sawmya</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Cici Xu</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Subha Pushpita</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Yung-Sung Chuang</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Karissa Sanchez</a> (TA)</td>
   </tr>
   <tr>
+    <td><img src="{{ site.baseurl }}/images/karissa_cropped.png" width="100" alt="Karissa Sanchez"/></td>
     <td><img src="{{ site.baseurl }}/images/aneesh_cropped.png" width="100" alt="Aneesh Gupta"/></td>
     <td><img src="{{ site.baseurl }}/images/athul_cropped.png" width="100" alt="Athul Jacob"/></td>
     <td><img src="{{ site.baseurl }}/images/belinda_cropped.png" width="100" alt="Belinda Li"/></td>
-    <td><img src="{{ site.baseurl }}/images/thomas_cropped.png" width="100" alt="Thomas Pickering"/></td>
-    <td><img src="{{ site.baseurl }}/images/michael_cropped.png" width="100" alt="Michael Maune"/></td>
   </tr>
   <tr>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Karissa Sanchez</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Aneesh Gupta</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Athul Jacob</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Belinda Li</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Thomas Pickering</a> (WRAP)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Michael Maune</a> (WRAP)</td>
   </tr>
 </table>
 
