@@ -88,10 +88,10 @@ We will provide a few Best Project Awards. Students can cast a vote on their fav
 ## RESOURCES
 
 **No textbook is required.**
-- [Canvas](https://canvas.mit.edu/courses/16573): homework assignments
-- [Piazza (accessible from Canvas)](https://canvas.mit.edu/courses/16573/external_tools/368): technical discussion and clarifying questions
+- [Canvas](https://canvas.mit.edu/courses/22616): homework assignments
+- [Piazza (accessible from Canvas)](https://canvas.mit.edu/courses/22616/external_tools/368): announcements, technical discussion, and clarifying questions
 - [Project Ideas (coming soon)](): on-going spreadsheet to collaboratively find and create research projects
-- [Emergency Helpline](mailto:nlp-staff-fa22@mit.edu): for private concerns, issues, and questions (not course-content related) 
+- [Emergency Helpline](mailto:nlp-staff-fa23@mit.edu): for private concerns, issues, and questions (not course-content related) 
 - [Supplemental Resources](supplemental): a compilation of useful, external resources
 
 ## HELP
@@ -104,6 +104,8 @@ TAs will hold scheduled **Office Hours** throughout every week. The expectation 
 <span style="background-color: #FFFF00"><b>The homework assignments must be conducted individually.</b></span> However, no single student should feel alone in the course. So, we encourage you to talk with and discuss the assignments with your fellow classmates, but this must be at the _conceptual_ level. That is, <span style="background-color: #FFFF00">no student should ever see another student's solutions or code. Your code must be written exclusively by you. If you post or share your homework assignment online (even if it only contains the questions and not solutions), this violates our academic policy and you will be reported to the university. This includes posting your assignment on GitHub. Do not do this.</span> In other words, your homework assignment is a private copy that only you can see. If you're unsure if something is allowed, please speak with us first. Any violation to the above constitutes Academic Dishonesty and will be reported.
   
 We discourage you from using publicly-available code online, as you'll learn more if you write your code from scratch. However, **if you find useful code online that you wish to use, that is perfectly fine, but you must cite it.**
+
+**We do not allow using Generative AI (e.g., ChatGPT, Copilot, etc). Evidence of such will voilate our academic pollicy.**
 
 As a reminder, if a student cheats, it is not only harmful to one's own education but it also impacts everyone else in the course -- as it creates an unfair environment and sacrifices the integrity of the entire course. For this reason, we actively check to ensure your code hasn't been plagiarized or posted online.
   
