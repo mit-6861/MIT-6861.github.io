@@ -24,9 +24,9 @@ How can computers understand and leverage text data and human language? Natural 
     <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Moulin Kaspar"/></td>
   </tr>
   <tr>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Yoon Kim</a> (Instructor)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://people.csail.mit.edu/yoonkim/">Yoon Kim</a> (Instructor)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.linkedin.com/in/chriswtanner/">Chris Tanner</a> (Instructor)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Jacob Andreas (Instructor)</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.mit.edu/~jda/">Jacob Andreas</a>(Instructor)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Michael Kuoch</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Moulin Kaspar</a> (TA)</td>
   </tr>
