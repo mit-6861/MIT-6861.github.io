@@ -79,8 +79,12 @@ How can computers understand and leverage text data and human language? Natural 
 - Lectures are in-person and will be recorded
 - Attendance and active participation is *highly encouraged* to facilitate an enriching learning environment for everyone
 
-### OFFICE HOURS
-- **Coming Soon**
+### OFFICE HOURS (we are waiting on rooms to be scheduled)
+- **Mondays:** 11am - 12:30pm and 4pm - 5:30pm
+- **Tuesdays:** 3pm - 4:30pm
+- **Wednesdays:** 3pm - 4:30pm
+- **Fridays:** 3pm - 4:30pm
+
 
 ### GRADING
 - **Foundation:** Mid-term exam: 30%
