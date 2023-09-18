@@ -80,10 +80,10 @@ How can computers understand and leverage text data and human language? Natural 
 - Attendance and active participation is *highly encouraged* to facilitate an enriching learning environment for everyone
 
 ### OFFICE HOURS (we are waiting on rooms to be scheduled)
-- **Mondays:** 11am - 12:30pm and 4pm - 5:30pm
-- **Tuesdays:** 3pm - 4:30pm
-- **Wednesdays:** 3pm - 4:30pm
-- **Fridays:** 3pm - 4:30pm
+- **Mondays:** 4pm - 5:30pm in 36-156
+- **Tuesdays:** 3pm - 4:30pm in 36-155
+- **Wednesdays:** 3pm - 4:30pm in 34-301
+- **Fridays:** 3pm - 4:30pm in 24-155
 
 
 ### GRADING
