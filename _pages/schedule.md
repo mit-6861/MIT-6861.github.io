@@ -23,7 +23,7 @@ Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) fo
 	- the last content-based lecture will be **Dec 5 (Tues)**
 	- we will <span style="background-color: #FACCCC">not have class on Oct 10 (Tues) and Nov 23 (Thurs)</span>, due to university breaks
 	- **Final Presentations** will be on **Dec 7 (Thurs) and Dec 12 (Tues)**
-- **Homeworks** will be released on **Tuesdays** and will be due two weeks later <span style="background-color: #FFFF00">(Mondays at 11:59pm EST).</span>
+- **Homeworks** are due <span style="background-color: #FFFF00">(Mondays at 11:59pm EST)</span> and you will have roughly 2 weeks to complete them.
 - **Research Projects** will span 12 weeks of the semester, with several deliverables due throughout
 
 ## LECTURES
