@@ -83,7 +83,7 @@ How can computers understand and leverage text data and human language? Natural 
 - **Mondays:** 4pm - 5:30pm in 36-156
 - **Tuesdays:** 3pm - 4:30pm in 36-155
 - **Wednesdays:** 3pm - 4:30pm in 34-301
-- **Fridays:** 3pm - 4:30pm in 24-155
+- **Fridays:** 3pm - 4:30pm in 24-115
 
 
 ### GRADING
