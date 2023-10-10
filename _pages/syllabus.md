@@ -84,7 +84,6 @@ Throughout the semester, students will **work in groups of three** on a research
 
 [Further details are listed here](project) and will be discussed in class.
 
-</span>
 
 ## RESOURCES
 
