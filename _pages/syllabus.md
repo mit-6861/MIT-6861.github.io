@@ -65,27 +65,26 @@ For example, let’s say a student has already used three free late days earlier
 
 If any particular homework assignment is **late beyond three unexcused days, it will not be accepted or graded.** The grade will be 0%.
 
-### <font color="#371F76">MID-TERM EXAM (30%)</font>
+### <font color="#371F76">MID-TERM EXAM (25%)</font>
 The midterm is intended to assess students' knowledge of foundational content. It will be conducted in class (Oct 31) on paper, closed-book, and will include a combination of multiple-choice and free-response questions. The midterm will not ask students to write any code on paper. Further details will be presented closer to the exam date.
 
-### <font color="#4ECD59">RESEARCH PROJECT (40%)</font>
+### <font color="#4ECD59">RESEARCH PROJECT (35%)</font>
 Throughout the semester, students will **work in groups of three** on a research project of their choosing. To help facilitate ideas for projects, we will maintain an on-going, collaborative list from all students.
 
 **Project assessment (percentages listed below are out of the total course grade):**
-- Phase 0: Individual Ideas (1%)
 - Phase 1: Proposal (5%)
 - Phase 2: Related Work + Introduction (ungraded)
 - [OPTIONAL] Self-/peer- check-in (ungraded)
-- Phase 3: Paper Progress: Introduction + Related Work + Baseline Results (4%)
+- Phase 3: Paper Progress Report (5%)
 - Phase 4: FINAL DELIVERABLES:
-  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (25%)
-  - presentation of your slides (5%)
+  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (15%)
+  - poster session (10%)
   - code (ungraded)
   - [OPTIONAL] Self-/peer- check-in
 
 [Further details are listed here](project) and will be discussed in class.
 
-We will provide a few Best Project Awards. Students can cast a vote on their favorites. <span style="background-color: #FFFF00">These awards will be voted on by all students, and each student from an award-winning team will receive <b>extra points to one’s final course grade.</b></span>
+</span>
 
 ## RESOURCES
 
