@@ -6,7 +6,7 @@ permalink: /project
 
 You will work in **groups of three or four** (some exceptions to group size will be permitted) on a custom research project of your choosing. The project will span 12 weeks of the semester and will result in:
 - a high-quality, conference-style paper (5-8 pages for groups of 3; 6-8 pages for groups of 4. This page limit does not include your required references and the Impact Statement)
-- a short presentation of your work; and
+- a poster presentation of your work; and
 - the associated code to reproduce all work
 
 ## MOTIVATION
@@ -47,15 +47,15 @@ All published works from these conferences are made available to the public for 
 
 ## GUIDANCE
 In this course, we aim to provide as much structure and guidance as possible so as to help each student gain high-quality, directed (not aimless) experience with NLP research. Toward this, there are several milestones/assessments throughout the project **(percentages listed below are out of the total course grade):**
-- Phase 0: Individual ideas due (1%)
-- Phase 1: Proposal (9%)
-- Phase 2: Introduction + Related Work
-- [OPTIONAL] Self-/peer- check-in
-- Phase 3: Paper Progress: Introduction + Related Work + Baseline Results (5%)
+
+- Phase 1: Proposal (10%)
+- Phase 2: Related Work + Introduction (ungraded)
+- [OPTIONAL] Self-/peer- check-in (ungraded)
+- Phase 3: Paper Progress Report (5%)
 - Phase 4: FINAL DELIVERABLES:
-  - research paper, plus your References and Impact Statement (30%)
-  - presentation of your slides (5%)
-  - Code with instructions on how to run it
+  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (20%)
+  - poster session (10%)
+  - code (ungraded)
   - [OPTIONAL] Self-/peer- check-in
 
 Identifying a well-scoped, important research problem is often difficult. To help with this:
@@ -119,21 +119,12 @@ NOTE: Research projects naturally evolve over time. So, if your project shifts g
   - "catch up" by re-submitting the previous phases
 - projects cannot change team members after Phase 1
 
-### PHASE 0: INDIVIDUAL IDEAS (1%)
-For this initial stage, each student is expected to generate an idea for a project. Full details will be provided in Canvas. In short, you need to succinctly list:
-- Your research question/project idea (~2 sentences)
-- Dataset(s) to be used (1 sentence)
-- Metrics to be used (1 sentence)
-- Ideas do you have for an initial approach or model (1-2 sentences)
-
-We will read through all of these ideas and help select the ones that are most well-framed and positioned for success. For example, we will filter out the ones that are too difficult or easy, along with ones that are inappropriate for any other reason.
-
 ### FORMING TEAMS (UNGRADED):
 - If you are enrolled in 6.8611 and thus taking the CIM portion of the course, you must select team members that attend your own CIM session. We will provide a spreadsheet to assist with this. For your project, your team must select (and optionally enhance) one of your team member's ideas that were selected from PHASE 0. 
 - If you are *not* enrolled in a CIM portion of the course (i.e., all 6.8610 students), then you are permitted to select non-CIM teammates. We will provide a spreadsheet to assist with this. For your project, your team must select (and optionally enhance) one of your team member's ideas that were selected from PHASE 0.
 - If you wish for us to help you select teammates, we will be happy to do so. Please rank as many of the projects as possible (via a Google Form that we will provide), and we will help find the optimal student-to-project assignment so as to reach the maximum, global happiness.
 
-### PHASE 1: PROPOSALS (9%)
+### PHASE 1: PROPOSALS (10%)
 With your newly-formed teams, you will refine your research project idea and write a 1-2 page proposal. Specifically, you must:
   - describes the problem in terms of why it's an important one (every published paper's abstract/intro accomplishes this. so, we're looking for something similar, not ground-breaking claims like how it will impact society)
   - lists a few (3-5) related papers and any commentary you may wish to include
@@ -158,8 +149,8 @@ You will start new sections describing your **Models** and **Experiments/Results
 
 We will grade your progress on Introduction, Related Works, and Models/Results.
 
-### PHASE 4: FINAL DELIVERABLES (35% IN TOTAL)
-#### 1. PAPER + IMPACT STATEMENT (30%)
+### PHASE 4: FINAL DELIVERABLES (30% IN TOTAL)
+#### 1. PAPER + IMPACT STATEMENT (20%)
 - Using the [ACL templates](https://www.overleaf.com/latex/templates/acl-rolling-review-template/jxbhdzhmcpdm), write a paper that is 5-8 pages (for groups of 3 students) or 6-8 pages (for groups of 4). This page limit excludes your required references and impact statement). To be clear, your references do not count toward the page limit.
 - Append your paper+references with an **Impact Statement** that details the possible ethical and societal ramifications of your project. The length should be at least 2 paragraphs. The [full expectations/details can be found here]().
 
@@ -177,17 +168,14 @@ You will be evaluated on:
 
 **Submission:** Upload your entire paper (`.PDF`) with references and the impact statement to Canvas.
 
-#### 2. PRESENTATION (5%)
-- Your team is required to make presentation slides (Google Slides or Powerpoint)
-- You are expected to watch presentations of your fellow classmates, too.
+#### 2. POSTER PRESENTATION (10%)
+- Your team is required to make a poster presentation
 
-You will be evaluated solely on:
-- the clarity and narrative of your slides
-- the clarity of your presentation
+You will be evaluated solely on the clarity and narrative of your poster
 
-That is, **your presentation grade will not include an evaluation of the technical aspects** of your project. That would be redundant.
+That is, **your poster grade will not include an evaluation of the technical aspects** of your project. That would be redundant, as it's already part of your paper's grade.
 
-**Submission:** Upload your slides to Canvas.
+**Submission:** Upload your Poster to Canvas.
 
 #### 3. CODE (0%)
 Make a `.zip` file that includes:
