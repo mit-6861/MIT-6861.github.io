@@ -68,16 +68,16 @@ If any particular homework assignment is **late beyond three unexcused days, it 
 ### <font color="#371F76">MID-TERM EXAM (25%)</font>
 The midterm is intended to assess students' knowledge of foundational content. It will be conducted in class (Oct 31) on paper, closed-book, and will include a combination of multiple-choice and free-response questions. The midterm will not ask students to write any code on paper. Further details will be presented closer to the exam date.
 
-### <font color="#4ECD59">RESEARCH PROJECT (35%)</font>
+### <font color="#4ECD59">RESEARCH PROJECT (45%)</font>
 Throughout the semester, students will **work in groups of three** on a research project of their choosing. To help facilitate ideas for projects, we will maintain an on-going, collaborative list from all students.
 
 **Project assessment (percentages listed below are out of the total course grade):**
-- Phase 1: Proposal (5%)
+- Phase 1: Proposal (10%)
 - Phase 2: Related Work + Introduction (ungraded)
 - [OPTIONAL] Self-/peer- check-in (ungraded)
 - Phase 3: Paper Progress Report (5%)
 - Phase 4: FINAL DELIVERABLES:
-  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (15%)
+  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (20%)
   - poster session (10%)
   - code (ungraded)
   - [OPTIONAL] Self-/peer- check-in
