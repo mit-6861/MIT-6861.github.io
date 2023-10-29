@@ -87,9 +87,9 @@ How can computers understand and leverage text data and human language? Natural 
 
 
 ### GRADING
-- **Foundation:** Mid-term exam: 30% (Oct 31)
+- **Foundation:** Mid-term exam: 25% (Oct 31)
 - **Foundation & Application:** Homework assignments: 30% (3 HWs, roughly two weeks for each)
-- **Creating New Knowledge:** [Research Project](project): 40% (twelve weeks)
+- **Creating New Knowledge:** [Research Project](project): 45% (twelve weeks)
 
 ## QUICK ACCESS
 - [Canvas](https://canvas.mit.edu/courses/22616): homework assignments and course announcements
