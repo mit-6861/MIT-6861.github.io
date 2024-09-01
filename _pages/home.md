@@ -11,7 +11,7 @@ We're very excited to have you in class this semester! Our aim is to make this c
 Note: all Harvard students who wish to take the course must enroll in **6.8610.**
 
 ### DESCRIPTION
-How can computers understand and leverage text data and human language? Natural language processing (NLP) addresses this question, and in this course students study both modern and classic approaches. We will mainly focus on statistical approaches to NLP, wherein we learn a probabilistic model based on natural language data. This course provides students with a foundation of advanced concepts and **requires students to conduct a significant research project on an NLP problem of their choosing,** culminating with a high-quality paper (5-8 pages). Assessment also includes (3) homework assignments, special topic responses, and a mid-term exam. Our goal is to help challenge each student to elicit one's best, and along the way for the course to be one of your most fun and rewarding educational experiences.
+How can computers understand and leverage text data and human language? Natural language processing (NLP) addresses this question, and in this course students study both modern and classic approaches. We will mainly focus on statistical approaches to NLP, wherein we learn a probabilistic model based on natural language data. This course provides students with a foundation of advanced concepts and **requires students to conduct a significant research project on an NLP problem of their choosing,** culminating with a high-quality paper (5-8 pages). Assessment also includes (3) homework assignments, special topic responses, and a midterm exam. Our goal is to help challenge each student to elicit one's best, and along the way for the course to be one of your most fun and rewarding educational experiences.
 
 ## STAFF
 <p></p>
@@ -21,7 +21,7 @@ How can computers understand and leverage text data and human language? Natural 
     <td><img src="{{ site.baseurl }}/images/chris_cropped.png" width="100" alt="Chris Tanner"/></td>
     <td><img src="{{ site.baseurl }}/images/thomas_cropped.png" width="100" alt="Thomas Pickering"/></td>
     <td><img src="{{ site.baseurl }}/images/maune_cropped.png" width="100" alt="Michael Maune"/></td>
-    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Taylor Braun"/></td>
+    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/missing_profile.png" width="100" alt="Taylor Braun"/></td>
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.mit.edu/~jda/">Jacob Andreas</a> (Instructor)</td>
@@ -32,8 +32,8 @@ How can computers understand and leverage text data and human language? Natural 
   </tr>
   <tr>
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/li_angela-modified.png" width="100" alt="Angela Li"/></td>
-    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Baile 'Peter' Chen"/></td>
-    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Chaitanya Ravuri"/></td>
+    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/missing_profile.png" width="100" alt="Baile 'Peter' Chen"/></td>
+    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/missing_profile.png" width="100" alt="Chaitanya Ravuri"/></td>
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/li_daniel-modified.png" width="100" alt="Daniel Li"/></td>
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/grand_gabe-modified.png" width="100" alt="Gabriel Grand"/></td>
   </tr>
@@ -59,8 +59,8 @@ How can computers understand and leverage text data and human language? Natural 
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Puja Balaji</a> (TA)</td>
   </tr>
   <tr>
-    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Ryan Welch"/></td>
-    <td><img src="{{ site.baseurl }}/images/robot_cropped.png" width="100" alt="Sarah Zhang"/></td>
+    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/missing_profile.png" width="100" alt="Ryan Welch"/></td>
+    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/missing_profile.png" width="100" alt="Sarah Zhang"/></td>
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Ryan Welch</a> (TA)</td>
@@ -78,7 +78,7 @@ How can computers understand and leverage text data and human language? Natural 
 - **TBD** 
 
 ### GRADING
-- **Foundation:** Mid-term exam: 20% (Nov 5)
+- **Foundation:** Midterm exam: 20% (Nov 5)
 - **Foundation & Application:** Homework assignments: 30% (3 HWs, roughly two weeks for each)
 - **Guest Lectures:** Special topic responses: 5%
 - **Creating New Knowledge:** [Research Project](project): 45% (twelve weeks)
