@@ -28,34 +28,35 @@ By the end of the course, you will be able to:
 You will program using (a) **Python** and (b) **PyTorch**, extensively. If you are not already familiar with PyTorch, you will be expected to learn it on your own. We will also make use of Python libraries such as **NumPy** and **Scikits-learn**.
 
 ## COURSE STRUCTURE
-The main delivery of information will be via **Lectures**, which will occur every time class meets (aside from Research Project presentations). Your learning will be assessed via three <font color="#5B90E0"><b>homework assignments</b></font>, a mid-term exam, and a significant <font color="#4ECD59"><b>research project (in groups of 3-4 students)</b></font>. Your research project will require you to read/skim dozens of research papers on your own, based on your interests.
+The main delivery of information will be via **Lectures**, which will occur every time class meets (aside from Research Project presentations). Your learning will be assessed via three <font color="#5B90E0"><b>homework assignments</b></font>, a midterm exam, and a significant <font color="#4ECD59"><b>research project (in groups of 3-4 students)</b></font>. Your research project will require you to read/skim dozens of research papers on your own, based on your interests.
 
 ### LECTURES
 Every class session will contain a lecture. Lectures will concern:
 
-- Lecture 1: Introduction + ML Basics (Logistics Regression; SGD)
-- Lecture 2: Text Classification (linear classifier; BoW; TFIDF)
-- Lecture 3: Word Representations (matrix factorization; word2vec) 
-- Lecture 4: Language Modelling (MLP; RNN) 
-- Lecture 5: Attention
-- Lecture 6: Transformers Part 1
-- Lecture 7: Transformers Part 2
-- Lecture 8: Large Language Models (LLMs) Part 1
-- Lecture 9: Large Language Models (LLMs) Part 2
-- Lecture 10: Structured Models: Hidden Markov Models (HMMs)
-- Lecture 11: Structured Models: Trees
-- Lecture 12: Structured Models: Conditional Random Fields (CRFs)
-- Lecture 13: Structured Models: Latent Variable Models
-- Lecture 14: Mid-term Review
-- Lecture 15: Doing Research
-- Lecture 16: NLP Engineering
-- Lecture 17: Guest lecture: Ethics and NLP
+- Lecture 1: Introduction + ML Basics
+- Lecture 2: Classification (linear models, neural nets)
+- Lecture 3: Sequence models 1 (ngrams, log-linear LMs, word2vec)
+- Lecture 4: Sequence models 2 (RNNs)
+- Lecture 5: Sequence models 3 (seq2seq + attention)
+- Lecture 6: Transformers
+- Lecture 7: Pretraining 1 (BERT and GPT)
+- Lecture 8: Pretraining 2 (SFT and RLHF)
+- Lecture 9: Efficient training (MoE, quantization, LoRA)
+- Lecture 10: Doing research
+- Lecture 11: Decoding 1 (prompting, CoT, and agents)
+- Lecture 12: Decoding 2 (search and sampling)
+- Lecture 13: Multimodality
+- Lecture 14: Midterm review
+- Lecture 15: Midterm
+- Lecture 16: Beyond transformers (SSMs, Mamba, ...)
+- Lecture 17: NLP Engineering
 - Lecture 18: Interpretability
 - Lecture 19: Guest Lecture: Speech
-- Lecture 20: Guest Lecture: Human Language Processing
-- Lecture 21: Guest Lecture: SERC Ethics
-- Lecture 22: Guest lecture: TBD
-- Lecture 23: Conclusion
+- Lecture 20: Struct pred
+- Lecture 21: Guest Lecture: Intellectual property (SERC)
+- Lecture 22: Bias & fairness
+- Lecture 23: Human language processing
+- Lecture 24: Conclusion
 
 
 ### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (30%)</font>
@@ -65,8 +66,11 @@ For example, let’s say a student has already used three free late days earlier
 
 If any particular homework assignment is **late beyond three unexcused days, it will not be accepted or graded.** The grade will be 0%.
 
-### <font color="#371F76">MID-TERM EXAM (25%)</font>
-The midterm is intended to assess students' knowledge of foundational content. It will be conducted in class (Oct 31) on paper, closed-book, and will include a combination of multiple-choice and free-response questions. The midterm will not ask students to write any code on paper. Further details will be presented closer to the exam date.
+### <font color="#934E7D">SPECIAL TOPIC RESPONSES (5%)</font>
+More details to come.
+
+### <font color="#371F76">MIDTERM EXAM (20%)</font>
+The midterm is intended to assess students' knowledge of foundational content. It will be conducted in class (Oct 29) on paper, closed-book, and will include a combination of multiple-choice and free-response questions. The midterm will not ask students to write any code on paper. Further details will be presented closer to the exam date.
 
 ### <font color="#4ECD59">RESEARCH PROJECT (45%)</font>
 Throughout the semester, students will **work in groups of three** on a research project of their choosing. To help facilitate ideas for projects, we will maintain an on-going, collaborative list from all students.
