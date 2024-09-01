@@ -17,14 +17,12 @@ How can computers understand and leverage text data and human language? Natural 
 <p></p>
 <table align="center" style="background-color:#FFFFFF" border="0px">
   <tr>
-    <td><img src="{{ site.baseurl }}/images/yoon_cropped.png" width="100" alt="Yoon Kim"/></td>
     <td><img src="{{ site.baseurl }}/images/jacob_cropped.png" width="100" alt="Jacob Andreas"/></td>
     <td><img src="{{ site.baseurl }}/images/chris_cropped.png" width="100" alt="Chris Tanner"/></td>
     <td><img src="{{ site.baseurl }}/images/thomas_cropped.png" width="100" alt="Thomas Pickering"/></td>
     <td><img src="{{ site.baseurl }}/images/maune_cropped.png" width="100" alt="Michael Maune"/></td>
   </tr>
   <tr>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://people.csail.mit.edu/yoonkim/">Yoon Kim</a> (Instructor)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.mit.edu/~jda/">Jacob Andreas</a> (Instructor)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.linkedin.com/in/chriswtanner/">Chris Tanner</a> (Instructor)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Thomas Pickering</a> (WRAP)</td>
@@ -80,11 +78,7 @@ How can computers understand and leverage text data and human language? Natural 
 - Attendance and active participation is *highly encouraged* to facilitate an enriching learning environment for everyone
 
 ### OFFICE HOURS
-- **Mondays:** 4pm - 5:30pm in 36-156
-- **Tuesdays:** 3pm - 4:30pm in 36-155
-- **Wednesdays:** 3pm - 4:30pm in 34-301
-- **Fridays:** 3pm - 4:30pm in 24-115
-
+- **TBD** 
 
 ### GRADING
 - **Foundation:** Mid-term exam: 25% (Oct 31)
@@ -98,7 +92,7 @@ How can computers understand and leverage text data and human language? Natural 
 - [Supplemental Resources](supplemental): a compilation of useful, external resources
 
 ## ENROLLMENT
-The demand for this course content is extremely high, and we're thrilled to see so many curious students! Over 500 students have registered for the course, so we are resource-constrained. To provide as smooth of an educational experience as possible, we strongly recommend that every enrolled student has a strong foundation in Machine Learning, and we will enforce having the sufficient pre-req courses.
+The demand for this course content is extremely high, and we're thrilled to see so many curious students! Over 400 students have registered for the course, so we are resource-constrained. To provide as smooth of an educational experience as possible, we strongly recommend that every enrolled student has a strong foundation in Machine Learning, and we will enforce having the sufficient pre-req courses.
 
 ### PREREQUISITES
 No prior NLP experience is expected or necessary, but students must have a basic foundation in probability and calculus, along with strong knowledge of Machine Learning. <span style="background-color: #FFFF00">See the [syllabus](syllabus) for more details, along with HW #0 (ungraded)</span> to assess if your current knowledge is aligned with the pre-req expectations -- you should be able to answer all of the questions without too much difficulty.

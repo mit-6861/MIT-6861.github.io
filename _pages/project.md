@@ -64,7 +64,7 @@ Identifying a well-scoped, important research problem is often difficult. To hel
 - The `Project Ideas` will facilitate finding project partners.
 - We, the teaching staff, will provide feedback throughout your project.
 
-Each project will be appointed a TA. We have 10 TAs, and 500 students initially registered in the course. Thus, each TA will oversee roughly 10-15 projects. It is impossible for the TAs to be a priori familiar with everyone's custom problem/project (e.g., the background literature). Instead, you can expect your TA to:
+Each project will be appointed a TA. We have 10 TAs, and over 400 students initially registered in the course. Thus, each TA will oversee roughly 10-15 projects. It is impossible for the TAs to be a priori familiar with everyone's custom problem/project (e.g., the background literature). Instead, you can expect your TA to:
 - help you decide if your identified problem is too grand and impossible, easy, inappropriate for research (e.g., too applied and is more of a software development project)
 - provide feedback on selecting a reasonable baseline model
 - offer suggestions and feedback during designated Office Hours and address any egregious issues mentioned in your self-/peer- evaluation forms.
