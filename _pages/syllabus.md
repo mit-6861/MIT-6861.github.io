@@ -76,13 +76,14 @@ The midterm is intended to assess students' knowledge of foundational content. I
 Throughout the semester, students will **work in groups of three** on a research project of their choosing. To help facilitate ideas for projects, we will maintain an on-going, collaborative list from all students.
 
 **Project assessment (percentages listed below are out of the total course grade):**
-- Phase 1: Proposal (10%)
+- Phase 1: Proposal (10%) **(due 10/10/2024)**
 - Phase 2: Related Work + Introduction (ungraded)
 - [OPTIONAL] Self-/peer- check-in (ungraded)
-- Phase 3: Paper Progress Report (5%)
+- Phase 3: Paper Progress Report (5%) **(due 11/12/2024)**
 - Phase 4: FINAL DELIVERABLES:
-  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (20%)
-  - poster session (10%)
+  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (20%) **(due 12/10/2024)**
+  - final poster **(uploaded by 12/5/2024)**
+  - poster session (10%) **(12/5/2024 and 12/10/2024)**
   - code (ungraded)
   - [OPTIONAL] Self-/peer- check-in
 
@@ -95,7 +96,7 @@ Throughout the semester, students will **work in groups of three** on a research
 - [Canvas](https://canvas.mit.edu/courses/22616): homework assignments
 - [Piazza (accessible from Canvas)](https://canvas.mit.edu/courses/22616/external_tools/368): announcements, technical discussion, and clarifying questions
 - [Project Ideas (coming soon)](): on-going spreadsheet to collaboratively find and create research projects
-- [Emergency Helpline](mailto:nlp-staff-fa23@mit.edu): for private concerns, issues, and questions (not course-content related) 
+- [Emergency Helpline](mailto:nlp-staff@mit.edu): for private concerns, issues, and questions (not course-content related) 
 - [Supplemental Resources](supplemental): a compilation of useful, external resources
 
 ## HELP

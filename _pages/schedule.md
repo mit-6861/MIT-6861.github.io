@@ -16,15 +16,20 @@ Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) fo
 - **Dec 16 (Mon) - Dec 20 (Fri)**: Exam Period (no classes)
 
 ## OUR CLASS
-- Lectures are on **Tuesdays** and **Thursdays** at 11am-12:30am in 32.123
-	- first lecture is on **Sept 5 (Thurs)**.
-	- earlier lectures will mostly concern representation and _Deep Learning models_
-	- later lectures will include guest lectures about particular _NLP Problems/Tasks_
-	- the last content-based lecture will be **Dec 3 (Tues)**
-	- we will <span style="background-color: #FACCCC">not have class on Oct 15 (Tues) and Nov 28 (Thurs)</span>, due to university breaks
+- **Lectures** are on **Tuesdays** and **Thursdays** at 11am-12:30am in 32.123
+	- First lecture is on **Sept 5 (Thurs)**
+	- Earlier lectures will mostly concern representation and _Deep Learning models_
+	- Later lectures will include guest lectures about particular _NLP Problems/Tasks_
+	- The last content-based lecture will be **Dec 3 (Tues)**
+	- We will not have class on **Oct 15 (Tues)** and **Nov 28 (Thurs)**, due to university breaks
 	- **Final Presentations** will be on **Dec 5 (Thurs) and Dec 10 (Tues)**
-- **Homeworks** are due <span style="background-color: #FFFF00">(Thursdays at 11:59pm EST)</span> and you will have roughly 2 weeks to complete them.
+- **Homeworks** are due **Thursdays at 11:59pm EST** and you will have roughly 2 weeks to complete them.
 - **Research Projects** will span 12 weeks of the semester, with several deliverables due throughout
+	- Project proposals are due on **Oct 10 (Thurs)**
+	- Project progress reports are due on **Nov 12 (Tues)**
+	- All posters must be uploaded on **Dec 5 (Thurs)**
+	- Poster sessions will take place on **Dec 5 (Thurs)** and **Dec 10 (Tues)**
+	- Final projects are due on **Dec 10 (Tues)**
 
 ## LECTURES
 - Lecture 1: Introduction + ML Basics

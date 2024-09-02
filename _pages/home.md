@@ -39,10 +39,10 @@ How can computers understand and leverage text data and human language? Natural 
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Angela Li</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Baile 'Peter' Chen</a> (Teaching Fellow)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Baile 'Peter' Chen</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Chaitanya Ravuri</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Daniel Li</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Gabriel Grand</a> (Teaching Fellow)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Gabriel Grand</a> (TA)</td>
   </tr>
   <tr>
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/mohiuddin_hassan-modified.png" width="100" alt="Hassan Mohiuddin"/></td>
@@ -55,7 +55,7 @@ How can computers understand and leverage text data and human language? Natural 
    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Hassan Mohiuddin</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Heidi Lei</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Michael Hadjiivanov</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Philip Schroeder</a> (Teaching Fellow)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Philip Schroeder</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Puja Balaji</a> (TA)</td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ How can computers understand and leverage text data and human language? Natural 
 ## LOGISTICS
 ### LECTURE
 - Tuesdays and Thursdays @ 11am - 12:30pm in 32.123 (may change locations, depending on enrollment)
-- Lectures are in-person and will be recorded
+- Lectures are in-person
 - Attendance and active participation is *highly encouraged* to facilitate an enriching learning environment for everyone
 
 ### OFFICE HOURS
@@ -86,7 +86,7 @@ How can computers understand and leverage text data and human language? Natural 
 ## QUICK ACCESS
 - [Canvas](https://canvas.mit.edu/courses/22616): homework assignments and course announcements
 - [Project Ideas (coming soon)](): on-going spreadsheet to collaboratively find and create research projects
-- [Emergency Helpline](mailto:nlp-staff-fa23@mit.edu): for private concerns, issues, and questions (not course content) 
+- [Emergency Helpline](mailto:nlp-staff@mit.edu): for private concerns, issues, and questions (not course content) 
 - [Supplemental Resources](supplemental): a compilation of useful, external resources
 
 ## ENROLLMENT
@@ -102,6 +102,3 @@ NLP is an incredibly fast-moving field! Fun fact, ChatGPT was released the day b
 - New guest lectures
 
 NOTE: Despite the immense capabilities of large language models (LLMs), this course will be strongly rooted in providing a foundation for NLP; that is, we will cover a wide range of modelling approaches that include LLMs and more.
-
-### COURSE NAME
-We acknowledge that "Quantitative Methods for NLP" may not be the most clear name. A more apt name would be "Advanced NLP".
