@@ -57,4 +57,14 @@ Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) fo
 - Lecture 23: Human language processing
 - Lecture 24: Conclusion
 
+## Quick Due Dates 
+- **9/19** HW1
+- **10/3** HW2
+- **10/10**	Project Proposal
+- **10/17** HW3 
+- **10/29** Midterm
+- **11/12** Project Progress Report
+- **12/5** Poster upload
+- **12/5 & 12/10** Poster sessions
+- **12/10** Final project
 
