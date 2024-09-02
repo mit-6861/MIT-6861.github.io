@@ -48,13 +48,13 @@ All published works from these conferences are made available to the public for 
 ## GUIDANCE
 In this course, we aim to provide as much structure and guidance as possible so as to help each student gain high-quality, directed (not aimless) experience with NLP research. Toward this, there are several milestones/assessments throughout the project **(percentages listed below are out of the total course grade):**
 
-- Phase 1: Proposal (10%)
+- Phase 1: Proposal (10%) **(due 10/10)**
 - Phase 2: Related Work + Introduction (ungraded)
 - [OPTIONAL] Self-/peer- check-in (ungraded)
-- Phase 3: Paper Progress Report (5%)
+- Phase 3: Paper Progress Report (5%) **(due 11/12)**
 - Phase 4: FINAL DELIVERABLES:
-  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (20%)
-  - poster session (10%)
+  - research paper (5-8 pages for groups of 3 students; 6-8 pages for groups of 4 students) (20%) **(due 12/10)**
+  - poster session (10%) **(12/5 and 12/10)**
   - code (ungraded)
   - [OPTIONAL] Self-/peer- check-in
 
