@@ -67,7 +67,7 @@ For example, let’s say a student has already used three free late days earlier
 If any particular homework assignment is **late beyond three unexcused days, it will not be accepted or graded.** The grade will be 0%.
 
 ### <font color="#934E7D">SPECIAL TOPIC RESPONSES (5%)</font>
-More details to come.
+Each student is expected to attend every guest lecture and submit a short write-up (maximum of 1-2 paragraphs) the mentions a few items you liked or learned from the talk, along with a few items you either had trouble understanding or would have liked to see differently from the talk. This should not be a surface-level summary of the talk, and this should be your own original words -- not that from a LLM.
 
 ### <font color="#371F76">MIDTERM EXAM (20%)</font>
 The midterm is intended to assess students' knowledge of foundational content. It will be conducted in class (Oct 29) on paper, closed-book, and will include a combination of multiple-choice and free-response questions. The midterm will not ask students to write any code on paper. Further details will be presented closer to the exam date.

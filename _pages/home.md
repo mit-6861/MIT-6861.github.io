@@ -18,7 +18,7 @@ How can computers understand and leverage text data and human language? Natural 
 <table align="center" style="background-color:#FFFFFF" border="0px">
   <tr>
     <td><img src="{{ site.baseurl }}/images/jacob_cropped.png" width="100" alt="Jacob Andreas"/></td>
-    <td><img src="{{ site.baseurl }}/images/chris_cropped.png" width="100" alt="Chris Tanner"/></td>
+    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/tanner_chris-modified.png" width="100" alt="Chris Tanner"/></td>
     <td><img src="{{ site.baseurl }}/images/thomas_cropped.png" width="100" alt="Thomas Pickering"/></td>
     <td><img src="{{ site.baseurl }}/images/maune_cropped.png" width="100" alt="Michael Maune"/></td>
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/missing_profile.png" width="100" alt="Taylor Braun"/></td>
@@ -32,8 +32,8 @@ How can computers understand and leverage text data and human language? Natural 
   </tr>
   <tr>
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/li_angela-modified.png" width="100" alt="Angela Li"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/missing_profile.png" width="100" alt="Baile 'Peter' Chen"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/missing_profile.png" width="100" alt="Chaitanya Ravuri"/></td>
+    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/chen_peter-modified.png" width="100" alt="Baile 'Peter' Chen"/></td>
+    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/ravuri_chaitanya-modified.png" width="100" alt="Chaitanya Ravuri"/></td>
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/li_daniel-modified.png" width="100" alt="Daniel Li"/></td>
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/grand_gabe-modified.png" width="100" alt="Gabriel Grand"/></td>
   </tr>
@@ -96,9 +96,6 @@ The demand for this course content is extremely high, and we're thrilled to see 
 No prior NLP experience is expected or necessary, but students must have a basic foundation in probability and calculus, along with strong knowledge of Machine Learning. <span style="background-color: #FFFF00">See the [syllabus](syllabus) for more details, along with HW #0 (ungraded)</span> to assess if your current knowledge is aligned with the pre-req expectations -- you should be able to answer all of the questions without too much difficulty.
 
 ### WHAT'S NEW?
-NLP is an incredibly fast-moving field! Fun fact, ChatGPT was released the day before our final lecture of the semester last year (Fall 2022). Since then, NLP and GenerativeAI has become a household name. Toward this, we have adjusted this semester's offering from last year's:
-- Different homework problems
-- Some new lecture content, and we've rearranged the overall narrative
-- New guest lectures
+NLP is an incredibly fast-moving field! Fun fact, ChatGPT was released the day before our final lecture of the semester in Fall 2022. Since then, NLP and GenerativeAI has become a household name. To showcase recent progress within NLP, we are introducing approximately three new lectures that span topics including: decoding (search and sampling), mixture-of-experts (MoE), quantization of transformers, state-space models such as Mamba. We'll also have a new guest lecture with insights about training LLMs in industry! Consequently, to make room for such, we are removing some of our content about structured predictions. e.g., Hidden Markov Models (HMMs) and Conditional Random Fields (CRFs).
 
 NOTE: Despite the immense capabilities of large language models (LLMs), this course will be strongly rooted in providing a foundation for NLP; that is, we will cover a wide range of modelling approaches that include LLMs and more.
