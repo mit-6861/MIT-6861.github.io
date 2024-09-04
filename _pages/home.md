@@ -21,7 +21,7 @@ How can computers understand and leverage text data and human language? Natural 
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/tanner_chris-modified.png" width="100" alt="Chris Tanner"/></td>
     <td><img src="{{ site.baseurl }}/images/thomas_cropped.png" width="100" alt="Thomas Pickering"/></td>
     <td><img src="{{ site.baseurl }}/images/maune_cropped.png" width="100" alt="Michael Maune"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/missing_profile.png" width="100" alt="Taylor Braun"/></td>
+    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/braun_taylor-modified" width="100" alt="Taylor Braun"/></td>
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.mit.edu/~jda/">Jacob Andreas</a> (Instructor)</td>
