@@ -38,7 +38,7 @@ How can computers understand and leverage text data and human language? Natural 
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/grand_gabe-modified.png" width="100" alt="Gabriel Grand"/></td>
   </tr>
   <tr>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Angela Li</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://angeli-13.github.io/">Angela Li</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Baile 'Peter' Chen</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Chaitanya Ravuri</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Daniel Li</a> (TA)</td>
