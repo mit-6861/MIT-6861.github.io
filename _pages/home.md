@@ -83,12 +83,6 @@ How can computers understand and leverage text data and human language? Natural 
 - **Guest Lectures:** Special topic responses: 5%
 - **Creating New Knowledge:** [Research Project](project): 45% (twelve weeks)
 
-## QUICK ACCESS
-- [Canvas](https://canvas.mit.edu/courses/22616): homework assignments and course announcements
-- [Project Ideas (coming soon)](): on-going spreadsheet to collaboratively find and create research projects
-- [Emergency Helpline](mailto:nlp-staff@mit.edu): for private concerns, issues, and questions (not course content) 
-- [Supplemental Resources](supplemental): a compilation of useful, external resources
-
 ## ENROLLMENT
 The demand for this course content is extremely high, and we're thrilled to see so many curious students! Over 400 students have registered for the course, so we are resource-constrained. To provide as smooth of an educational experience as possible, we strongly recommend that every enrolled student has a strong foundation in Machine Learning, and we will enforce having the sufficient pre-req courses.
 
@@ -99,3 +93,9 @@ No prior NLP experience is expected or necessary, but students must have a basic
 NLP is an incredibly fast-moving field! Fun fact, ChatGPT was released the day before our final lecture of the semester in Fall 2022. Since then, NLP and GenerativeAI has become a household name. To showcase recent progress within NLP, we are introducing approximately three new lectures that span topics including: decoding (search and sampling), mixture-of-experts (MoE), quantization of transformers, state-space models such as Mamba. We'll also have a new guest lecture with insights about training LLMs in industry! Consequently, to make room for such, we are removing some of our content about structured predictions. e.g., Hidden Markov Models (HMMs) and Conditional Random Fields (CRFs).
 
 NOTE: Despite the immense capabilities of large language models (LLMs), this course will be strongly rooted in providing a foundation for NLP; that is, we will cover a wide range of modelling approaches that include LLMs and more.
+
+## QUICK ACCESS
+- [Canvas](https://canvas.mit.edu/courses/22616): homework assignments and course announcements
+- [Project Ideas (coming soon)](): on-going spreadsheet to collaboratively find and create research projects
+- [Emergency Helpline](mailto:nlp-staff@mit.edu): for private concerns, issues, and questions (not course content) 
+- [Supplemental Resources](supplemental): a compilation of useful, external resources
