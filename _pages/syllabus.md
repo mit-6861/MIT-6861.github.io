@@ -93,8 +93,8 @@ Throughout the semester, students will **work in groups of three** on a research
 ## RESOURCES
 
 **No textbook is required.**
-- [Canvas](https://canvas.mit.edu/courses/22616): homework assignments
-- [Piazza (accessible from Canvas)](https://canvas.mit.edu/courses/22616/external_tools/368): announcements, technical discussion, and clarifying questions
+- [Canvas](https://canvas.mit.edu/courses/28237): homework assignments
+- [Piazza (accessible from Canvas)](https://piazza.com/class/m0fk6sp56jl7n7): announcements, technical discussion, and clarifying questions
 - [Project Ideas (coming soon)](): on-going spreadsheet to collaboratively find and create research projects
 - [Emergency Helpline](mailto:nlp-staff@mit.edu): for private concerns, issues, and questions (not course-content related) 
 - [Supplemental Resources](supplemental): a compilation of useful, external resources

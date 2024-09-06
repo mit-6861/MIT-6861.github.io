@@ -95,7 +95,7 @@ NLP is an incredibly fast-moving field! Fun fact, ChatGPT was released the day b
 NOTE: Despite the immense capabilities of large language models (LLMs), this course will be strongly rooted in providing a foundation for NLP; that is, we will cover a wide range of modelling approaches that include LLMs and more.
 
 ## QUICK ACCESS
-- [Canvas](https://canvas.mit.edu/courses/22616): homework assignments and course announcements
+- [Canvas](https://canvas.mit.edu/courses/28237): homework assignments and course announcements
 - [Project Ideas (coming soon)](): on-going spreadsheet to collaboratively find and create research projects
 - [Emergency Helpline](mailto:nlp-staff@mit.edu): for private concerns, issues, and questions (not course content) 
 - [Supplemental Resources](supplemental): a compilation of useful, external resources
