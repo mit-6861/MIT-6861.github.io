@@ -78,7 +78,7 @@ How can computers understand and leverage text data and human language? Natural 
 - **TBD** 
 
 ### GRADING
-- **Foundation:** Midterm exam: 20% (Nov 5)
+- **Foundation:** Midterm exam: 20% (Oct 29)
 - **Foundation & Application:** Homework assignments: 30% (3 HWs, roughly two weeks for each)
 - **Guest Lectures:** Special topic responses: 5%
 - **Creating New Knowledge:** [Research Project](project): 45% (twelve weeks)
