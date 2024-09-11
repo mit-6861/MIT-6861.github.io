@@ -102,7 +102,7 @@ Throughout the semester, students will **work in groups of three or four** on a 
 ## HELP
 Students are encouraged to regularly read and actively participate in **Piazza.** This is intended to be a shared learning environment for all students in the class. Do not post any code on the forum, though. **Doing so will violate our academic integrity policy.**
 
-TAs will hold scheduled **Office Hours** throughout every week. The expectation is that you’ve already thought about the content and have very specific questions. That is, the intent of Office Hours is not to simply repeat the same content again, but to help clarify your understanding by addressing issues you’re currently facing. The TAs may help you with your code, if you've demonstrated that you have already put forth significant effort and aren't relying on them. In an attempt to help as many students as I can in a timely fashion, I will not assist in code.
+TAs will hold scheduled **Office Hours** every week. The expectation is that you’ve already thought about the content and have very specific questions. That is, the intent of Office Hours is not to simply repeat the same content again, but to help clarify your understanding by addressing issues you’re currently facing. The TAs may help you with your code, if you've demonstrated that you have already put forth significant effort and aren't relying on them. In an attempt to help as many students as I can in a timely fashion, I will not assist in code.
 
 ## COURSE POLICIES
 ### COLLABORATION POLICY
