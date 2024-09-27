@@ -80,7 +80,6 @@ How can computers understand and leverage text data and human language? Natural 
 - **Tuesday 4:00 - 5:30** Room 26-322
 - **Wednesday 4:00 - 5:30** Room 36-144
 - **Thursday 4:00 - 5:30** Room 26-322
-- **Friday 4:00 - 5:30** Room 26-322
 
 ### GRADING
 - **Foundation:** Midterm exam: 20% (Oct 29)
