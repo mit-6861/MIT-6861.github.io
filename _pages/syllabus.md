@@ -113,6 +113,9 @@ We discourage you from using publicly-available code online, as you'll learn mor
 **We do not allow using Generative AI (e.g., ChatGPT, Copilot, etc). Evidence of such will voilate our academic pollicy.**
 
 As a reminder, if a student cheats, it is not only harmful to one's own education but it also impacts everyone else in the course -- as it creates an unfair environment and sacrifices the integrity of the entire course. For this reason, we actively check to ensure your code hasn't been plagiarized or posted online.
+
+### CI RECITATION ABSENSE POLICY
+Students are allowed two (2) absences for recitation. For each additional absence after the 2nd, a student may receive a 1% deduction of the communication portion of the student's Research Paper final draft grade. This deduction applies to individuals, not to groups. Instructors may excuse an absence if the student (1) attends a different recitation in the same week as the recitation they missed and notifies their recitation instructor and the instructor of the recitation they attended; OR, (2) makes arrangements with their recitation instructor to excuse the absence.
   
 ### ACADEMIC HONESTY
 Ethical behavior is an important trait of anyone who works in the fields of Computer Science, Machine Learning, Data Science, NLP -- from ethically handling data, to thinking of the ramifications of one’s models, to attribution of code and work of others. Thus, in this course, we place strong emphasis on Academic Honesty.
