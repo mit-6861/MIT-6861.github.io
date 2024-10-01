@@ -76,10 +76,18 @@ How can computers understand and leverage text data and human language? Natural 
 
 ### OFFICE HOURS
 ***(rooms starting 9/16 --- for OH on 9/11, 9/12, 9/13 please see Canvas announcement)***
-- **Monday 4:00 - 5:30** Room 26-204
-- **Tuesday 4:00 - 5:30** Room 26-322
-- **Wednesday 4:00 - 5:30** Room 36-144
-- **Thursday 4:00 - 5:30** Room 26-322
+- **Monday 4:00 - 5:30** Room 32-144
+- **Tuesday 4:00 - 5:30** Room 32-144* (except 9/24, 10/8, 11/19) or on Zoom (link on Canvas)
+- **Wednesday 4:00 - 5:30** Room 32-144
+- **Thursday 4:00 - 5:30** Room 32-144* (except 9/26, 11/14, 11/21)
+
+*some exceptions apply to Tuesdays/Thursday OH locations, please check the following graphics: 
+<table align="center" style="background-color:#FFFFFF" border="0px">
+  <tr>
+    <td><img src="{{ site.baseurl }}/images/2024-OH-locations/NLP-tuesday-OH.png" width="200" alt="Tuesday OH Locations"/></td>
+    <td><img src="{{ site.baseurl }}/images/2024-OH-locations/NLP-thursday-OH.png" width="200" alt="Thursday OH Locations"/></td>
+  </tr>
+</table>
 
 ### GRADING
 - **Foundation:** Midterm exam: 20% (Oct 29)
