@@ -84,8 +84,8 @@ How can computers understand and leverage text data and human language? Natural 
 *some exceptions apply to Tuesdays/Thursday OH locations, please check the following graphics: 
 <table align="center" style="background-color:#FFFFFF" border="0px">
   <tr>
-    <td><img src="{{ site.baseurl }}/images/2024-OH-locations/NLP-tuesday-OH.png" width="200" alt="Tuesday OH Locations"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-OH-locations/NLP-thursday-OH.png" width="200" alt="Thursday OH Locations"/></td>
+    <td><img src="{{ site.baseurl }}/images/2024-OH-locations/NLP-tuesday-OH.png" height="150" alt="Tuesday OH Locations"/></td>
+    <td><img src="{{ site.baseurl }}/images/2024-OH-locations/NLP-thursday-OH.png" height="150" alt="Thursday OH Locations"/></td>
   </tr>
 </table>
 
