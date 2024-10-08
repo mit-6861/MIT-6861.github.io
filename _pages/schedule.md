@@ -25,7 +25,7 @@ Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) fo
 	- **Final Presentations** will be on **Dec 5 (Thurs) and Dec 10 (Tues)**
 - **Homeworks** are due **Thursdays at 11:59pm EST** and you will have roughly 2 weeks to complete them.
 - **Research Projects** will span 12 weeks of the semester, with several deliverables due throughout
-	- Project proposals are due on **Oct 10 (Thurs)**
+	- Project proposals are due on **Oct 15 (Tues)**
 	- Project progress reports are due on **Nov 12 (Tues)**
 	- All posters must be uploaded on **Dec 5 (Thurs)**
 	- Poster sessions will take place on **Dec 5 (Thurs)** and **Dec 10 (Tues)**
@@ -60,7 +60,7 @@ Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) fo
 ## Quick Due Dates 
 - **9/19** HW1
 - **10/3** HW2
-- **10/10**	Project Proposal
+- **10/15**	Project Proposal
 - **10/17** HW3 
 - **10/29** Midterm
 - **11/12** Project Progress Report

@@ -76,7 +76,7 @@ The midterm is intended to assess students' knowledge of foundational content. I
 Throughout the semester, students will **work in groups of three or four** on a research project of their choosing. To help facilitate ideas for projects, we will maintain an on-going, collaborative list from all students.
 
 **Project assessment (percentages listed below are out of the total course grade):**
-- Phase 1: Proposal (10%) **(due 10/10/2024)**
+- Phase 1: Proposal (10%) **(due 10/15/2024)**
 - Phase 2: Related Work + Introduction (ungraded)
 - [OPTIONAL] Self-/peer- check-in (ungraded)
 - Phase 3: Paper Progress Report (5%) **(due 11/12/2024)**
