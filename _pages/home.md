@@ -48,21 +48,23 @@ How can computers understand and leverage text data and human language? Natural 
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/mohiuddin_hassan-modified.png" width="100" alt="Hassan Mohiuddin"/></td>
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/lei_heidi-modified.png" width="100" alt="Heidi Lei"/></td>
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/hadjjivanov_michael-modified.png" width="100" alt="Michael Hadjiivanov"/></td>
+    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/tsao_nicholas-modified.png" width="100" alt="Nicholas Tsao"/></td>
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/schroeder_philip-modified.png" width="100" alt="Philip Schroeder"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/balaji_puja-modified.png" width="100" alt="Puja Balaji"/></td>
   </tr>
   <tr>
    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Hassan Mohiuddin</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Heidi Lei</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Michael Hadjiivanov</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Nicholas Tsao</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Philip Schroeder</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Puja Balaji</a> (TA)</td>
   </tr>
   <tr>
+    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/balaji_puja-modified.png" width="100" alt="Puja Balaji"/></td>
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/welch_ryan-modified.png" width="100" alt="Ryan Welch"/></td>
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/zhang_sarah-modified.png" width="100" alt="Sarah Zhang"/></td>
   </tr>
   <tr>
+      <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Puja Balaji</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Ryan Welch</a> (TA)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Sarah Zhang</a> (TA)</td>
   </tr>
