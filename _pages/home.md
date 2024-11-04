@@ -80,7 +80,7 @@ How can computers understand and leverage text data and human language? Natural 
 - **Monday 4:00 - 5:30** - Room 32-144 
   - **TA Staff:** Puja, Angela
 - **Tuesday 4:00 - 5:30** - Room 32-144* (except 9/24, 10/8, 11/19) or on Zoom (link on Canvas)
-  - **TA Staff:** Gabe, Heidi, Peter, Sarah
+  - **TA Staff:** Gabe, Heidi, Peter, (Sarah on Zoom)
 - **Wednesday 4:00 - 5:30** - Room 32-144 
   - **TA Staff:** Philip, Chaitanya, Hassan, Michael
 - **Thursday 4:00 - 5:30** - Room 32-144* (except 9/26, 11/14, 11/21) 
