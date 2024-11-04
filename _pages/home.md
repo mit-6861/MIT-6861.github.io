@@ -77,7 +77,6 @@ How can computers understand and leverage text data and human language? Natural 
 - Attendance and active participation is *highly encouraged* to facilitate an enriching learning environment for everyone
 
 ### OFFICE HOURS
-***(rooms starting 9/16 --- for OH on 9/11, 9/12, 9/13 please see Canvas announcement)***
 - **Monday 4:00 - 5:30** - Room 32-144 
   - **TA Staff:** Puja, Angela
 - **Tuesday 4:00 - 5:30** - Room 32-144* (except 9/24, 10/8, 11/19) or on Zoom (link on Canvas)
