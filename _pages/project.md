@@ -151,7 +151,7 @@ We will grade your progress on Introduction, Related Works, and Models/Results.
 
 ### PHASE 4: FINAL DELIVERABLES (30% IN TOTAL)
 #### 1. PAPER + IMPACT STATEMENT (20%)
-- Using the [ACL templates](https://www.overleaf.com/latex/templates/acl-rolling-review-template/jxbhdzhmcpdm), write a paper that is 5-8 pages (for groups of 3 students) or 6-8 pages (for groups of 4). This page limit excludes your required references and impact statement). To be clear, your references do not count toward the page limit.
+- Using the [ACL templates](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj), write a paper that is 5-8 pages (for groups of 3 students) or 6-8 pages (for groups of 4). This page limit excludes your required references and impact statement). To be clear, your references do not count toward the page limit.
 - Append your paper+references with an **Impact Statement** that details the possible ethical and societal ramifications of your project. The length should be at least 2 paragraphs. The [full expectations/details can be found here]().
 
 You will be evaluated on:
