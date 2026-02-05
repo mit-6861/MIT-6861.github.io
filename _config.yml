@@ -16,7 +16,7 @@ avatar: /images/mit_logo_resized.png
 
 #
 # Flags below are optional
-# 
+#
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -99,6 +99,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - fall24
-  - archive_fall24.sh
-
