@@ -3,70 +3,165 @@ layout: page
 title: Schedule
 permalink: /schedule
 ---
-## Under construction, will be updated soon!
 
-## UNIVERSITY BREAKS AND IMPORTANT DATES
-Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) for the latest dates:
-- **Sept 4 (Wed)**: Semester begins
-- **Sept 13 (Fri)**: Last day for seniors and grad students to change H1 subjects to/from P/D/F
-- **Sept 20 (Fri)**: Student holiday (no classes)
-- **Oct 14 (Mon)**: Indigenous People's Day (no classes)
-- **Nov 11 (Mon)**: Veteran's Day (no classes)
-- **Nov 20 (Wed)**: Drop date. Last day to cancel full-term subjects.
-- **Nov 28 (Thurs) - Nov 29 (Fri)**: Thanksgiving Break
-- **Dec 11 (Wed)**: Last day of classes
-- **Dec 16 (Mon) - Dec 20 (Fri)**: Exam Period (no classes)
+<div style="overflow-x: auto;">
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+<thead>
+<tr style="background-color: #f5f5f5; border-bottom: 2px solid #ddd;">
+<th style="padding: 12px; text-align: left; font-weight: bold; width: 15%;">Date</th>
+<th style="padding: 12px; text-align: left; font-weight: bold; width: 60%;">Topic</th>
+<th style="padding: 12px; text-align: left; font-weight: bold; width: 25%;">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Tue, Feb 3</strong></td>
+<td style="padding: 10px;">Intro + Classical NLP refresher</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Thu, Feb 5</strong></td>
+<td style="padding: 10px;">Classical NLP / Word Representations</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Tue, Feb 10</strong></td>
+<td style="padding: 10px;">seq2seq and Attention</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Thu, Feb 12</strong></td>
+<td style="padding: 10px;">Transformers (MLM + decoder only)</td>
+<td style="padding: 10px;"><strong style="color: #d97706;">HW1 released</strong></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee; background-color: #f0f0f0;">
+<td style="padding: 10px;"><strong>Tue, Feb 17</strong></td>
+<td style="padding: 10px; font-style: italic;">[No class]</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Thu, Feb 19</strong></td>
+<td style="padding: 10px;">Evaluation and desiderata for modern LMs</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Tue, Feb 24</strong></td>
+<td style="padding: 10px;">Pretraining and Data Mixtures</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Thu, Feb 26</strong></td>
+<td style="padding: 10px;">Scaling Laws and Emergent Behavior</td>
+<td style="padding: 10px;"><strong style="color: #d97706;">HW1 due, HW2 released</strong></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Tue, Mar 3</strong></td>
+<td style="padding: 10px;">Reasoning models & post-training paradigms</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Thu, Mar 5</strong></td>
+<td style="padding: 10px;">Policy-gradient RL: REINFORCE, GRPO, PPO</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee; background-color: #e6f3ff;">
+<td style="padding: 10px;"><strong>Tue, Mar 10</strong></td>
+<td style="padding: 10px;"><strong>Quiz 1</strong></td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Thu, Mar 12</strong></td>
+<td style="padding: 10px;">Non-PG alignment algorithms: SLiC, DPO, KTO</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Tue, Mar 17</strong></td>
+<td style="padding: 10px;">Neural information retrieval</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Thu, Mar 19</strong></td>
+<td style="padding: 10px;">Inference scaling</td>
+<td style="padding: 10px;"><strong style="color: #d97706;">HW2 due, HW3 released</strong></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee; background-color: #f0f0f0;">
+<td style="padding: 10px;"><strong>Tue, Mar 24</strong></td>
+<td style="padding: 10px; font-style: italic;">[Spring break]</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee; background-color: #f0f0f0;">
+<td style="padding: 10px;"><strong>Thu, Mar 26</strong></td>
+<td style="padding: 10px; font-style: italic;">[Spring break]</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Tue, Mar 31</strong></td>
+<td style="padding: 10px;">RAG, agents & tool use</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Thu, Apr 2</strong></td>
+<td style="padding: 10px;">LM programming & prompt optimization</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Tue, Apr 7</strong></td>
+<td style="padding: 10px;">More than you ever wanted to know about tokenization</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Thu, Apr 9</strong></td>
+<td style="padding: 10px;">Advanced architectures (MoE, Linear RNNs)</td>
+<td style="padding: 10px;"><strong style="color: #d97706;">HW3 due</strong></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Tue, Apr 14</strong></td>
+<td style="padding: 10px;">Efficient training and deployment</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Thu, Apr 16</strong></td>
+<td style="padding: 10px;">Text diffusion</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee; background-color: #e6f3ff;">
+<td style="padding: 10px;"><strong>Tue, Apr 21</strong></td>
+<td style="padding: 10px;"><strong>Quiz 2</strong></td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Thu, Apr 23</strong></td>
+<td style="padding: 10px;">Science of LMs (training dynamics)</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Tue, Apr 28</strong></td>
+<td style="padding: 10px;">Safety</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Thu, Apr 30</strong></td>
+<td style="padding: 10px;">Interpretability</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 10px;"><strong>Tue, May 5</strong></td>
+<td style="padding: 10px;">Human-AI interaction</td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee; background-color: #e8f5e9;">
+<td style="padding: 10px;"><strong>Thu, May 7</strong></td>
+<td style="padding: 10px;"><strong>Poster session</strong></td>
+<td style="padding: 10px;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee; background-color: #e8f5e9;">
+<td style="padding: 10px;"><strong>Tue, May 12</strong></td>
+<td style="padding: 10px;"><strong>Poster session</strong></td>
+<td style="padding: 10px;"></td>
+</tr>
+</tbody>
+</table>
+</div>
 
-## OUR CLASS
-- **Lectures** are on **Tuesdays** and **Thursdays** at 11am-12:30am in 32.123
-	- First lecture is on **Sept 5 (Thurs)**
-	- Earlier lectures will mostly concern representation and _Deep Learning models_
-	- Later lectures will include guest lectures about particular _NLP Problems/Tasks_
-	- The last content-based lecture will be **Dec 3 (Tues)**
-	- We will not have class on **Oct 15 (Tues)** and **Nov 28 (Thurs)**, due to university breaks
-	- **Final Presentations** will be on **Dec 5 (Thurs) and Dec 10 (Tues)**
-- **Homeworks** are due **Thursdays at 11:59pm EST** and you will have roughly 2 weeks to complete them.
-- **Research Projects** will span 12 weeks of the semester, with several deliverables due throughout
-	- Project proposals are due on **Oct 15 (Tues)**
-	- Project progress reports are due on **Nov 12 (Tues)**
-	- All posters must be uploaded on **Dec 5 (Thurs)**
-	- Poster sessions will take place on **Dec 5 (Thurs)** and **Dec 10 (Tues)**
-	- Final projects are due on **Dec 10 (Tues)**
 
-## LECTURES
-- Lecture 1: Introduction + ML Basics
-- Lecture 2: Classification (linear models, neural nets)
-- Lecture 3: Sequence models 1 (ngrams, log-linear LMs, word2vec)
-- Lecture 4: Sequence models 2 (RNNs)
-- Lecture 5: Sequence models 3 (seq2seq + attention)
-- Lecture 6: Transformers
-- Lecture 7: Pretraining 1 (BERT and GPT)
-- Lecture 8: Pretraining 2 (SFT and RLHF)
-- Lecture 9: Efficient training (MoE, quantization, LoRA)
-- Lecture 10: Doing research
-- Lecture 11: Decoding 1 (prompting, CoT, and agents)
-- Lecture 12: Decoding 2 (search and sampling)
-- Lecture 13: Multimodality
-- Lecture 14: Midterm review
-- Lecture 15: Midterm
-- Lecture 16: Beyond transformers (SSMs, Mamba, ...)
-- Lecture 17: NLP Engineering
-- Lecture 18: Interpretability
-- Lecture 19: Guest Lecture: Speech
-- Lecture 20: Struct pred
-- Lecture 21: Guest Lecture: Intellectual property (SERC)
-- Lecture 22: Bias & fairness
-- Lecture 23: Human language processing
-- Lecture 24: Conclusion
-
-## Quick Due Dates 
-- **9/19** HW1
-- **10/3** HW2
-- **10/15**	Project Proposal
-- **10/17** HW3 
-- **10/29** Midterm
-- **11/12** Project Progress Report
-- **12/5** Poster upload
-- **12/5 & 12/10** Poster sessions
-- **12/10** Final project
 
