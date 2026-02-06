@@ -140,3 +140,6 @@ The general staff mailing list is nlp-staff@mit.edu. Please use this for all com
 - [Canvas](https://canvas.mit.edu/courses/37020): Lecture slides, homework assignments, and course announcements
 <!-- - [Project Ideas (coming soon)](): on-going spreadsheet to collaboratively find and create research projects -->
 - [General Staff Mailing List](mailto:nlp-staff@mit.edu): Use nlp-staff@mit.edu for all communication related to course logistics
+- [Course Notes](https://canvas.mit.edu/courses/37020/files/6141028?module_item_id=1520461): Updated throughout the semester
+- [Lecture Slides](https://canvas.mit.edu/courses/37020/files)
+- [Panopto](https://canvas.mit.edu/courses/37020/external_tools/594)
