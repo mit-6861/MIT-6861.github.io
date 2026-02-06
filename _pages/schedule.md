@@ -3,6 +3,8 @@ layout: page
 title: Schedule
 permalink: /schedule
 ---
+## Under construction, will be updated soon!
+
 ## UNIVERSITY BREAKS AND IMPORTANT DATES
 Please visit the [MIT Registrar Calendar](https://registrar.mit.edu/calendar) for the latest dates:
 - **Sept 4 (Wed)**: Semester begins
