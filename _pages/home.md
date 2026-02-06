@@ -32,7 +32,7 @@ By the end of the course, you will:
     <td style="width: 100px;"><img src="{{ site.baseurl }}/images/2024-TA-headshots/tanner_chris-modified.png" width="100" height="100" alt="Chris Tanner" style="max-width: 100px; min-width: 100px;"/></td>
     <td style="width: 100px;"><img src="{{ site.baseurl }}/images/omar_cropped.png" width="100" height="100" alt="Omar Khattab" style="max-width: 100px; min-width: 100px;"/></td>
     <td style="width: 100px;"><img src="{{ site.baseurl }}/images/2026-TA-headshots/clarise.png" width="100" height="100" alt="Clarise Han" style="max-width: 100px; min-width: 100px;"/></td>
-    <td style="width: 100px;"><img src="{{ site.baseurl }}/images/2026-TA-headshots/placeholder.png" width="100" height="100" alt="Joanna Kondylis" style="max-width: 100px; min-width: 100px;"/></td>
+    <td style="width: 100px;"><img src="{{ site.baseurl }}/images/2026-TA-headshots/joanna.png" width="100" height="100" alt="Joanna Kondylis" style="max-width: 100px; min-width: 100px;"/></td>
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.mit.edu/~jda/">Jacob Andreas</a> (Instructor)</td>
