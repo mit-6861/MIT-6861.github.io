@@ -5,7 +5,7 @@ permalink: /schedule
 ---
 
 <div style="overflow-x: auto;">
-<table style="width: 90%; max-width: 900px; border-collapse: collapse; margin: 20px auto;">
+<table style="width: 89%; max-width: 900px; border-collapse: collapse; margin: 20px auto;">
 <thead>
 <tr style="background-color: #f5f5f5; border-bottom: 2px solid #ddd;">
 <th style="padding: 12px; text-align: left; font-weight: bold; width: 25%;">Date</th>
