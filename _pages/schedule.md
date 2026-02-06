@@ -32,7 +32,7 @@ permalink: /schedule
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 10px;"><strong>Thu, Feb 12</strong></td>
 <td style="padding: 10px;">Transformers (MLM + decoder only)</td>
-<td style="padding: 10px;"><strong style="color: #d97706;">HW1 released</strong></td>
+<td style="padding: 10px;"><strong>HW1 released</strong></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee; background-color: #f0f0f0;">
 <td style="padding: 10px;"><strong>Tue, Feb 17</strong></td>
@@ -52,7 +52,7 @@ permalink: /schedule
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 10px;"><strong>Thu, Feb 26</strong></td>
 <td style="padding: 10px;">Scaling Laws and Emergent Behavior</td>
-<td style="padding: 10px;"><strong style="color: #d97706;">HW1 due, HW2 released</strong></td>
+<td style="padding: 10px;"><strong>HW1 due, HW2 released</strong></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 10px;"><strong>Tue, Mar 3</strong></td>
@@ -82,7 +82,7 @@ permalink: /schedule
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 10px;"><strong>Thu, Mar 19</strong></td>
 <td style="padding: 10px;">Inference scaling</td>
-<td style="padding: 10px;"><strong style="color: #d97706;">HW2 due, HW3 released</strong></td>
+<td style="padding: 10px;"><strong>HW2 due, HW3 released</strong></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee; background-color: #f0f0f0;">
 <td style="padding: 10px;"><strong>Tue, Mar 24</strong></td>
@@ -112,7 +112,7 @@ permalink: /schedule
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 10px;"><strong>Thu, Apr 9</strong></td>
 <td style="padding: 10px;">Advanced architectures (MoE, Linear RNNs)</td>
-<td style="padding: 10px;"><strong style="color: #d97706;">HW3 due</strong></td>
+<td style="padding: 10px;"><strong>HW3 due</strong></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 10px;"><strong>Tue, Apr 14</strong></td>
