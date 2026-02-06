@@ -4,14 +4,8 @@ title: Home
 permalink: /
 ---
 ## OVERVIEW
-We're very excited to have you in class this semester! Our aim is to make this course as inclusive, diversified, and open as possible, and we will offer an undergraduate and graduate version of the course:
-- **6.8611**: Undergraduate version (CI-M component required)
-- **6.8610**: Graduate version (no CI-M option)
 
-Note: all Harvard students who wish to take the course must enroll in **6.8610.**
-
-### DESCRIPTION
-How can computers understand and leverage text data and human language? Natural language processing (NLP) addresses this question, and in this course students study both modern and classic approaches. We will mainly focus on statistical approaches to NLP, wherein we learn a probabilistic model based on natural language data. This course provides students with a foundation of advanced concepts and **requires students to conduct a significant research project on an NLP problem of their choosing,** culminating with a high-quality paper (5-8 pages). Assessment also includes (3) homework assignments, special topic responses, and a midterm exam. Our goal is to help challenge each student to elicit one's best, and along the way for the course to be one of your most fun and rewarding educational experiences.
+The digital world is full of information, most of which is communicated in language (webpages, social media posts, news articles, long-format stories, etc). How can we use computers to understand and use this information to perform meaningful tasks? This course will provide you with the opportunity to learn the latest, advanced **machine learning** approaches to language processing. Further, a core component of the course will concern research, as you’ll produce an **original research project** while working in groups of 3-4 students.
 
 ## STAFF
 <p></p>
