@@ -1,3 +1,0 @@
-current directory: /Users/maggielin/Desktop/code/MIT-6861.github.io/vendor/bundle/ruby/4.0.0/gems/google-protobuf-4.33.4/ext/google/protobuf_c
-/opt/homebrew/opt/ruby/bin/ruby -rrubygems /Users/maggielin/Desktop/code/MIT-6861.github.io/vendor/bundle/ruby/4.0.0/gems/rake-13.3.1/exe/rake RUBYARCHDIR\=/Users/maggielin/Desktop/code/MIT-6861.github.io/vendor/bundle/ruby/4.0.0/extensions/arm64-darwin-23/4.0.0/google-protobuf-4.33.4 RUBYLIBDIR\=/Users/maggielin/Desktop/code/MIT-6861.github.io/vendor/bundle/ruby/4.0.0/extensions/arm64-darwin-23/4.0.0/google-protobuf-4.33.4
-Skipping build of FFI; `gem install ffi-compiler` to enable.
