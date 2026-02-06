@@ -5,11 +5,11 @@ permalink: /schedule
 ---
 
 <div style="overflow-x: auto;">
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+<table style="width: 90%; max-width: 900px; border-collapse: collapse; margin: 20px auto;">
 <thead>
 <tr style="background-color: #f5f5f5; border-bottom: 2px solid #ddd;">
-<th style="padding: 12px; text-align: left; font-weight: bold; width: 15%;">Date</th>
-<th style="padding: 12px; text-align: left; font-weight: bold; width: 60%;">Topic</th>
+<th style="padding: 12px; text-align: left; font-weight: bold; width: 25%;">Date</th>
+<th style="padding: 12px; text-align: left; font-weight: bold; width: 50%;">Topic</th>
 <th style="padding: 12px; text-align: left; font-weight: bold; width: 25%;">Notes</th>
 </tr>
 </thead>
