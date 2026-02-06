@@ -13,54 +13,30 @@ The digital world is full of information, most of which is communicated in langu
   <tr>
     <td><img src="{{ site.baseurl }}/images/jacob_cropped.png" width="100" alt="Jacob Andreas"/></td>
     <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/tanner_chris-modified.png" width="100" alt="Chris Tanner"/></td>
-    <td><img src="{{ site.baseurl }}/images/thomas_cropped.png" width="100" alt="Thomas Pickering"/></td>
-    <td><img src="{{ site.baseurl }}/images/maune_cropped.png" width="100" alt="Michael Maune"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/braun_taylor-modified.png" width="100" alt="Taylor Braun"/></td>
+    <td><img src="{{ site.baseurl }}/images/omar-cropped.png" width="100" alt="Omar Khattab"/></td>
+    <td><img src="{{ site.baseurl }}/images/2026-TA-headshots/placeholder.png" width="100" alt="Clarise Han"/></td>
+    <td><img src="{{ site.baseurl }}/images/2026-TA-headshots/placeholder.png" width="100" alt="Joanna Kondylis"/></td>
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.mit.edu/~jda/">Jacob Andreas</a> (Instructor)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.linkedin.com/in/chriswtanner/">Chris Tanner</a> (Instructor)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Thomas Pickering</a> (WRAP)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Michael Maune</a> (WRAP)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Taylor Braun</a> (Course Assistant)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://omarkhattab.com/">Omar Khattab</a> (Instructor)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Clarise Han</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Joanna Kondylis</a> (TA)</td>
   </tr>
   <tr>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/li_angela-modified.png" width="100" alt="Angela Li"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/chen_peter-modified.png" width="100" alt="Baile 'Peter' Chen"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/ravuri_chaitanya-modified.png" width="100" alt="Chaitanya Ravuri"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/li_daniel-modified.png" width="100" alt="Daniel Li"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/grand_gabe-modified.png" width="100" alt="Gabriel Grand"/></td>
+    <td><img src="{{ site.baseurl }}/images/2026-TA-headshots/maggie.png" width="100" alt="Maggie Lin"/></td>
+    <td><img src="{{ site.baseurl }}/images/2026-TA-headshots/linlu.png" width="100" alt="Linlu Qiu"/></td>
+    <td><img src="{{ site.baseurl }}/images/2026-TA-headshots/placeholder.png" width="100" alt="Alana Renda"/></td>
+    <td><img src="{{ site.baseurl }}/images/2026-TA-headshots/zekai.png" width="100" alt="Zekai Wang"/></td>
+    <td><img src="{{ site.baseurl }}/images/2026-TA-headshots/zhaofeng.png" width="100" alt="Zhaofeng Wu"/></td>
   </tr>
   <tr>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://angeli-13.github.io/">Angela Li</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Baile 'Peter' Chen</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Chaitanya Ravuri</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Daniel Li</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Gabriel Grand</a> (TA)</td>
-  </tr>
-  <tr>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/mohiuddin_hassan-modified.png" width="100" alt="Hassan Mohiuddin"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/lei_heidi-modified.png" width="100" alt="Heidi Lei"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/hadjjivanov_michael-modified.png" width="100" alt="Michael Hadjiivanov"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/tsao_nicholas-modified.png" width="100" alt="Nicholas Tsao"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/schroeder_philip-modified.png" width="100" alt="Philip Schroeder"/></td>
-  </tr>
-  <tr>
-   <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Hassan Mohiuddin</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Heidi Lei</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Michael Hadjiivanov</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Nicholas Tsao</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Philip Schroeder</a> (TA)</td>
-  </tr>
-  <tr>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/balaji_puja-modified.png" width="100" alt="Puja Balaji"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/welch_ryan-modified.png" width="100" alt="Ryan Welch"/></td>
-    <td><img src="{{ site.baseurl }}/images/2024-TA-headshots/zhang_sarah-modified.png" width="100" alt="Sarah Zhang"/></td>
-  </tr>
-  <tr>
-      <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Puja Balaji</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Ryan Welch</a> (TA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Sarah Zhang</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Maggie Lin</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Linlu Qiu</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Alana Renda</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Zekai Wang</a> (TA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="">Zhaofeng Wu</a> (TA)</td>
   </tr>
 </table>
 
