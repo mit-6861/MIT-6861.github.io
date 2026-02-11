@@ -104,8 +104,7 @@ The main delivery of information will be via lectures, which will occur every ti
 
 - **Research project (40% of grade)**: Throughout the semester, students will work in groups of three or four on a research project of their choosing. Students will present the final poster on May 7 or May 12. We'll provide support over the course of the semester for coming up with project ideas, and you'll have a number of project-related deliverables over the course of the semester:
     - An initial proposal (10% of your grade)
-    - A proposal peer review (5% of your grade)
-    - A final report (20% of your grade)
+    - A final report (25% of your grade)
     - A poster presentation (5% of your grade)
 
 ### GRADING
