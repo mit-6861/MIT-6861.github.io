@@ -57,7 +57,7 @@ permalink: /schedule
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 10px;"><strong>Tue, Mar 3</strong></td>
 <td style="padding: 10px;">Reasoning models & post-training paradigms</td>
-<td style="padding: 10px;"></td>
+<td style="padding: 10px;"><strong>Pre-proposal due</strong></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 10px;"><strong>Thu, Mar 5</strong></td>
@@ -82,7 +82,7 @@ permalink: /schedule
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 10px;"><strong>Thu, Mar 19</strong></td>
 <td style="padding: 10px;">Inference scaling</td>
-<td style="padding: 10px;"><strong>HW2 due, HW3 released</strong></td>
+<td style="padding: 10px;"><strong>HW2 due, Project proposal due, HW3 released</strong></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee; background-color: #f0f0f0;">
 <td style="padding: 10px;"><strong>Tue, Mar 24</strong></td>
@@ -157,7 +157,7 @@ permalink: /schedule
 <tr style="border-bottom: 1px solid #eee; background-color: #e8f5e9;">
 <td style="padding: 10px;"><strong>Tue, May 12</strong></td>
 <td style="padding: 10px;"><strong>Poster session</strong></td>
-<td style="padding: 10px;"></td>
+<td style="padding: 10px;"><strong>Final Report due</strong></td>
 </tr>
 </tbody>
 </table>

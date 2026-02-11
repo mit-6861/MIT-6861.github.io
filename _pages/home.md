@@ -70,7 +70,10 @@ By the end of the course, you will:
 - **HW1**: released Feb 12, due Feb 26
 - **HW2**: Released Feb 26, due Mar 19
 - **HW3**: released Mar 19, due Apr 9
+- **Pre-proposal**: due Mar 3
+- **Proposal**: due Mar 19
 - **Poster sessions**: May 7 and May 12
+- **Project report**: due May 12
 
 We will make exceptions (e.g. makeups) for official institute activities or excused illnesses / personal emergencies. We cannot grant exam accommodations for job interviews, personal travel, or conflicts with other classes.
 
@@ -103,7 +106,8 @@ The main delivery of information will be via lectures, which will occur every ti
 - **2 quizzes (30% of grade, 15% each)**: The quizzes are intended to assess students’ knowledge of foundational content. They will be conducted in class (Mar 10 and Apr 21) on paper, closed-book, and will include a combination of multiple-choice and free-response questions. The midterm will not ask students to write any code on paper. Further details will be presented closer to the exam date.
 
 - **Research project (40% of grade)**: Throughout the semester, students will work in groups of three or four on a research project of their choosing. Students will present the final poster on May 7 or May 12. We'll provide support over the course of the semester for coming up with project ideas, and you'll have a number of project-related deliverables over the course of the semester:
-    - An initial proposal (10% of your grade)
+    - A project pre-proposal (ungraded)
+    - A project proposal (10% of your grade)
     - A final report (25% of your grade)
     - A poster presentation (5% of your grade)
 
