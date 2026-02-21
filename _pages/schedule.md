@@ -61,7 +61,7 @@ permalink: /schedule
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 10px;"><strong>Thu, Mar 5</strong></td>
-<td style="padding: 10px;">Policy-gradient RL: REINFORCE, GRPO, PPO</td>
+<td style="padding: 10px;">Non-PG alignment algorithms: SLiC, DPO, KTO</td>
 <td style="padding: 10px;"></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee; background-color: #e6f3ff;">
@@ -71,7 +71,7 @@ permalink: /schedule
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 10px;"><strong>Thu, Mar 12</strong></td>
-<td style="padding: 10px;">Non-PG alignment algorithms: SLiC, DPO, KTO</td>
+<td style="padding: 10px;">Policy-gradient RL: REINFORCE, GRPO, PPO</td>
 <td style="padding: 10px;"></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
