@@ -81,7 +81,7 @@ permalink: /schedule
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 10px;"><strong>Thu, Mar 19</strong></td>
-<td style="padding: 10px;">Inference scaling</td>
+<td style="padding: 10px;">Retrieval-augmented generation</td>
 <td style="padding: 10px;"><strong>HW2 due, Project proposal due, HW3 released</strong></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee; background-color: #f0f0f0;">
@@ -96,7 +96,7 @@ permalink: /schedule
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 10px;"><strong>Tue, Mar 31</strong></td>
-<td style="padding: 10px;">RAG, agents & tool use</td>
+<td style="padding: 10px;">Agents & inference scaling</td>
 <td style="padding: 10px;"></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
